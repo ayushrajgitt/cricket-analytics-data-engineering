@@ -28,6 +28,10 @@ The dataset used in this project is sourced from **Cricsheet**:
 
 This raw JSON data is processed through a custom ETL pipeline to generate structured tables for analysis.
 
+---
+
+## 🏗️ Architecture
+
 
 ## 🏗️ Architecture
 
