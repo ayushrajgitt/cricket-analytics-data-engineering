@@ -32,9 +32,6 @@ This raw JSON data is processed through a custom ETL pipeline to generate struct
 
 ## 🏗️ Architecture
 
-
-## 🏗️ Architecture
-
 ```
 Raw Data (Cricsheet JSON)
         ↓
