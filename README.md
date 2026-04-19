@@ -18,6 +18,17 @@ It includes:
 
 ---
 
+## 📂 Data Source
+
+The dataset used in this project is sourced from **Cricsheet**:
+
+* 🌐 https://cricsheet.org
+* Provides **ball-by-ball cricket match data in JSON format**
+* Covers multiple formats including **ODI, T20I, Test, and major leagues (IPL, BBL, etc.)**
+
+This raw JSON data is processed through a custom ETL pipeline to generate structured tables for analysis.
+
+
 ## 🏗️ Architecture
 
 ```
