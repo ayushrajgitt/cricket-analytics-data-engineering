@@ -1,5 +1,7 @@
 # 🏏 Cricket Analytics — End-to-End Data Engineering Project
 
+### 🔹 CrickMetrics: A Cricket Data Analytics Dashboard
+
 > **Python ETL → MySQL → SQL Analytics → Jupyter → Streamlit Dashboard**
 
 ---
