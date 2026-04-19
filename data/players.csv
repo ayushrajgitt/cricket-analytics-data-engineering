@@ -1,0 +1,6030 @@
+player_id,player_name,primary_team
+1,A Ahmadhel,Bulgaria
+2,A Alexander,Indonesia
+3,A Amado,Israel
+4,A Andrews,Switzerland
+5,A Ashish Reddy,Deccan Chargers
+6,A Ashok,New Zealand
+7,A Ashokan,Czech Republic
+8,A Athanaze,West Indies
+9,A Augastin,Tanzania
+10,A Awasthi,Croatia
+11,A Ayre,Melbourne Renegades
+12,A Badoni,Lucknow Super Giants
+13,A Bagai,Canada
+14,A Balbirnie,Ireland
+15,A Beresford-Peirse,Croatia
+16,A Bhadauria,Luxembourg
+17,A Bhagwat,Hong Kong
+18,A Bhargava,Singapore
+19,A Bhattarai,Nepal
+20,A Bishnoi,Malta
+21,A Bohara,Nepal
+22,A Bramble,Guyana Amazon Warriors
+23,A Bulow,Denmark
+24,A Bushell,Guernsey
+25,A Busing-Volschenk,Namibia
+26,A Capsey,Delhi Capitals
+27,A Chandila,Rajasthan Royals
+28,A Chaubey,Croatia
+29,A Chaudhary,Singapore
+30,A Chenthamara,Kuwait
+31,A Chopra,India
+32,A Choudhary,Royal Challengers Bangalore
+33,A Codrington,Canada
+34,A Conteh,Gambia
+35,A Curavic,Croatia
+36,A Dananjaya,Sri Lanka
+37,A Davidson Soler,Spain
+38,A Daxini,Croatia
+39,A Denuwan,Italy
+40,A Desai,United States of America
+41,A Dhabe,Sweden
+42,A Dhar,Cayman Islands
+43,A Dhingra,Luxembourg
+44,A Dizija,Serbia
+45,A Djorovic,Serbia
+46,A Donovan,Philippines
+47,A Dowling,Bulgaria
+48,A Dutt,Netherlands
+49,A Faletar,Croatia
+50,A Ferguson,Argentina
+51,A Flintoff,England
+52,A Flower,Zimbabwe
+53,A Gardner,Gujarat Giants
+54,A Gasteratos,Greece
+55,A Gavde,Cayman Islands
+56,A Gbla,Sierra Leone
+57,A Gorawara,Hong Kong
+58,A Govorko,Croatia
+59,A Gulati,Bahamas
+60,A Gupta,Norway
+61,A Halbhavi,Luxembourg
+62,A Harris,Bahamas
+63,A Husain,Argentina
+64,A Ilaoa,Samoa
+65,A Johnmary,France
+66,A Johnson,Canada
+67,A Kadowaki Fleming,Japan
+68,A Kainessie,Sierra Leone
+69,A Kalasi,Thailand
+70,A Kamboj,India
+71,A Kansonkho,Malawi
+72,A Kapoor,Canada
+73,A Karn,Nepal
+74,A Kaul,Singapore
+75,A Khan,Denmark
+76,A Kheterpal,Hungary
+77,A King,UP Warriorz
+78,A Kirschbaum,Argentina
+79,A Krishna,Singapore
+80,A Kumble,Asia XI
+81,A Kuthalingham,Turks and Caicos Island
+82,A Langham,St Helena
+83,A Lazic,Serbia
+84,A Limdawala,Malawi
+85,A Lyth,England
+86,A Magdalenic,Croatia
+87,A Maheshwari,Croatia
+88,A Manatos,Greece
+89,A Manepalli,Luxembourg
+90,A Manohar,Gujarat Titans
+91,A Manousis,Greece
+92,A Mansale,Vanuatu
+93,A Maregwede,Zimbabwe
+94,A Martel,Guernsey
+95,A Martin,West Indies
+96,A McAuley,Isle of Man
+97,A McGrath,England
+98,A McKnight,Turks and Caicos Island
+99,A Mehmood,Hong Kong
+100,A Mene-Ejegi,Serbia
+101,A Mhatre,Chennai Super Kings
+102,A Mishra,India
+103,A Mithun,India
+104,A Modi,Singapore
+105,A Mongar,Bhutan
+106,A Morris,Cayman Islands
+107,A Mpeka,Rangpur Riders
+108,A Mucyodusenge,Rwanda
+109,A Mukund,India
+110,A Mundra,Sweden
+111,A Mustafa,Argentina
+112,A Mutreja,Singapore
+113,A Nagarajan,Qatar
+114,A Nanda,Luxembourg
+115,A Nao,Papua New Guinea
+116,A Nathwani,Austria
+117,A Natubhai Ahir,Panama
+118,A Ndlovu,Zimbabwe
+119,A Nehra,India
+120,A Neill,Scotland
+121,A Nel,South Africa
+122,A Nimaga,Mali
+123,A Nortje,South Africa
+124,A Orfila,Gibraltar
+125,A Osei,Ghana
+126,A Otwani,Uganda
+127,A Oxley,Belize
+128,A Parima,Cook Islands
+129,A Patel,Canada
+130,A Patmore,Japan
+131,A Paul,Estonia
+132,A Phillip,West Indies
+133,A Poulose,Oman
+134,A Prashar,Hungary
+135,A Pusthay,Finland
+136,A Raghuvanshi,Kolkata Knight Riders
+137,A Rajshekara,Romania
+138,A Randhawa,Austria
+139,A Rangaswamy,Botswana
+140,A Raza,Belgium
+141,A Razmilic,Croatia
+142,A Reddy,Delhi Capitals
+143,A Reyes,Gibraltar
+144,A Sarma,Germany
+145,A Sathyan,Croatia
+146,A Saud,Nepal
+147,A Sawyer,Gibraltar
+148,A Shahi,Cyprus
+149,A Shahzad,England
+150,A Shamshudeen,Canada
+151,A Sharafu,United Arab Emirates
+152,A Sharma,United Arab Emirates
+153,A Shreshta,Nigeria
+154,A Shukla,Hong Kong
+155,A Simelane,South Africa
+156,A Singh,Rajasthan Royals
+157,A Sokovagone,Fiji
+158,A Soni,Gujarat Giants
+159,A Sutherland,Gujarat Giants
+160,A Symonds,Australia
+161,A Tomar,Kolkata Knight Riders
+162,A Tripathi,Mexico
+163,A Trivedi,Luxembourg
+164,A Turay,Sierra Leone
+165,A Turkmen,Turkey
+166,A Uniyal,Rajasthan Royals
+167,A Vala,Papua New Guinea
+168,A Valthapa,United Arab Emirates
+169,A Venkatesh,Sweden
+170,A Wright,Cayman Islands
+171,A Yon,St Helena
+172,A Zampa,Australia
+173,A van der Merwe,Ireland
+174,AA Banner,Belize
+175,AA Bilakhia,Deccan Chargers
+176,AA Chavan,Rajasthan Royals
+177,AA Donald,South Africa
+178,AA Gajic,Serbia
+179,AA Hussein,Tanzania
+180,AA Jangoo,West Indies
+181,AA Jasani,Tanzania
+182,AA Jhunjhunwala,Rajasthan Royals
+183,AA Jimoh,Nigeria
+184,AA Kazi,Royal Challengers Bangalore
+185,AA Kulkarni,Lucknow Super Giants
+186,AA Mulla,Canada
+187,AA Navicha,Mozambique
+188,AA Noffke,Australia
+189,AA Obanda,Kenya
+190,AA Onikoyi,Nigeria
+191,AA Paradkar,United States of America
+192,AA Rahayu,Indonesia
+193,AA Senn,Cyprus
+194,AA Shafique,Oman
+195,AAA Patel,Lesotho
+196,AAH Bhikari,Suriname
+197,AAP Atkinson,England
+198,AAP Rivero,Argentina
+199,AAhan Achar,Singapore
+200,AB Agarkar,India
+201,AB Barath,West Indies
+202,AB Dinda,India
+203,AB Fudadin,West Indies
+204,AB Kamara,Sierra Leone
+205,AB Kaur,Mumbai Indians
+206,AB McDonald,Australia
+207,AB Mengoumou,Cameroon
+208,AB Sharma,Gujarat Giants
+209,AB de Villiers,South Africa
+210,AC Agar,Australia
+211,AC Blizzard,Mumbai Indians
+212,AC Botha,Ireland
+213,AC Cummins,Canada
+214,AC Dawson,South Africa
+215,AC Douglas,Bermuda
+216,AC Evans,Scotland
+217,AC Frame,Cyprus
+218,AC Gilchrist,Australia
+219,AC Jayangani,UP Warriorz
+220,AC Kerr,Mumbai Indians
+221,AC McDermott,Brisbane Heat
+222,AC Thomas,Pune Warriors
+223,AC Voges,Australia
+224,ACF Stokes,Guernsey
+225,ACL Richards,West Indies
+226,ACR Birch,Dhaka Dynamites
+227,AD Algar,Spain
+228,AD Dore,Bermuda
+229,AD Fofana,Mali
+230,AD Hales,England
+231,AD Mascarenhas,England
+232,AD Mathews,Sri Lanka
+233,AD Nath,Gujarat Lions
+234,AD Poynter,Ireland
+235,AD Russell,West Indies
+236,ADJ Pitcher,Bermuda
+237,ADL Stokoe,Isle of Man
+238,ADR Campbell,Zimbabwe
+239,ADS Fletcher,West Indies
+240,AE Isesele,Nigeria
+241,AE Jones,UP Warriorz
+242,AE Paraam,Singapore
+243,AF Buurman,Netherlands
+244,AF Giles,England
+245,AF Ifill,Cayman Islands
+246,AF Milne,New Zealand
+247,AF Sattaur,Canada
+248,AG Cremer,Zimbabwe
+249,AG Harriott,Melbourne Renegades
+250,AG Murtaza,Mumbai Indians
+251,AG Paunikar,Rajasthan Royals
+252,AG Prince,South Africa
+253,AG Puttick,South Africa
+254,AG Weligamage,Hungary
+255,AG Wharf,England
+256,AGR Loudon,England
+257,AGS Gous,United States of America
+258,AI Ross,Brisbane Heat
+259,AJ Ayannaike,Nigeria
+260,AJ Bichel,Australia
+261,AJ Blake,Dhaka Dominators
+262,AJ Burger,Namibia
+263,AJ Crosthwaite,Adelaide Strikers
+264,AJ Doolan,Australia
+265,AJ Finch,Australia
+266,AJ Hall,South Africa
+267,AJ Healy,UP Warriorz
+268,AJ Hose,Adelaide Strikers
+269,AJ Hosein,West Indies
+270,AJ Ireland,Zimbabwe
+271,AJ Jabiri,Tanzania
+272,AJ McKay,New Zealand
+273,AJ Michael,Samoa
+274,AJ Mosca,Italy
+275,AJ Nair,Sydney Thunder
+276,AJ Parmar,Norway
+277,AJ Redmond,New Zealand
+278,AJ Staal,Netherlands
+279,AJ Stewart,England
+280,AJ Strauss,England
+281,AJ Turner,Australia
+282,AJ Tye,Australia
+283,AJA Samuels,Cook Islands
+284,AK Gokoel,Suriname
+285,AK Heal,Melbourne Renegades
+286,AK Kitchen,New Zealand
+287,AK Mandal,Nepal
+288,AK Markram,South Africa
+289,AK Mohan,Finland
+290,AK Muslar,Belize
+291,AK Perera,Sri Lanka
+292,AK Roger,Ivory Coast
+293,AK Sah,Nepal
+294,AL Fekete,Sydney Thunder
+295,AL Kandappah,Canada
+296,AL Kerai,Sierra Leone
+297,AL Menaria,Rajasthan Royals
+298,AL Phehlukwayo,South Africa
+299,AL Stephen,Vanuatu
+300,AM Bacher,South Africa
+301,AM Blignaut,Zimbabwe
+302,AM Ellis,New Zealand
+303,AM Fernando,Sri Lanka
+304,AM Ghazanfar,Mumbai Indians
+305,AM Guruge,United Arab Emirates
+306,AM Hardie,Australia
+307,AM Kimote,Tanzania
+308,AM McCarthy,West Indies
+309,AM Nayar,India
+310,AM Oyede,Nigeria
+311,AM Patel,Panama
+312,AM Phangiso,South Africa
+313,AM Rahane,India
+314,AM Rajpurohit,Gambia
+315,AM Rossington,Karachi Kings
+316,AM Salvi,Delhi Daredevils
+317,AM Samad,Canada
+318,AM Tribe,Jersey
+319,AMA Dewar,Jamaica Tallawahs
+320,AN Ahmed,Mumbai Indians
+321,AN Aminou,Cameroon
+322,AN Cook,England
+323,AN Ghosh,Kolkata Knight Riders
+324,AN Hyobeom,South Korea
+325,AN Kervezee,Netherlands
+326,AN Lascu,Romania
+327,AN Petersen,South Africa
+328,AN Toube,Cameroon
+329,AO Suji,Kenya
+330,AP Devcich,New Zealand
+331,AP Dole,Rajasthan Royals
+332,AP Majumdar,Pune Warriors
+333,AP O'Connor,Sydney Thunder
+334,AP Rajeevan,Tanzania
+335,AP Richardson,Jamaica Tallawahs
+336,AP Tare,Delhi Daredevils
+337,AP Yadav,Thailand
+338,AQM Yako,South Africa
+339,AR Adams,New Zealand
+340,AR Balla,Cameroon
+341,AR Bawne,Delhi Daredevils
+342,AR Beadle,Sydney Thunder
+343,AR Berenger,United Arab Emirates
+344,AR Bisht,Oman
+345,AR Caddick,England
+346,AR Cusack,Ireland
+347,AR Gandhi,Kenya
+348,AR Keath,Melbourne Stars
+349,AR Leo,St Helena
+350,AR McBrine,Ireland
+351,AR Menon,Singapore
+352,AR Naidoo,Cayman Islands
+353,AR Nair,Bahamas
+354,AR Nedd,Guyana Amazon Warriors
+355,AR Nurse,West Indies
+356,AR Odedara,Oman
+357,AR Patel,India
+358,AR Patwa,Tanzania
+359,AR Perez Rivero,Argentina
+360,AR Pitcher,Bermuda
+361,AR Puri,Singapore
+362,AR Ramjani,Uganda
+363,AR White,Ireland
+364,ARA Chambers,Portugal
+365,ARH Patel,Costa Rica
+366,ARI Umeed,Scotland
+367,ARS Silva,Sri Lanka
+368,AS Abioye,Nigeria
+369,AS Dean,Canada
+370,AS Hansra,Canada
+371,AS Hundal,Canada
+372,AS Jaggernauth,West Indies
+373,AS Joseph,West Indies
+374,AS Luseno,Kenya
+375,AS Mehmi,Greece
+376,AS Nadkarni,United States of America
+377,AS Rajpoot,Kolkata Knight Riders
+378,AS Raut,Rajasthan Royals
+379,AS Roy,Mumbai Indians
+380,AS Samra,Philippines
+381,AS Wright,Guernsey
+382,AS Yadav,Deccan Chargers
+383,ASF Sirah,Philippines
+384,ASH Parsons,South Korea
+385,AT Carey,Australia
+386,AT Chuvale,Mozambique
+387,AT Nidamanuru,Netherlands
+388,AT Rayudu,India
+389,AU Rashid,England
+390,AUK Pathan,Royal Challengers Bangalore
+391,AUKDS Kalugala,Cyprus
+392,AV Lalcheta,Oman
+393,AV Lazarus,Thailand
+394,AW Hawkins-Kay,Jersey
+395,AW Mathieson,New Zealand
+396,AW O'Brien,Adelaide Strikers
+397,AW Robinson,Brisbane Heat
+398,AW Summers,Hobart Hurricanes
+399,AWJ Auguste,West Indies
+400,AY Karim,Kenya
+401,AY Patel,New Zealand
+402,AZ Lees,England
+403,AZ Shah,Fiji
+404,Aaditya Varadarajan,Canada
+405,Aaftab Alam Khan,Malta
+406,Aakash Chand,Nepal
+407,Aamer Azmat,Multan Sultans
+408,Aamer Ikram,Portugal
+409,Aamer Jamal,Pakistan
+410,Aamer Yamin,Pakistan
+411,Aamir Kaleem,Oman
+412,Aamir Lal,South Korea
+413,Aanand Pandey,Luxembourg
+414,Aarif Sheikh,Nepal
+415,Aarnav Patel,Kenya
+416,Aaron Jones,United States of America
+417,Aasif Sheikh,Nepal
+418,Aayan Afzal Khan,United Arab Emirates
+419,Abbas Afridi,Pakistan
+420,Abbas Ghani,Hungary
+421,Abdul Bangalzai,Quetta Gladiators
+422,Abdul Bashir,Germany
+423,Abdul Basith,Rajasthan Royals
+424,Abdul Gaffar Saqlain,Rajshahi Warriors
+425,Abdul Hashim,Denmark
+426,Abdul Jabbar,Canada
+427,Abdul Majid,Bahrain
+428,Abdul Majid Abbasi,Bahrain
+429,Abdul Makda,Panama
+430,Abdul Mazid,Khulna Titans
+431,Abdul Naser Baluch,Sweden
+432,Abdul Nasir,Quetta Gladiators
+433,Abdul Rahman,France
+434,Abdul Razzaq,Pakistan
+435,Abdul Salman Khan,Saudi Arabia
+436,Abdul Samad,Pakistan
+437,Abdul Shakoor,United Arab Emirates
+438,Abdul Shakoor (2),Romania
+439,Abdul Stanikzai,Germany
+440,Abdul Waheed,Saudi Arabia
+441,Abdul Wahid,Saudi Arabia
+442,Abdul-Shakoor Rahimzei,Germany
+443,Abdulla Bhoola,Panama
+444,Abdullah Akbarjan,Austria
+445,Abdullah Al Mamun,Dhaka Dominators
+446,Abdullah Fazal,Rawalpindiz
+447,Abdullah Jasat,Panama
+448,Abdullah Khan Lodhi,Turkey
+449,Abdullah Mahmood,Denmark
+450,Abdullah Mohd Yousaf,Bahrain
+451,Abdullah Rana,Switzerland
+452,Abdullah Shafique,Pakistan
+453,Abdullah Shahid,Maldives
+454,Abdullah Sheikh,Norway
+455,Abdullahi Ismail,Nigeria
+456,Abdulmalik Jabarkhel,France
+457,Abdur Rahman Sudais,Sweden
+458,Abdur Rauf,Pakistan
+459,Abdur Razzak,Bangladesh
+460,Abdur Rehman,Pakistan
+461,Abhijeet Ahuja,Hungary
+462,Abhilash Patil,Mexico
+463,Abhinandan Singh,Royal Challengers Bengaluru
+464,Abhishek Ahuja,Hungary
+465,Abhishek Anand,Japan
+466,Abhishek Sharma,India
+467,Abid Ali,Pakistan
+468,Abishek Porel,Delhi Capitals
+469,Abraar Khan,Lesotho
+470,Abraash Khan,Canada
+471,Abrar Ahmed,Pakistan
+472,Abrar Bilal,Austria
+473,Absar Khan,Denmark
+474,Abu Hasim,Noakhali Express
+475,Abu Hider,Bangladesh
+476,Abu Jayed,Bangladesh
+477,Abu Zar,Sweden
+478,Abubacarr Kuyateh,Gambia
+479,Abul Farhad,Czech Republic
+480,Abul Hasan,Bangladesh
+481,Acrey Hugo,Tanzania
+482,Adam Khalaf,Maldives
+483,Adam Senn,Cyprus
+484,Adeel Raja,Netherlands
+485,Adeel Tariq,Austria
+486,Adhitya Shetty,United Arab Emirates
+487,Adil Amin,Peshawar Zalmi
+488,Adil Butt,Saudi Arabia
+489,Adil Khan,Germany
+490,Aditya Panwar,Estonia
+491,Adnan Akmal,Pakistan
+492,Adnan Gondal,Portugal
+493,Adnan Idrees,Kuwait
+494,Adnan Ilyas,Oman
+495,Adnan Mirza,Qatar
+496,Adnan Mufti,United Arab Emirates
+497,Adnan Rasool,Lahore Qalandars
+498,Adnan Razzaq,Belgium
+499,Adnan Shnwarei,Norway
+500,Adnan Syed,Finland
+501,Adnan Tahir,Spain
+502,Afif Hossain,Bangladesh
+503,Afif Khattak,Switzerland
+504,Aftab Ahmed,Bangladesh
+505,Aftab Alam,Durbar Rajshahi
+506,Aftab Hussain,Hong Kong
+507,Aftab Ibrahim,Multan Sultans
+508,Aftab Kayani,Romania
+509,Afzaal Haider,Hong Kong
+510,Agha Salman,Pakistan
+511,Ahmad Khalid Ahmadzai,Belgium
+512,Ahmad Ramdoni,Indonesia
+513,Ahmad Raza,Saudi Arabia
+514,Ahmadi Ravat,Panama
+515,Ahmadschah Ahmadzai,Germany
+516,Ahmadullah Shinwari,Norway
+517,Ahmed Aqeel,Malaysia
+518,Ahmed Baladraf,Saudi Arabia
+519,Ahmed Daniyal,Pakistan
+520,Ahmed Faiz,Malaysia
+521,Ahmed Hassan,Maldives
+522,Ahmed Raid,Maldives
+523,Ahmed Raza,United Arab Emirates
+524,Ahmed Safi Abdullah,Islamabad United
+525,Ahmed Shehzad,Pakistan
+526,Ahmed Wardak,Germany
+527,Ahmer Bin Nisar,Bahrain
+528,Ahsan Abbasi,Hong Kong
+529,Ahsan Ali,Pakistan
+530,Ahsan Bhatti,Sylhet Strikers
+531,Ahsan Hafeez,Lahore Qalandars
+532,Ahsan Khan,Bulgaria
+533,Ahsan Malik,Netherlands
+534,Ahsan ul Haq,Kuwait
+535,Aijaz Ali,United States of America
+536,Aimal Khan,Quetta Gladiators
+537,Ainool Hafizs,Malaysia
+538,Ainool Haqqiem,Malaysia
+539,Aizaz Cheema,Pakistan
+540,Aizaz Khan,Hong Kong
+541,Ajaz Patel,Lesotho
+542,Ajhar Alam,Czech Republic
+543,Akash Babu,Qatar
+544,Akash Deep,India
+545,Akash Madhwal,Mumbai Indians
+546,Akash Singh,Rajasthan Royals
+547,Akbar Ali,Chattogram Challengers
+548,Akbar Khan,Hong Kong
+549,Akbar-ur-Rehman,Quetta Gladiators
+550,Akeem Jordan,West Indies
+551,Akhil Anil,Tanzania
+552,Akhil Arjunan,Finland
+553,Akhil Kumar,Canada
+554,Akif Javed,Pakistan
+555,Akif Raja,United Arab Emirates
+556,Akram Khan,Bangladesh
+557,Akramullah Malikzada,Hungary
+558,Aks Swadhin,Sylhet Sunrisers
+559,Akshay Homraj,United States of America
+560,Al Islam,Dhaka Dynamites
+561,Al Sahariar,Bangladesh
+562,Al-Amin,Comilla Victorians
+563,Al-Amin Hossain,Bangladesh
+564,Alam Nakash,South Korea
+565,Alauddin Babu,Dhaka Dynamites
+566,Alawi Shukri,United Arab Emirates
+567,Alex Carthew,Chile
+568,Alexandros Karvelas,Greece
+569,Alfredo Puentes,Chile
+570,Ali Abbas,Saudi Arabia
+571,Ali Abdulla Popalzae,Greece
+572,Ali Dawood,Bahrain
+573,Ali Farasat,Hungary
+574,Ali Hasan,Italy
+575,Ali Hussain,Romania
+576,Ali Ivan,Maldives
+577,Ali Khan,United States of America
+578,Ali Majid,Peshawar Zalmi
+579,Ali Masood,Estonia
+580,Ali Mohammadipour,Iran
+581,Ali Muaaz,Greece
+582,Ali Nadeem,Canada
+583,Ali Naqi,Portugal
+584,Ali Naseer,United Arab Emirates
+585,Ali Nawaz,Hungary
+586,Ali Nayyer,Switzerland
+587,Ali Rahmon,Nigeria
+588,Ali Rasool,Bulgaria
+589,Ali Raza,Estonia
+590,Ali Saleem,Norway
+591,Ali Shafiq,Multan Sultans
+592,Ali Sheikh,United States of America
+593,Ali Waqar,Czech Republic
+594,Ali Yalmaz,Hungary
+595,Ali Zaheer,Kuwait
+596,Alok Kapali,Bangladesh
+597,Altaf Gill,South Korea
+598,Amad Butt,Islamabad United
+599,Amal Jacob,Hungary
+600,Aman Ali,United Arab Emirates
+601,Aman Desai,Singapore
+602,Aman Hakim Khan,Kolkata Knight Riders
+603,Amandeep Singh,Portugal
+604,Amar Naeem,Austria
+605,Amar Sharma,Malta
+606,Ameel Mauroof,Maldives
+607,Ameer Saiyed,Botswana
+608,Aminuddin Ramly,Malaysia
+609,Aminul Islam,Bangladesh
+610,Aminul Islam Chowdhury,Cyprus
+611,Aminullah Tanha,Norway
+612,Amir Ali,Oman
+613,Amir Butt,Mexico
+614,Amir Farooq,Qatar
+615,Amir Hamza,Spain
+616,Amir Hayat,United Arab Emirates
+617,Amir Khan,Malaysia
+618,Amir Mangal,Germany
+619,Amir Shahzad,Saudi Arabia
+620,Amir Sharif,Italy
+621,Amir Zaib,Portugal
+622,Amit Kumar,Rangpur Riders
+623,Amit Uniyal,Chile
+624,Amjad Ali,United Arab Emirates
+625,Amjad Gul,United Arab Emirates
+626,Amjad Javed,United Arab Emirates
+627,Amjad Mahboob,Singapore
+628,Amjad Sher,Finland
+629,Ammad Uddin,Bahrain
+630,Ammar Khalid,Canada
+631,Ammar Zuhdi Hazalan,Malaysia
+632,Amoluk Singh,Ghana
+633,Anam Mollik,Italy
+634,Anamul Haque,Bangladesh
+635,Anand Rajan,Deccan Chargers
+636,Anas Khan,Hong Kong
+637,Anasim Khan,Bahrain
+638,Andre Jarju,Gambia
+639,Andrey Lilov,Bulgaria
+640,Anik Ahmed,Italy
+641,Aniket Verma,Sunrisers Hyderabad
+642,Anique Uddin,Denmark
+643,Anirudh Singh,Deccan Chargers
+644,Anjar Tadarus,Indonesia
+645,Ankit Dubey,Sweden
+646,Ankit Sharma,Rising Pune Supergiant
+647,Ankit Soni,Gujarat Lions
+648,Ankur Sharma,Hong Kong
+649,Ankush Singh,Mexico
+650,Anmoldeep Singh,Italy
+651,Anmolpreet Singh,Mumbai Indians
+652,Anoop Orsu,Luxembourg
+653,Anop Santosh,Canada
+654,Anowarul Islam,Thailand
+655,Ansar Iqbal,Norway
+656,Anser Mehmood,Switzerland
+657,Ansh Patel,Canada
+658,Ansh Tandon,United Arab Emirates
+659,Anshuman Rath,Hong Kong
+660,Anskumar Ahir,Panama
+661,Anthony Roe,Chile
+662,Anuj Rawat,Rajasthan Royals
+663,Anureet Singh,Kings XI Punjab
+664,Anwar Ali,Pakistan
+665,Anwar Arudin,Malaysia
+666,Anwar Hossain Monir,Bangladesh
+667,Anwar Rahman,Malaysia
+668,Aphsal Ashraf,Kuwait
+669,Apon Mustafizur,Serbia
+670,Aqib Ilyas,Oman
+671,Aqib Iqbal,Austria
+672,Aqif Farooq,Kuwait
+673,Arafat Minhas,Pakistan
+674,Arafat Sunny,Bangladesh
+675,Areeb Quadir,Finland
+676,Arif Ahmed,Khulna Tigers
+677,Arif Hosen,Timor-Leste
+678,Arif Nasir Uddin,Qatar
+679,Arif Ullah,Malaysia
+680,Arif Yaqoob,Peshawar Zalmi
+681,Ariful Haque,Bangladesh
+682,Ariful Islam,Sylhet Titans
+683,Arish Ali,Quetta Gladiators
+684,Aritra Bhakat,Sweden
+685,Aritra Dutta,Singapore
+686,Arjun Tendulkar,Mumbai Indians
+687,Arjun Vinod,Switzerland
+688,Arnav Manoj,Singapore
+689,Arsalan Ahmed,Greece
+690,Arsalan Arif,Austria
+691,Arsalan Qadir,Canada
+692,Arshad Ali,United Arab Emirates
+693,Arshad Iqbal,Pakistan
+694,Arshad Khan,Pakistan
+695,Arshad Khan (2),Lucknow Super Giants
+696,Arshad Mazarzei,Iran
+697,Arshdeep Singh,India
+698,Arslan Ahmed,Portugal
+699,Arslan Amjad,Estonia
+700,Arun Yadav,Tanzania
+701,Aryan Lakra,United Arab Emirates
+702,Asad Ali,Pakistan
+703,Asad Ali Rehemtulla,Bulgaria
+704,Asad Mahmood,Switzerland
+705,Asad Mohammad,Germany
+706,Asad Rasheed,Hong Kong
+707,Asad Shafiq,Pakistan
+708,Ashar Abbas,Costa Rica
+709,Ashar Zaidi,Islamabad United
+710,Ashfaq Ahmed,United Arab Emirates
+711,Ashiqullah Said,Belgium
+712,Ashiqur Zaman,Comilla Victorians
+713,Ashir Qureshi,Quetta Gladiators
+714,Ashish Bam,Cyprus
+715,Ashish Gupta,Indonesia
+716,Ashish Rana,Estonia
+717,Ashok Sharma,Gujarat Titans
+718,Ashraful Shuvo,Estonia
+719,Ashutosh Sharma,Punjab Kings
+720,Ashwani Kumar,Mumbai Indians
+721,Ashwani Kumari,Gujarat Giants
+722,Ashwin Vinod,Switzerland
+723,Asif Afridi,Pakistan
+724,Asif Ahmed,Khulna Royal Bengals
+725,Asif Ali,Pakistan
+726,Asif Bevinje,Romania
+727,Asif Hasan,Dhaka Dynamites
+728,Asif Iqbal,South Korea
+729,Asif Iqbal (1),United Arab Emirates
+730,Asif Javed,Bahrain
+731,Asif Khan,United Arab Emirates
+732,Asif Mehmood,Hyderabad Kingsmen
+733,Asif Shaikh,Bahrain
+734,Asim Ashraf,Gambia
+735,Asim Kamal,Pakistan
+736,Aslam Bera,Zambia
+737,Aslam Doria,Panama
+738,Aslam Khan,Malaysia
+739,Aslam Mohammad,Greece
+740,Aslan Jafri,Singapore
+741,Asrar Ahmed,Greece
+742,Assad Borham,Qatar
+743,Assad Mehmood,Portugal
+744,Aswad Khan,Bulgaria
+745,Ateeq Iqbal,Hong Kong
+746,Athar Mahmood,Islamabad United
+747,Atharva Taide,Punjab Kings
+748,Atif Kamal,Luxembourg
+749,Atif Mehmood,Spain
+750,Atif Rasheed,Finland
+751,Atif-Ur-Rehman,Saudi Arabia
+752,Aung Ko Ko,Myanmar
+753,Auqib Nabi,Delhi Capitals
+754,Avesh Khan,India
+755,Avi Dixit,Singapore
+756,Aviel Warsulkar,Israel
+757,Avishka Iroshan,Romania
+758,Awais Ahmad,Sweden
+759,Awais Ahmed,Spain
+760,Awais Ikram,Slovenia
+761,Awais Zia,Pakistan
+762,Ayan Khan,Oman
+763,Ayaz Dadabhai,Zambia
+764,Ayush Ummat,Estonia
+765,Ayyaz Qureshi,Slovenia
+766,Azam Khalil,Sweden
+767,Azam Khan,Pakistan
+768,Azeem Nazir,Switzerland
+769,Azhar Ali,Pakistan
+770,Azhar Andani,Portugal
+771,Azhar Mahmood,Pakistan
+772,Azim Patel,Lesotho
+773,Azin Rafeeg,Maldives
+774,Aziz Mohammad,Belgium
+775,Aziz Sualley,Ghana
+776,Azizul Hakim,Rangpur Riders
+777,Azmat Ali,Germany
+778,Azmatullah Omarzai,Gujarat Titans
+779,Azri Azhar,Malaysia
+780,Azyan Farhath,Maldives
+781,B Akhil,Royal Challengers Bangalore
+782,B Akhilesh Reddy,United States of America
+783,B Angeltti,Argentina
+784,B Arora,Malta
+785,B Balala,Malawi
+786,B Bhandari,Nepal
+787,B Casson,Australia
+788,B Chipli,Royal Challengers Bangalore
+789,B Doggett,Australia
+790,B Dugic,Serbia
+791,B Evans,Zimbabwe
+792,B Fernando,Sri Lanka
+793,B Fitchet,Guernsey
+794,B Geeves,Australia
+795,B George,Malta
+796,B Indrajith,Kolkata Knight Riders
+797,B Isaac,St Helena
+798,B Ito-Davis,Japan
+799,B Ivanov,Bulgaria
+800,B Jaye,Gambia
+801,B Jerkovic,Croatia
+802,B Kalki Kumar,Malta
+803,B Karki,Nepal
+804,B Keganne,Botswana
+805,B Kgosiemang,Botswana
+806,B Khumalo,Botswana
+807,B Kohler-Cadmore,Germany
+808,B Kumar,India
+809,B Laughlin,Australia
+810,B Lee,Australia
+811,B Leo,St Helena
+812,B Lewis,Belize
+813,B Mahesh,Cyprus
+814,B Maphosa,Botswana
+815,B Masaba,Uganda
+816,B Masauko,Malawi
+817,B Mavuta,Zimbabwe
+818,B Mejaro,Lesotho
+819,B Muzarabani,Zimbabwe
+820,B Namsrai,Mongolia
+821,B Niaz,Belgium
+822,B Nikitaras,Sydney Thunder
+823,B Passoni,Brazil
+824,B Pondani,Malawi
+825,B Regmi,Nepal
+826,B Sai Sudharsan,India
+827,B Schuster,Samoa
+828,B Sharki,Nepal
+829,B Shikongo,Namibia
+830,B Siddharth,Oman
+831,B Stanlake,Australia
+832,B Sumanth,Deccan Chargers
+833,B Terbish,Mongolia
+834,B Vakatini,Cook Islands
+835,B Ward,Jersey
+836,B Wentzel,Guernsey
+837,B White,Ireland
+838,B Williams,Sierra Leone
+839,B Yadav,Nepal
+840,B Zuiderent,Netherlands
+841,B van Zyl,Botswana
+842,BA Bhatt,Kings XI Punjab
+843,BA Carse,England
+844,BA King,West Indies
+845,BA Murphy,Zimbabwe
+846,BA Pai,Gibraltar
+847,BA Parchment,West Indies
+848,BA Sambo,Mozambique
+849,BA Simango,Mozambique
+850,BA Stokes,England
+851,BA Viraliliu,Vanuatu
+852,BA Westdijk,Netherlands
+853,BA Williams,Australia
+854,BAA Zammitt,Gibraltar
+855,BAC Howell,Melbourne Renegades
+856,BAD Manenti,Italy
+857,BAW Mendis,Sri Lanka
+858,BB Chari,Zimbabwe
+859,BB McCullum,New Zealand
+860,BB Samantray,Deccan Chargers
+861,BB Seebaran,Canada
+862,BB Sran,India
+863,BBJL Perera,Italy
+864,BC Fortuin,South Africa
+865,BC Lara,West Indies
+866,BC Sahin,Turkey
+867,BCJ Cutting,Australia
+868,BD Glover,Netherlands
+869,BD Guest,Comilla Victorians
+870,BD Macdonald,Melbourne Stars
+871,BDH Stevens,Jersey
+872,BE Fletcher,Netherlands
+873,BE Hendricks,South Africa
+874,BE Johnson,Guernsey
+875,BE McGain,Australia
+876,BE Young,Adelaide Strikers
+877,BF Calitz,Ireland
+878,BF Mailata,Samoa
+879,BFW de Leede,Netherlands
+880,BG Drew,Adelaide Strikers
+881,BG Lister,New Zealand
+882,BG McDonald,Melbourne Renegades
+883,BG Rogers,Zimbabwe
+884,BI Dilruksha,South Korea
+885,BJ Arnel,New Zealand
+886,BJ Bennett,Zimbabwe
+887,BJ Bess,West Indies
+888,BJ Curran,Zimbabwe
+889,BJ Currie,Scotland
+890,BJ Davidson,Serbia
+891,BJ Diamanti,New Zealand
+892,BJ Dwarshuis,Australia
+893,BJ Haddin,Australia
+894,BJ Hodge,Australia
+895,BJ Holt,Sydney Thunder
+896,BJ Jacobs,New Zealand
+897,BJ McCarthy,Ireland
+898,BJ McMullen,Scotland
+899,BJ Patel,Kenya
+900,BJ Rohrer,Australia
+901,BJ Stepien,Melbourne Renegades
+902,BJ Watling,New Zealand
+903,BJ Webster,Australia
+904,BK Majji,Ghana
+905,BK Stroud,St Helena
+906,BKB Corbin,Cayman Islands
+907,BKEL Milantha,Chittagong Kings
+908,BKG Mendis,Sri Lanka
+909,BL Couch,Melbourne Stars
+910,BL Kotze,Namibia
+911,BL Mooney,Gujarat Giants
+912,BLCS Kumara,Cyprus
+913,BM Dlamini,Eswatini
+914,BM Duckett,England
+915,BM Edmondson,Perth Scorchers
+916,BM Pecic,Serbia
+917,BM Scholtz,Namibia
+918,BM Tickner,New Zealand
+919,BM Wheeler,New Zealand
+920,BMAJ Mendis,Sri Lanka
+921,BN Cooper,Netherlands
+922,BN Toube,Cameroon
+923,BO van Rooi,Namibia
+924,BOP Fernando,Sri Lanka
+925,BP Adapaka,Hungary
+926,BP Kruger,Netherlands
+927,BP Loots,Netherlands
+928,BP Martin,New Zealand
+929,BP Nash,West Indies
+930,BR Dorey,Australia
+931,BR Dunk,Australia
+932,BR McDermott,Australia
+933,BR Sharath,Gujarat Titans
+934,BRM Taylor,Zimbabwe
+935,BS Dean,Sydney Thunder
+936,BS Fulmali,Gujarat Giants
+937,BS Mudzinganyama,Zimbabwe
+938,BS Oakley,Adelaide Strikers
+939,BS Sandhu,Slovenia
+940,BS Stephenson,Belize
+941,BT Foakes,England
+942,BTJ Wheal,Scotland
+943,BV Save,Malaysia
+944,BV Sears,New Zealand
+945,BV Vitori,Zimbabwe
+946,BW Hilfenhaus,Australia
+947,Babar Ali,Rwanda
+948,Babar Azam,Pakistan
+949,Babar Hayat,Hong Kong
+950,Badal Singh,Oman
+951,Bakhtiar Tahiri,Bulgaria
+952,Baljinder Singh,Romania
+953,Baljit Singh,Italy
+954,Baseer Khan,Austria
+955,Bashar Khan,Italy
+956,Basharat Hussain,South Korea
+957,Bashir Ahmad,Switzerland
+958,Bashir Shah,Denmark
+959,Basil Hameed,United Arab Emirates
+960,Basil Thampi,Gujarat Lions
+961,Basir Ahamad,Nepal
+962,Basiru Jaye,Gambia
+963,Baz Aybui,Sweden
+964,Bazid Khan,Pakistan
+965,Ben Jones,Estonia
+966,Benjamin Constanzo,Chile
+967,Benjamin Embleton,Luxembourg
+968,Benson Chama,Zambia
+969,Bhargav Narasimha,Mexico
+970,Bhumeshswar Jagroo,Bahamas
+971,Bikram Sob,Nepal
+972,Bilal Aftab,Denmark
+973,Bilal Ahmad Mir,South Korea
+974,Bilal Asif,Pakistan
+975,Bilal Hassun,Uganda
+976,Bilal Khan,Oman
+977,Bilal Masud,Estonia
+978,Bilal Muhammad,Malta
+979,Bilal Safdar,Norway
+980,Bilal Sami,Noakhali Express
+981,Bilal Shah,Oman
+982,Bilal Tahir,Kuwait
+983,Bilal Zalmai,Austria
+984,Bilawal Bhatti,Pakistan
+985,Bipin Kumar,Qatar
+986,Bipul Sharma,Sunrisers Hyderabad
+987,Bishawnath Halder,Sylhet Royals
+988,Bismillah Khan,Quetta Gladiators
+989,Boio Ray,Papua New Guinea
+990,Bosco Tuyizere,Rwanda
+991,Breeze Ahir,Panama
+992,Brijesh Sharma,Rajasthan Royals
+993,Brima Ansumana,Sierra Leone
+994,Bukhar Illikkal,Qatar
+995,C Archibald,St Kitts and Nevis Patriots
+996,C Bah,Sierra Leone
+997,C Bayraktar,Turkey
+998,C Bevin,Croatia
+999,C Birch,Guernsey
+1000,C Bisson,Jersey
+1001,C Bogdanos,Greece
+1002,C Bosch,South Africa
+1003,C Brennan,Jersey
+1004,C Brown,Belize
+1005,C Campher,Ireland
+1006,C Carmichael,Ireland
+1007,C Carter,Hong Kong
+1008,C Cassell,Scotland
+1009,C Chatphaisan,Thailand
+1010,C Chete,Malawi
+1011,C Cirino,Brazil
+1012,C Connolly,Australia
+1013,C De Freitas,Portugal
+1014,C Dickson,Cook Islands
+1015,C Esterhuizen,South Africa
+1016,C Floyd,Netherlands
+1017,C Forbes,Swaziland
+1018,C Forshaw,Guernsey
+1019,C Fortuin,South Africa
+1020,C Ganapathy,Chennai Super Kings
+1021,C Green,Australia
+1022,C Greenshields,Portugal
+1023,C Gunasekara,Sri Lanka
+1024,C Gwilliam-Lopez,Spain
+1025,C Hartmann,Isle of Man
+1026,C Hauptfleisch,Cayman Islands
+1027,C Hemraj,West Indies
+1028,C Hinze,Japan
+1029,C Jonker,South Africa
+1030,C Karunaratne,Sri Lanka
+1031,C Kellaway,Melbourne Stars
+1032,C Kieswetter,England
+1033,C Kyewuta,Uganda
+1034,C Lamont,St Lucia Stars
+1035,C Liebenberg,Isle of Man
+1036,C Madan,Mumbai Indians
+1037,C Madande,Zimbabwe
+1038,C Malaya,Malawi
+1039,C McAuslan,Hong Kong
+1040,C Munoz-Mills,Spain
+1041,C Munro,New Zealand
+1042,C Nanda,Mumbai Indians
+1043,C Nunes,Portugal
+1044,C Olphert,Ireland
+1045,C Outerbridge,Bermuda
+1046,C Overton,England
+1047,C Pengkumta,Thailand
+1048,C Pervez,Canada
+1049,C Potgieter,Portugal
+1050,C Pyle,Gibraltar
+1051,C Rathanak,Cambodia
+1052,C Rice,Malawi
+1053,C Roberts,France
+1054,C Rububagumya,Rwanda
+1055,C Rumistrzewicz,Spain
+1056,C Sakariya,India
+1057,C Shivakumar,Singapore
+1058,C Simmonds,Guernsey
+1059,C Smith,Isle of Man
+1060,C Sridev,Singapore
+1061,C Stephenson,Belize
+1062,C Stow,Melbourne Renegades
+1063,C Sudarsanan,Malta
+1064,C Tchale,Malawi
+1065,C Tear,Scotland
+1066,C Tlali,Lesotho
+1067,C Tommy,Vanuatu
+1068,C Trott,Bermuda
+1069,C Udekwe,Nigeria
+1070,C Valente,Adelaide Strikers
+1071,C Viljoen,Namibia
+1072,C Waiswa,Uganda
+1073,C Watuwa,Uganda
+1074,C Webster,Isle of Man
+1075,C White,England
+1076,C Wickramasinghe,Sri Lanka
+1077,C Wright,Cayman Islands
+1078,C Zavoiu,Romania
+1079,C Zhuwao,Zimbabwe
+1080,C de Grandhomme,New Zealand
+1081,CA Henry,UP Warriorz
+1082,CA Ingram,South Africa
+1083,CA Keita,Mali
+1084,CA Liyanage,Maldives
+1085,CA Lynn,Australia
+1086,CA Philipson,Sydney Thunder
+1087,CA Pujara,India
+1088,CA Reid,United States of America
+1089,CA Rose,Hobart Hurricanes
+1090,CA Soper,Papua New Guinea
+1091,CA Wakim,Melbourne Stars
+1092,CA Young,Ireland
+1093,CAH Stevenson,United States of America
+1094,CAJ Meschede,Germany
+1095,CAK Rajitha,Sri Lanka
+1096,CAK Walton,West Indies
+1097,CB Lambert,United States of America
+1098,CB Mpofu,Zimbabwe
+1099,CB Ondoa,Cameroon
+1100,CB Roposo,Mozambique
+1101,CB Sole,Scotland
+1102,CB Wishart,Zimbabwe
+1103,CBRLS Kumara,Sri Lanka
+1104,CC Blake,Vanuatu
+1105,CC Machado,Brazil
+1106,CD Barnwell,West Indies
+1107,CD Collymore,West Indies
+1108,CD Cumming,New Zealand
+1109,CD Hartley,Brisbane Heat
+1110,CD Hinchliffe,Perth Scorchers
+1111,CD McMillan,New Zealand
+1112,CD Wallace,Scotland
+1113,CD de Lange,Scotland
+1114,CE Dean,Royal Challengers Bengaluru
+1115,CE McConchie,New Zealand
+1116,CFK van Wyk,New Zealand
+1117,CG Osborne,Croatia
+1118,CG Williams,Namibia
+1119,CH Gayle,West Indies
+1120,CH Morris,South Africa
+1121,CH Stobo,Sydney Sixers
+1122,CJ Anderson,New Zealand
+1123,CJ Borgas,Adelaide Strikers
+1124,CJ Bowes,New Zealand
+1125,CJ Boyce,Australia
+1126,CJ Chibhabha,Zimbabwe
+1127,CJ Dala,South Africa
+1128,CJ Delany,Gibraltar
+1129,CJ Ferguson,Australia
+1130,CJ Gannon,United States of America
+1131,CJ Green,Australia
+1132,CJ Jordan,England
+1133,CJ Langford,Isle of Man
+1134,CJ Liddle,Dhaka Gladiators
+1135,CJ McKay,Australia
+1136,CJ Nevin,New Zealand
+1137,CJ Rocchiccioli,Melbourne Renegades
+1138,CJ Sayers,Australia
+1139,CJ Simmons,Perth Scorchers
+1140,CJ Smith,Bermuda
+1141,CJ Stamp,Philippines
+1142,CJA Amini,Papua New Guinea
+1143,CJL Rogers,Australia
+1144,CJM Sabburg,Perth Scorchers
+1145,CJO Smith,Scotland
+1146,CJPF Kalugamage,Italy
+1147,CK Coventry,Zimbabwe
+1148,CK Holder,West Indies
+1149,CK Hooper,Canada
+1150,CK Jasmat,Samoa
+1151,CK Kapugedera,Sri Lanka
+1152,CK Kruger,Hong Kong
+1153,CK Langeveldt,South Africa
+1154,CK Tshuma,Zimbabwe
+1155,CKB Kulasekara,Sri Lanka
+1156,CL Cairns,New Zealand
+1157,CL Hooper,West Indies
+1158,CL Tryon,UP Warriorz
+1159,CL White,Australia
+1160,CM Akachukwu,Nigeria
+1161,CM Gautam,Delhi Daredevils
+1162,CM Mbebe,Mozambique
+1163,CM McBride,Scotland
+1164,CM Rocca,Gibraltar
+1165,CM Willoughby,South Africa
+1166,CM Wright,Scotland
+1167,CMW Read,England
+1168,CN Ackermann,Netherlands
+1169,CN Evans,Zimbabwe
+1170,CN Greaves,Scotland
+1171,CN Kakuru,Uganda
+1172,CN Onwuzulike,Nigeria
+1173,CO Browne,West Indies
+1174,CO Obuya,Kenya
+1175,CP Dowle,Hungary
+1176,CP Jewell,Hobart Hurricanes
+1177,CP Rizwan,United Arab Emirates
+1178,CP Schofield,England
+1179,CP Simpson,Melbourne Stars
+1180,CP Tremain,Australia
+1181,CP Turkich,Croatia
+1182,CPPM Sadun,Cyprus
+1183,CR Brathwaite,West Indies
+1184,CR Ervine,Zimbabwe
+1185,CR Foggo,Bermuda
+1186,CR Knott,UP Warriorz
+1187,CR Richards,St Helena
+1188,CR Suryawanshi,Singapore
+1189,CR Swan,Brisbane Heat
+1190,CR Woakes,England
+1191,CRD Fernando,Sri Lanka
+1192,CS Baugh,West Indies
+1193,CS Delport,Sydney Thunder
+1194,CS MacLeod,Scotland
+1195,CS Martin,New Zealand
+1196,CS Sandri,Sydney Thunder
+1197,CT Bancroft,Australia
+1198,CT Mumba,Zimbabwe
+1199,CT Mutombodzi,Zimbabwe
+1200,CT Tremlett,England
+1201,CU Jayasinghe,Sri Lanka
+1202,CV Anto,Kuwait
+1203,CV Harrison,Gibraltar
+1204,CV Varun,India
+1205,CW Perchard,Jersey
+1206,CZ Harris,New Zealand
+1207,Charanjeet Singh,Italy
+1208,Chare Smith,Bermuda
+1209,Chaudhary Akram,Norway
+1210,Chen Zhuo Yue,China
+1211,Chirag Suri,United Arab Emirates
+1212,Choudhry Md Imran,Saudi Arabia
+1213,Choudry Share Ali,Sweden
+1214,Cihan Altun,Turkey
+1215,Codi Yusuf,South Africa
+1216,D Abeyrathna,Norway
+1217,D Ahir,Panama
+1218,D Ajekun,Nigeria
+1219,D Bau,Papua New Guinea
+1220,D Berthe,Mali
+1221,D Birrell,Jersey
+1222,D Bishoo,West Indies
+1223,D Bourne,Turks and Caicos Island
+1224,D Brevis,South Africa
+1225,D Cato,Cayman Islands
+1226,D Cleaver,New Zealand
+1227,D Daesrath,Canada
+1228,D Dasgupta,India
+1229,D Dawa,Bhutan
+1230,D Dewald,Belgium
+1231,D Doyle-Calle,Spain
+1232,D Ebersohn,Mexico
+1233,D Elgar,South Africa
+1234,D Faletar,Croatia
+1235,D Fallins,Melbourne Stars
+1236,D Ferreira,South Africa
+1237,D Finau,Samoa
+1238,D Forrester,South Africa
+1239,D Foxcroft,New Zealand
+1240,D Gamage,Sri Lanka
+1241,D Ganesh,Costa Rica
+1242,D Ganga,West Indies
+1243,D Gim,Nigeria
+1244,D Gough,England
+1245,D Gumyusenge,Rwanda
+1246,D Hardware,Turks and Caicos Island
+1247,D Hemalatha,Gujarat Giants
+1248,D Heyliger,Canada
+1249,D Issiaka,Ivory Coast
+1250,D Jakiel,Zimbabwe
+1251,D Jamyansuren,Mongolia
+1252,D Jansen,Isle of Man
+1253,D Johnson,Cayman Islands
+1254,D Joseph,Canada
+1255,D Kalvin,Seychelles
+1256,D Kalyankrishna,Deccan Chargers
+1257,D Kansonkho,Malawi
+1258,D Kegasitswe,Botswana
+1259,D Keulder,Namibia
+1260,D Khanal,Nepal
+1261,D Klein,Germany
+1262,D Lakshan,Sri Lanka
+1263,D Langford-Smith,Ireland
+1264,D Long Martinez,Spain
+1265,D Madushanka,Sri Lanka
+1266,D Maisuria,Botswana
+1267,D Marks,Malta
+1268,D Marsic,Croatia
+1269,D Matla,Slovenia
+1270,D Mauro,Argentina
+1271,D Mendonca,Timor-Leste
+1272,D Mogan,Malaysia
+1273,D Mohammed,West Indies
+1274,D Mongia,India
+1275,D Muhumuza,Uganda
+1276,D Mullen,Guernsey
+1277,D Murphy,Scotland
+1278,D Mutu,Turkey
+1279,D Myers,Zimbabwe
+1280,D Nanda,Indonesia
+1281,D Nath,Nepal
+1282,D Ndikubwimana,Rwanda
+1283,D Nikolov,Bulgaria
+1284,D Norotam,Portugal
+1285,D Olivier,South Africa
+1286,D Padikkal,India
+1287,D Panda,Mexico
+1288,D Parashar,United Arab Emirates
+1289,D Paterson,South Africa
+1290,D Polpitiya,Eswatini
+1291,D Potgieter,St Lucia Kings
+1292,D Pretorius,South Africa
+1293,D Ramani,Czech Republic
+1294,D Ramdin,West Indies
+1295,D Ravu,Papua New Guinea
+1296,D Rawat,Costa Rica
+1297,D Robson,Estonia
+1298,D Sabir,Bermuda
+1299,D Salunkhe,Rajasthan Royals
+1300,D Samarawickrama,Italy
+1301,D Sheeli,Kuwait
+1302,D Simpson,Cook Islands
+1303,D Siva Kumar,United States of America
+1304,D Soraine,Canada
+1305,D St Ange,Turks and Caicos Island
+1306,D Suzuki,Japan
+1307,D Svilicic,Croatia
+1308,D Teinaki,Cook Islands
+1309,D Traore,Mali
+1310,D Tresac,Serbia
+1311,D Uwimana,Rwanda
+1312,D Visser,Samoa
+1313,D Vora,Hong Kong
+1314,D Vrinda,UP Warriorz
+1315,D Wabwire,Uganda
+1316,D Warren,Melbourne Stars
+1317,D Weston,Germany
+1318,D Wheatley,Bahamas
+1319,D Wiese,Namibia
+1320,D Wotu,Vanuatu
+1321,D Young,St Helena
+1322,D du Preez,Royal Challengers Bangalore
+1323,D la Cock,Namibia
+1324,DA Blignaut,Germany
+1325,DA Gunawardene,Sri Lanka
+1326,DA Marillier,Zimbabwe
+1327,DA Mehta,Tanzania
+1328,DA Miller,South Africa
+1329,DA Minors,Bermuda
+1330,DA Payne,England
+1331,DA Rankin,Ireland
+1332,DA Senthil,Botswana
+1333,DA Warner,Australia
+1334,DAJ Bracewell,New Zealand
+1335,DAM Louis,Qatar
+1336,DAP Darrell,Bermuda
+1337,DAS Gunaratne,Sri Lanka
+1338,DB Das,Kolkata Knight Riders
+1339,DB Kotze,Namibia
+1340,DB Lakhani,Sweden
+1341,DB Loic,Cameroon
+1342,DB Ravi Teja,Deccan Chargers
+1343,DB Sharma,UP Warriorz
+1344,DBL Powell,West Indies
+1345,DC Delany,Ireland
+1346,DC Drakes,West Indies
+1347,DC Green,Jamaica Tallawahs
+1348,DC Smith,Philippines
+1349,DC Stovell,Bermuda
+1350,DC Thomas,West Indies
+1351,DCC Borden,Bermuda
+1352,DD Ebrahim,Zimbabwe
+1353,DD Kasat,Royal Challengers Bangalore
+1354,DDE Richardson,Bermuda
+1355,DDP D'Silva,United Arab Emirates
+1356,DE Bernard,West Indies
+1357,DE Bollinger,Australia
+1358,DE Budge,Scotland
+1359,DE Burgess,Samoa
+1360,DE Johnson,St Lucia Zouks
+1361,DE Martel,Guernsey
+1362,DE Roache,Samoa
+1363,DES Maxwell,Canada
+1364,DF Jacobs,Thailand
+1365,DF Watts,Scotland
+1366,DG Bedingham,South Africa
+1367,DG Blampied,Jersey
+1368,DG Brownlie,New Zealand
+1369,DG Nalkande,Gujarat Titans
+1370,DG Weakley,Bahamas
+1371,DGAPD Wiswi,Indonesia
+1372,DH Yagnik,Rajasthan Royals
+1373,DI Allan,Kenya
+1374,DI Joyce,Ireland
+1375,DI Stevens,Dhaka Gladiators
+1376,DJ Bell-Drummond,Rajshahi Kings
+1377,DJ Bravo,West Indies
+1378,DJ Cullen,Australia
+1379,DJ Harris,Deccan Chargers
+1380,DJ Hawoe,Indonesia
+1381,DJ Hooda,India
+1382,DJ Hussey,Australia
+1383,DJ Jacobs,Mumbai Indians
+1384,DJ Malan,England
+1385,DJ Mitchell,New Zealand
+1386,DJ Muthuswami,Delhi Daredevils
+1387,DJ Pattinson,England
+1388,DJ Reekers,Netherlands
+1389,DJ Terbrugge,South Africa
+1390,DJ Thornely,Mumbai Indians
+1391,DJ Turkich,Croatia
+1392,DJ Vilas,South Africa
+1393,DJ Willey,England
+1394,DJ Worrall,Australia
+1395,DJG Sammy,West Indies
+1396,DJM Moody,Hobart Hurricanes
+1397,DJM Short,Australia
+1398,DJS Dottin,Gujarat Giants
+1399,DK Anefie,Ghana
+1400,DK Butler,West Indies
+1401,DK Dahani,Iran
+1402,DK Dahyabhai Ahir,Panama
+1403,DK Jacobs,Barbados Tridents
+1404,DK Mathias,Bahrain
+1405,DK Pallekonda,Slovenia
+1406,DK Shetty,Indonesia
+1407,DKD Warnakulasuriya,Italy
+1408,DKJ Claude,Ivory Coast
+1409,DL Blake,United States of America
+1410,DL Brangman,Bermuda
+1411,DL Chahar,India
+1412,DL Hemp,Bermuda
+1413,DL Maddy,England
+1414,DL Piedt,South Africa
+1415,DL Richards,St Helena
+1416,DL Vettori,New Zealand
+1417,DLR Smith,Sydney Thunder
+1418,DLS van Bunge,Netherlands
+1419,DM Bess,England
+1420,DM Bravo,West Indies
+1421,DM Dupavillon,South Africa
+1422,DM Gondaria,Kenya
+1423,DM Nakrani,Uganda
+1424,DM Richards,West Indies
+1425,DM Washington,West Indies
+1426,DM de Silva,Sri Lanka
+1427,DMK Grant,Brisbane Heat
+1428,DMW Rawlins,Bermuda
+1429,DN Wellalage,Sri Lanka
+1430,DN Wyatt,Royal Challengers Bengaluru
+1431,DNA Ankrah,Ghana
+1432,DNT Zoysa,Sri Lanka
+1433,DO Christian,West Indies
+1434,DO Leicher,Namibia
+1435,DO Obuya,Kenya
+1436,DOD Rikhi,United States of America
+1437,DP Conway,New Zealand
+1438,DP Hughes,Sydney Sixers
+1439,DP Hyatt,West Indies
+1440,DP Michael,Samoa
+1441,DP Nannes,Australia
+1442,DP Sibley,England
+1443,DP Vaidya,UP Warriorz
+1444,DP Vijaykumar,Deccan Chargers
+1445,DPMD Jayawardene,Sri Lanka
+1446,DPS Tyagi,Singapore
+1447,DR Briggs,England
+1448,DR Brown,Scotland
+1449,DR Chumney,Canada
+1450,DR Drew,Adelaide Strikers
+1451,DR Flynn,New Zealand
+1452,DR Gibson,Gujarat Giants
+1453,DR Hooper,Guernsey
+1454,DR Martyn,Australia
+1455,DR Mousley,England
+1456,DR Patankar,Malta
+1457,DR Salpietro,Adelaide Strikers
+1458,DR Sams,Australia
+1459,DR Shorey,Chennai Super Kings
+1460,DR Smith,West Indies
+1461,DR Tawake,Fiji
+1462,DR Tuffey,New Zealand
+1463,DS Airee,Nepal
+1464,DS Bajwa,Canada
+1465,DS Kulkarni,India
+1466,DS Lehmann,Australia
+1467,DS Maraiwai,Fiji
+1468,DS Rathi,Lucknow Super Giants
+1469,DS Smith,West Indies
+1470,DS Vosloo,Malta
+1471,DS Weerakkody,Sri Lanka
+1472,DS Wesonga,Kenya
+1473,DSK Madushanka,Sri Lanka
+1474,DT Christian,Australia
+1475,DT Doram,Netherlands
+1476,DT Hondo,Zimbabwe
+1477,DT Johnston,Ireland
+1478,DT Patil,Royal Challengers Bangalore
+1479,DT Tiripano,Zimbabwe
+1480,DV Devjani Mutreja,Mexico
+1481,DV Gujjar,Mumbai Indians
+1482,DV Macome,Mozambique
+1483,DV Varghese,Bulgaria
+1484,DVD Madampage,South Korea
+1485,DW Lawrence,England
+1486,DW Steyn,South Africa
+1487,DYA Davis,St Lucia Zouks
+1488,Dane Leo,St Helena
+1489,Danish Aziz,Pakistan
+1490,Danish Jasnaik,Bahrain
+1491,Danish Kaneria,Pakistan
+1492,Danyal Akbar,Hungary
+1493,Danyal Raja,Bulgaria
+1494,Darwish Rasooli,Dhaka Dynamites
+1495,Davion Codner,Cayman Islands
+1496,Dawood Ahmadzai,France
+1497,Dayal Joy,Slovenia
+1498,Dayyaan Galiem,South Africa
+1499,Deep Harian,Portugal
+1500,Deeya Yadav,Delhi Capitals
+1501,Delawar Khan,Denmark
+1502,Delroy Leo,St Helena
+1503,Delwar Hossain,Sylhet Thunder
+1504,Deng Jinqi,China
+1505,Devender Singh,Ghana
+1506,Dewald Pretorius,South Africa
+1507,Dhananjay Rao,Hong Kong
+1508,Dharmang Patel,Qatar
+1509,Dharmendra Manani,Romania
+1510,Dhiman Ghosh,Bangladesh
+1511,Dhruv Jurel,India
+1512,Dilbar Hussain,Melbourne Stars
+1513,Dipanjan Dey,Sweden
+1514,Divyendra Singh,Czech Republic
+1515,Divyes Kumar,Malta
+1516,Dolar Mahmud,Bangladesh
+1517,Dylan Steyn,Czech Republic
+1518,E Batkhuyag,Mongolia
+1519,E Beukes,Cambodia
+1520,E Bhonkar,Israel
+1521,E Bisht,Royal Challengers Bangalore
+1522,E Bosch,South Africa
+1523,E Chigumbura,Zimbabwe
+1524,E Duff,Bahamas
+1525,E Dusingizimana,Rwanda
+1526,E Ernest,Sierra Leone
+1527,E Frimpong,Ghana
+1528,E Frosler,South Africa
+1529,E Hasahya,Uganda
+1530,E Haven,Bahamas
+1531,E Henry,Turks and Caicos Island
+1532,E Isaneez,Uganda
+1533,E Jabarkhel,Luxembourg
+1534,E Kahamker,Israel
+1535,E Karimi,Denmark
+1536,E Katchay,Canada
+1537,E Kubwimana,Rwanda
+1538,E Kuchey,Finland
+1539,E Kuyumcu,Turkey
+1540,E Leie,South Africa
+1541,E Lewis,West Indies
+1542,E Malinga,Sri Lanka
+1543,E Masuku,Zimbabwe
+1544,E Mathew,Malta
+1545,E Munkhbat,Mongolia
+1546,E Ndubudem,Nigeria
+1547,E Niyomugabo,Rwanda
+1548,E Ochieng,Kenya
+1549,E Otgonbayar,Mongolia
+1550,E Otieno,Kenya
+1551,E Packard,Gibraltar
+1552,E Rukiriza,Rwanda
+1553,E Samson,Israel
+1554,E Schiferli,Netherlands
+1555,E Sebareme,Rwanda
+1556,E Solomon,Israel
+1557,E Ul Haq,Norway
+1558,E Walker,Isle of Man
+1559,E Yaver,Turkey
+1560,EA Brookes,Sylhet Titans
+1561,EA Burns,Royal Challengers Bangalore
+1562,EA Perry,Royal Challengers Bangalore
+1563,EB Knowles,Czech Republic
+1564,EB Ringera,Kenya
+1565,EC Joyce,Ireland
+1566,EC Rainsford,Zimbabwe
+1567,ED Silva,Kuwait
+1568,EDS Pimheiro,Timor-Leste
+1569,EF Beard,Isle of Man
+1570,EF Faalupega,Samoa
+1571,EH Hutchinson,United States of America
+1572,EHSN Silva,United Arab Emirates
+1573,EI Azine,Mozambique
+1574,EJ Richardson,Ireland
+1575,EJB Miles,Jersey
+1576,EJG Morgan,England
+1577,EJM Cowan,Australia
+1578,EM Moore,South Africa
+1579,EMDY Munaweera,Sri Lanka
+1580,EN Gay,Italy
+1581,EP Gulbis,Melbourne Stars
+1582,EP Thompson,New Zealand
+1583,ER Dwivedi,Gujarat Lions
+1584,ES Szwarczynski,Netherlands
+1585,ET Smith,England
+1586,Ebadat Hossain,Bangladesh
+1587,Ebrahim Naseri,Austria
+1588,Edward Fleming,Portugal
+1589,Edward Taylor,Chile
+1590,Ehsan Adil,Pakistan
+1591,Ehsan Khan,Hong Kong
+1592,Ehsan Nawaz,Hong Kong
+1593,Ehsanul Haque,Bangladesh
+1594,Elan Talker,Israel
+1595,Elias Hasan,Estonia
+1596,Elias Sunny,Bangladesh
+1597,Elias Tilman,Timor-Leste
+1598,Emran Shahbakhsh,Iran
+1599,Enamul Haque,Barisal Bulls
+1600,Enamul Haque jnr,Bangladesh
+1601,Eric Phiri,Eswatini
+1602,Esam Rahman,Japan
+1603,Ethan D'Souza,United Arab Emirates
+1604,F Achelam,Uganda
+1605,F Akankwasa,Uganda
+1606,F Baleri,Ghana
+1607,F Banunaek,Indonesia
+1608,F Behardien,South Africa
+1609,F Campbell,Gambia
+1610,F Choudary,Sweden
+1611,F Clarke,Isle of Man
+1612,F Damiao Couana,Mozambique
+1613,F Hand,Ireland
+1614,F Kasteni,Zimbabwe
+1615,F Khaliq,Belgium
+1616,F Mutizwa,Zimbabwe
+1617,F Mutua,Kenya
+1618,F Nsubuga,Uganda
+1619,F O'Neill,Melbourne Renegades
+1620,F Pieters,South Korea
+1621,F Stoman,Portugal
+1622,F Suluoto,Samoa
+1623,F Thorpe,Gambia
+1624,F Zirahangaje,Rwanda
+1625,F de Wet,South Africa
+1626,F du Plessis,South Africa
+1627,FA Allen,West Indies
+1628,FA Cossa,Mozambique
+1629,FA Klokker,Denmark
+1630,FC Muniz,Brazil
+1631,FDM Karunaratne,Sri Lanka
+1632,FDW McCreath,Scotland
+1633,FE Carava,Mozambique
+1634,FFJ Heo,Indonesia
+1635,FFZ Nhaduate,Mozambique
+1636,FH Allen,New Zealand
+1637,FH Edwards,West Indies
+1638,FJ Klaassen,Netherlands
+1639,FJ Mpegna,Cameroon
+1640,FL Patel,Panama
+1641,FL Reifer,West Indies
+1642,FN Walsh,Philippines
+1643,FRJ Coleman,Scotland
+1644,FY Fazal,India
+1645,Fahad Alhashmi,United Arab Emirates
+1646,Fahad Nawaz,United Arab Emirates
+1647,Fahad Tariq,United Arab Emirates
+1648,Faheem Ashraf,Pakistan
+1649,Faheem Nazir,Switzerland
+1650,Faheem Nellancheri,Finland
+1651,Faisal Akram,Pakistan
+1652,Faisal Athar,Pakistan
+1653,Faisal Hossain,Bangladesh
+1654,Faisal Iqbal,Pakistan
+1655,Faisal Javed,Qatar
+1656,Faisal Khan,Saudi Arabia
+1657,Faisal Mehmood,Belgium
+1658,Faisal Mubashir,Germany
+1659,Faisal Raza,Norway
+1660,Faisal Safi,France
+1661,Faizal Salehji,Panama
+1662,Faizan Asif,United Arab Emirates
+1663,Faizan Khan,Lahore Qalandars
+1664,Faizan Mumtaz,Norway
+1665,Fakhar Zaman,Pakistan
+1666,Fakhrul Mohon,Portugal
+1667,Fanyan Mughal,Malta
+1668,Faraaz Mehti Abbas,Finland
+1669,Fardeen Hasan,Cumilla Warriors
+1670,Farhad Hossain,Barisal Burners
+1671,Farhad Reza,Bangladesh
+1672,Farhan Adil,Pakistan
+1673,Farhan Ahmed,United Arab Emirates
+1674,Farhan Yousaf,Peshawar Zalmi
+1675,Farmanullah,Dhaka Capitals
+1676,Farzan Afzal,Spain
+1677,Fawad Ahmed,Australia
+1678,Fawad Alam,Pakistan
+1679,Fawad Ali,Karachi Kings
+1680,Fayaz Khan,Germany
+1681,Fayaz Mohammad,Bulgaria
+1682,Fayyaz Ahmed,United Arab Emirates
+1683,Fayyaz Butt,Oman
+1684,Fazalhaq Farooqi,Sunrisers Hyderabad
+1685,Fazil Muhammad,South Korea
+1686,Fazil Rahman,Malta
+1687,Fazl-e-Akbar,Pakistan
+1688,Fazle Mahmud,Bangladesh
+1689,Festus Benn,Bahamas
+1690,Fiaz Ahmed,Bahrain
+1691,Fida Hussain,Italy
+1692,Firas Hussain,Bulgaria
+1693,Fitri Sham,Malaysia
+1694,Franz Bur,Argentina
+1695,G Axtell,Bahrain
+1696,G Bajwa,Canada
+1697,G Bakiweyem,Ghana
+1698,G Bruno,Turks and Caicos Island
+1699,G Burrows,Isle of Man
+1700,G Caisley,Brazil
+1701,G Campbell,Turks and Caicos Island
+1702,G Chapple,England
+1703,G Chaturvedi,Malta
+1704,G Chohan,Philippines
+1705,G Clark,Chittagong Kings
+1706,G Coetzee,South Africa
+1707,G Cupido,Switzerland
+1708,G Fatouros,Greece
+1709,G Gambhir,India
+1710,G Ganbold,Mongolia
+1711,G Goudie,Scotland
+1712,G Gune,Singapore
+1713,G Hoey,Ireland
+1714,G Johnson,St Helena
+1715,G Kaltongga,Vanuatu
+1716,G Kamalini,Mumbai Indians
+1717,G Kansonkho,Malawi
+1718,G Kirsten,South Africa
+1719,G Kuthalingham,Turks and Caicos Island
+1720,G Malla,Nepal
+1721,G Manan,Romania
+1722,G Mckeon,France
+1723,G Miller,Cook Islands
+1724,G Motie,West Indies
+1725,G Mubiru,Uganda
+1726,G Murali,Costa Rica
+1727,G Ngegba,Sierra Leone
+1728,G Oliveira,Brazil
+1729,G Onions,England
+1730,G Raymond,Cook Islands
+1731,G Richardson,Jersey
+1732,G Riley,Gambia
+1733,G Schachat,Israel
+1734,G Sesay,Sierra Leone
+1735,G Singh,United States of America
+1736,G Singhdeo,Costa Rica
+1737,G Snyman,Namibia
+1738,G Stewart,Italy
+1739,G Sultana,UP Warriorz
+1740,G Thakur,Malta
+1741,G Toka,Papua New Guinea
+1742,G Van Heerden,South Africa
+1743,G Venkateswaran,Luxembourg
+1744,G Voll,UP Warriorz
+1745,G Wareham,Gujarat Giants
+1746,G Wijekoon,Sri Lanka
+1747,GA Lamb,Zimbabwe
+1748,GA Manou,Australia
+1749,GA Priandana,Indonesia
+1750,GA Rogers,Scotland
+1751,GA Stuurman,South Africa
+1752,GA West,Sydney Sixers
+1753,GB Brent,Zimbabwe
+1754,GB Hogg,Australia
+1755,GB Murgatroyd,Namibia
+1756,GC Galanis,Greece
+1757,GC Murtaza,Cambodia
+1758,GC Smith,South Africa
+1759,GC Tonge,West Indies
+1760,GC Viljoen,South Africa
+1761,GC Wilson,Ireland
+1762,GD Arta,Indonesia
+1763,GD Drummond,Scotland
+1764,GD Elliott,New Zealand
+1765,GD McGrath,Australia
+1766,GD Phillips,New Zealand
+1767,GD Pope,St Lucia Zouks
+1768,GD Putland,Adelaide Strikers
+1769,GDR Eranga,Canada
+1770,GE Gutierrez Chavez,Mexico
+1771,GE Kidd,Ireland
+1772,GE Mathurin,West Indies
+1773,GEF Barnett,Canada
+1774,GF Cardos,Timor-Leste
+1775,GF Gomes,Mozambique
+1776,GF Linde,South Africa
+1777,GG Alta,Turkey
+1778,GG Banner,Belize
+1779,GH Bodi,South Africa
+1780,GH Dockrell,Ireland
+1781,GH O'Brien,Bermuda
+1782,GH Smit,Guernsey
+1783,GH Vihari,India
+1784,GH Worker,New Zealand
+1785,GHS Garton,England
+1786,GI Gokoel,Suriname
+1787,GI Hume,Ireland
+1788,GI Maiden,Scotland
+1789,GJ Bailey,Australia
+1790,GJ Batty,England
+1791,GJ Delany,Ireland
+1792,GJ Hopkins,New Zealand
+1793,GJ Maxwell,Australia
+1794,GJ McCarter,Ireland
+1795,GJ Naik,Royal Challengers Bengaluru
+1796,GJ Rennie,Zimbabwe
+1797,GJ Snyman,South Africa
+1798,GJ Thompson,Ireland
+1799,GJ Whittall,Zimbabwe
+1800,GJ van Rensburg,Namibia
+1801,GJP Kruger,South Africa
+1802,GK Berg,Italy
+1803,GK Ghalley,Bhutan
+1804,GL Cloete,South Africa
+1805,GL Walker,Melbourne Renegades
+1806,GLS Scrimshaw,England
+1807,GM Ewing,Zimbabwe
+1808,GM Hamilton,Scotland
+1809,GM Harris,UP Warriorz
+1810,GM Muthui,Kenya
+1811,GM Ntambalika,Malawi
+1812,GM Strydom,Zimbabwe
+1813,GO Jones,England
+1814,GO Sopinho,Mozambique
+1815,GP Meade,Italy
+1816,GP Swann,England
+1817,GP Thorpe,England
+1818,GPK Wijesingha,Maldives
+1819,GR Adair,Ireland
+1820,GR Codrington,Canada
+1821,GR Napier,Mumbai Indians
+1822,GR Russ,Philippines
+1823,GRD Munasinghe,Italy
+1824,GS Bajwa,Spain
+1825,GS Ballance,Zimbabwe
+1826,GS Dinusha,Sri Lanka
+1827,GS Sandhu,Australia
+1828,GSNFG Jayasuriya,Sri Lanka
+1829,GT Main,Scotland
+1830,GT Taylor,Bahamas
+1831,GW Aldridge,New Zealand
+1832,GW Flower,Zimbabwe
+1833,GY Prastama,Indonesia
+1834,GY Tomar,Uganda
+1835,Gabor Torok,Hungary
+1836,Gagandeep Singh,Ghana
+1837,Garret Banner,Belize
+1838,Gauhar Ali,Lahore Qalandars
+1839,Gaurav Maithani,Malta
+1840,Gaurav Mishra,Romania
+1841,Gaurav Tiwari,Indonesia
+1842,Gayan Munaweera,Qatar
+1843,Gershon Yusuf,Nigeria
+1844,Ghayour Ahmad,Saudi Arabia
+1845,Ghazi Ghori,Pakistan
+1846,Ghulam Abbas Butt,Finland
+1847,Ghulam Ahmadi,Germany
+1848,Ghulam Mudassar,Lahore Qalandars
+1849,Ghulam Shabber,United Arab Emirates
+1850,Guido Angeletti,Argentina
+1851,Guillermo Aburto,Chile
+1852,Gulbadin Naib,Delhi Capitals
+1853,Gulraiz Sadaf,Lahore Qalandars
+1854,Gulsan Jha,Nepal
+1855,Gurdeep Singh,Kenya
+1856,Gurjapneet Singh,Chennai Super Kings
+1857,Gurkeerat Singh,India
+1858,Gurnoor Brar,Punjab Kings
+1859,Gurpratap Singh,Cyprus
+1860,Gurpreet Singh,Italy
+1861,H Beresford-Peirse,Croatia
+1862,H Bharadwaj,Singapore
+1863,H Carlyon,Jersey
+1864,H Dandapani,Finland
+1865,H Das,Deccan Chargers
+1866,H Davids,South Africa
+1867,H Deol,Gujarat Giants
+1868,H Deshan,Switzerland
+1869,H Dhami,Nepal
+1870,H Durham,Bermuda
+1871,H Elder,Switzerland
+1872,H Fennell,Argentina
+1873,H Gori,Czech Republic
+1874,H Graham,Royal Challengers Bengaluru
+1875,H Hajnic,Croatia
+1876,H Hameed,England
+1877,H Hiri,Papua New Guinea
+1878,H Isorena,Philippines
+1879,H Ivanov,Bulgaria
+1880,H Jangariya,Eswatini
+1881,H Kaur,Mumbai Indians
+1882,H Kaushik,United Arab Emirates
+1883,H Kerr,Sydney Sixers
+1884,H Khogiyani,Austria
+1885,H Khuttan,Portugal
+1886,H Kinga,Cameroon
+1887,H Klaasen,South Africa
+1888,H Klazinge,Namibia
+1889,H Lakov,Bulgaria
+1890,H Lin Aung,Myanmar
+1891,H Lin Oo,Myanmar
+1892,H Masakadza,Zimbabwe
+1893,H McAleer,Isle of Man
+1894,H McKenzie,Perth Scorchers
+1895,H Miller,Jamaica Tallawahs
+1896,H Niaz,France
+1897,H Osinde,Canada
+1898,H Patel,Canada
+1899,H Pieterse,South Africa
+1900,H Pile,Gibraltar
+1901,H Pragji,Botswana
+1902,H Rashid,Eswatini
+1903,H Rathod,Qatar
+1904,H Satheedevi,Croatia
+1905,H Shah,Nepal
+1906,H Sharma,Royal Challengers Bangalore
+1907,H Singh,Germany
+1908,H Srinivasan,Germany
+1909,H Ssenyondo,Uganda
+1910,H Thaker,Canada
+1911,H Upadhyay,Mongolia
+1912,H Venkataram,Singapore
+1913,H Virdee,Luxembourg
+1914,HA Chohan,Tanzania
+1915,HA Jackson,France
+1916,HA Varaiya,Kenya
+1917,HAG Madhushanka,Seychelles
+1918,HAM Shah,Denmark
+1919,HAPW Jayawardene,Sri Lanka
+1920,HB Dickson,Cook Islands
+1921,HB Kayondo,Uganda
+1922,HB Shipley,New Zealand
+1923,HC Brook,England
+1924,HC Knight,Royal Challengers Bangalore
+1925,HC Overdijk,Netherlands
+1926,HD Rutherford,New Zealand
+1927,HD Weibgen,Sydney Thunder
+1928,HDPK Dharmasena,Sri Lanka
+1929,HDRL Thirimanne,Sri Lanka
+1930,HE van der Dussen,South Africa
+1931,HER Tyler,Philippines
+1932,HF Gurney,England
+1933,HG Kuhn,South Africa
+1934,HG Munsey,Scotland
+1935,HGV Vare,Papua New Guinea
+1936,HH Dippenaar,South Africa
+1937,HH Gibbs,South Africa
+1938,HH Pandya,India
+1939,HH Streak,Africa XI
+1940,HJ Hunt,Adelaide Strikers
+1941,HJ Jordaan,Thailand
+1942,HJ Manenti,Italy
+1943,HJ Nielsen,Adelaide Strikers
+1944,HJ Patel,Panama
+1945,HJC Mol,Netherlands
+1946,HJH Marshall,New Zealand
+1947,HJW Gardiner,Scotland
+1948,HK Badani,India
+1949,HK Bennett,New Zealand
+1950,HK Kukreja,Singapore
+1951,HK Matthews,Mumbai Indians
+1952,HK Olonga,Zimbabwe
+1953,HL Harji,Seychelles
+1954,HM Amla,South Africa
+1955,HM Nicholls,New Zealand
+1956,HMCM Bandara,Sri Lanka
+1957,HMHE Parsons,South Korea
+1958,HMRKB Herath,Sri Lanka
+1959,HN Ya France,Namibia
+1960,HNA Conway,Adelaide Strikers
+1961,HP Kingston,Hobart Hurricanes
+1962,HP Rinke,Zimbabwe
+1963,HP Tillakaratne,Sri Lanka
+1964,HR Johnson,United States of America
+1965,HR Shokeen,Mumbai Indians
+1966,HR Walsh,United States of America
+1967,HS Baidwan,Canada
+1968,HS Bedi,Serbia
+1969,HS Gericke,Malta
+1970,HS Modi,Kenya
+1971,HT Dixon,Melbourne Renegades
+1972,HT Tector,Ireland
+1973,HTRY Thornton,Sydney Sixers
+1974,HV Mandhyan,Hungary
+1975,HV Patel,India
+1976,HWR Cartwright,Australia
+1977,HY Kazi,Mumbai Indians
+1978,Habib Ahmadzai,Austria
+1979,Habib Khan,Estonia
+1980,Habibul Bashar,Bangladesh
+1981,Habibur Rahman,Comilla Victorians
+1982,Hadisullah Tarakhel,Belgium
+1983,Hafiz Qaleem,United Arab Emirates
+1984,Haider Ali,Pakistan
+1985,Haider Butt,Bahrain
+1986,Hamayun Altaf,Multan Sultans
+1987,Hamed Khan,Hong Kong
+1988,Hamid Hassan,Barisal Burners
+1989,Hamid Mahmood,Sweden
+1990,Hamid Safi,Austria
+1991,Hammad Azam,Pakistan
+1992,Hammad Mirza,Oman
+1993,Hamza Dar,Spain
+1994,Hamza Khan,Rwanda
+1995,Hamza Tahir,Scotland
+1996,Hamza Tariq,Canada
+1997,Hannan Sarkar,Bangladesh
+1998,Happy Kumari,Gujarat Giants
+1999,Harbhajan Singh,India
+2000,Hardeep Singh,Cyprus
+2001,Haris Karim,Slovenia
+2002,Haris Rauf,Pakistan
+2003,Haris Sohail,Pakistan
+2004,Harmeet Singh,United States of America
+2005,Haroon Arshad,Hong Kong
+2006,Haroon Mughal,Malta
+2007,Haroon Shahid,Kuwait
+2008,Harpreet Brar,Kings XI Punjab
+2009,Harpreet Singh,Punjab Kings
+2010,Harprit Singh,Mexico
+2011,Harry Johnson,Guernsey
+2012,Harsh Dubey,Sunrisers Hyderabad
+2013,Harshit Rana,India
+2014,Hasan Ali,Pakistan
+2015,Hasan Cakir,Turkey
+2016,Hasan Mahmud,Bangladesh
+2017,Hasan Murad,Bangladesh
+2018,Hasan Raza,Pakistan
+2019,Hasan Yanar,Turkey
+2020,Hasanuzzaman,Khulna Titans
+2021,Haseeb Amjad,Hong Kong
+2022,Haseeb Ghafoor,Saudi Arabia
+2023,Haseebullah Khan,Pakistan
+2024,Hashir Dafedar,Oman
+2025,Hashir Hussain,Norway
+2026,Hasibul Hossain,Bangladesh
+2027,Hassan Eisakhil,Noakhali Express
+2028,Hassan Khan,Germany
+2029,Hassan Khan Mohammad,Hong Kong
+2030,Hassan Mehmood,Sweden
+2031,Hassan Nasir,Mexico
+2032,Hassan Nawaz,Pakistan
+2033,Hassan Rasheed,Maldives
+2034,Hassnain Shah,Oman
+2035,Hayatullah Niazi,Norway
+2036,Hazrat Bilal,United Arab Emirates
+2037,Hazrat Luqman,United Arab Emirates
+2038,Hazratullah,Peshawar Zalmi
+2039,Hein Zin Aung,Myanmar
+2040,Het Patel,Eswatini
+2041,Hilal Ahmad,Czech Republic
+2042,Himmat Singh,Lucknow Super Giants
+2043,Hisham Sheikh,Saudi Arabia
+2044,Hossain Ali,Rajshahi Kings
+2045,Htun Myat Hei,Myanmar
+2046,Huang Junjie,China
+2047,Humayun Kabir,Sweden
+2048,Hunain Shah,Islamabad United
+2049,Husnain Kabeer,Germany
+2050,Hussain Talat,Pakistan
+2051,Huzaif Yousuf,Bulgaria
+2052,Huzaifa Mohammed,Philippines
+2053,Hwanhee Lee,South Korea
+2054,I Asif,Austria
+2055,I Bardis,Greece
+2056,I Danladi,Nigeria
+2057,I Elec,Turkey
+2058,I Ganness,Turks and Caicos Island
+2059,I Kaia,Zimbabwe
+2060,I Kamara,Sierra Leone
+2061,I Katzarski,Bulgaria
+2062,I Khaleel,St Kitts and Nevis Patriots
+2063,I Khan,South Africa
+2064,I Komba,Sierra Leone
+2065,I Liyanage,Qatar
+2066,I Malhotra,Deccan Chargers
+2067,I Mansaray,Sierra Leone
+2068,I Maraj,Canada
+2069,I Master,Botswana
+2070,I Mugisha,Rwanda
+2071,I Mwebaze,Uganda
+2072,I Niyomugabo,Rwanda
+2073,I Ntirenganya,Rwanda
+2074,I Pandey,Nepal
+2075,I Sharma,India
+2076,I Stewart,Switzerland
+2077,I Takahashi,Japan
+2078,I Tchakou,Cameroon
+2079,I Uboh,Nigeria
+2080,I Udana,Sri Lanka
+2081,I Wardlaw,Scotland
+2082,IA Cockbain,Adelaide Strikers
+2083,IA De Silva,Bulgaria
+2084,IA Karim,Kenya
+2085,IA Moran,Sydney Sixers
+2086,IA Nicolson,Zimbabwe
+2087,IC Pandey,Pune Warriors
+2088,IC Porel,Punjab Kings
+2089,IC Simao,Brazil
+2090,ID Blackwell,England
+2091,ID Matic,Croatia
+2092,IDA Damarell,Guernsey
+2093,IDM Latin,Gibraltar
+2094,IDR Bradshaw,West Indies
+2095,IE O'Brien,New Zealand
+2096,IECM Wong,Mumbai Indians
+2097,IG Butler,New Zealand
+2098,IG Holland,United States of America
+2099,IGTP Wiguna,Indonesia
+2100,IGTR Kumara,Maldives
+2101,IH Romaine,Bermuda
+2102,II Selemani,Tanzania
+2103,IIR Bhana,Panama
+2104,IJ Harvey,Australia
+2105,IJL Trott,England
+2106,IK Darmawan,Indonesia
+2107,IK Gamantika,Indonesia
+2108,IK Pathan,India
+2109,IKEG Artawan,Indonesia
+2110,IKO Aboagye,Ghana
+2111,IM Farrell,Gibraltar
+2112,IO Okpe,Nigeria
+2113,IP Swaney,Singapore
+2114,IPP Batuwitarachchi,United Arab Emirates
+2115,IR Bell,England
+2116,IR Jaggi,Kolkata Knight Riders
+2117,IS Billcliff,Canada
+2118,IS Munir,Uganda
+2119,IS Sodhi,New Zealand
+2120,IS Sohi,Canada
+2121,IW Budiarta,Indonesia
+2122,Ian Roberts,Argentina
+2123,Ibrahim Altinoluk,Turkey
+2124,Ibrahim Hassan,Maldives
+2125,Ibrahim Jabarkhel,France
+2126,Ibrahim Karim,Sierra Leone
+2127,Ibrahim Kpaka,Sierra Leone
+2128,Ibrahim Kursad Dalyan,Turkey
+2129,Ibrahim Nashath,Maldives
+2130,Ibrahim Rahimi,Norway
+2131,Ibrahim Rizan,Maldives
+2132,Ibrahim Zadran,Fortune Barishal
+2133,Ibrar Ahmad,Hungary
+2134,Ibtisam Sheikh,Peshawar Zalmi
+2135,Idrees Ul Haque,Switzerland
+2136,Ifran Hossain,Cumilla Warriors
+2137,Iftekar Jaman,Cyprus
+2138,Iftikhar Ahmed,Pakistan
+2139,Iftikhar Anjum,Pakistan
+2140,Iftikhar Kankhel,Belgium
+2141,Ignacio Lisboa,Chile
+2142,Ihsanullah,Pakistan
+2143,Ihsanullah Wafa,Sweden
+2144,Ijaz Hussain,Romania
+2145,Ikbal Hossain,France
+2146,Ikramullah Khan,Qatar
+2147,Ilyas Ahmed,Kuwait
+2148,Ilyas Ataullah,Turkey
+2149,Ilyas Cetin,Turkey
+2150,Imad Wasim,Pakistan
+2151,Imal Zuwak,Sweden
+2152,Imam-ul-Haq,Pakistan
+2153,Imran Ahmed Kaneez,Costa Rica
+2154,Imran Ali Butt,Bahrain
+2155,Imran Ameer,Malta
+2156,Imran Anwar,Bahrain
+2157,Imran Arif,Saudi Arabia
+2158,Imran Butt,Bahrain
+2159,Imran Farhat,Pakistan
+2160,Imran Haider,United Arab Emirates
+2161,Imran Khalid,Islamabad United
+2162,Imran Khan,Portugal
+2163,Imran Khan (1),Pakistan
+2164,Imran Khan (2),Multan Sultans
+2165,Imran Nazir,Pakistan
+2166,Imran Tahir,South Africa
+2167,Imran Uzzaman,Minister Group Dhaka
+2168,Imran Yousaf,Saudi Arabia
+2169,Imrul Kayes,Bangladesh
+2170,Imtiaz Hossain,Sylhet Royals
+2171,Imtiaz Khan,Saudi Arabia
+2172,Inam-ul-Haq,Qatar
+2173,Inshaf Farook,Lesotho
+2174,Inzamam-ul-Haq,Pakistan
+2175,Iqbal Abdulla,Royal Challengers Bangalore
+2176,Iqbal Hossain,Austria
+2177,Iqbal Hossain Emon,Fortune Barishal
+2178,Iqbal Hussain,Qatar
+2179,Irfan Ahmed,Hong Kong
+2180,Irfan Hafejee,Panama
+2181,Irfan Khan,Pakistan
+2182,Irfan Safi,Austria
+2183,Irfan Sarfraz,Saudi Arabia
+2184,Irfan Sukkur,Dhaka Dynamites
+2185,Irshad Mubbashar,Saudi Arabia
+2186,Isa Zaroo,Bulgaria
+2187,Ishan Kishan,India
+2188,Ishtiaq Ahmad,Saudi Arabia
+2189,Ismaeel Zia,Sweden
+2190,Ismail Ali,Maldives
+2191,Ismail Sardar,Thailand
+2192,Ismaila Tanba,Gambia
+2193,Israr Khan,Germany
+2194,Itibarshah Deedar,Austria
+2195,Ivan Splicevic,Croatia
+2196,Izatullah Dawlatzai,Germany
+2197,Izaz Ali,Slovenia
+2198,Izhar Hussain,Switzerland
+2199,Izharulhaq Naveed,Sydney Sixers
+2200,J Albin,Bulgaria
+2201,J Alegra,Philippines
+2202,J Allenby,Peshawar Zalmi
+2203,J Anderson,Ireland
+2204,J Andrew,West Indies
+2205,J Arunkumar,Royal Challengers Bangalore
+2206,J Avendano,Sydney Sixers
+2207,J Baguma,Uganda
+2208,J Baker,Cayman Islands
+2209,J Baleicikoibia,Fiji
+2210,J Bangura,Sierra Leone
+2211,J Barker,Luxembourg
+2212,J Batinibulu,Fiji
+2213,J Bishop,Barbados Tridents
+2214,J Blackwood,West Indies
+2215,J Blades,West Indies
+2216,J Botha,South Africa
+2217,J Broad,Germany
+2218,J Brown,Brisbane Heat
+2219,J Buchanan,Cayman Islands
+2220,J Bulele,Mozambique
+2221,J Butler,Guernsey
+2222,J Byrappa,Mexico
+2223,J Cama,Fiji
+2224,J Campbell,Zimbabwe
+2225,J Charles,West Indies
+2226,J Chaturanga,Bahrain
+2227,J Chialoufas,Cyprus
+2228,J Clayton,Brisbane Heat
+2229,J Clough,Isle of Man
+2230,J Coetzee,Thailand
+2231,J Cutinho,Costa Rica
+2232,J Da Silva,West Indies
+2233,J Daley,Turks and Caicos Island
+2234,J Danikula,Croatia
+2235,J Dickinson,Scotland
+2236,J Dowling,Bulgaria
+2237,J Drysdale,United States of America
+2238,J Dunn,Vanuatu
+2239,J Dzulfikar,Indonesia
+2240,J Edness,Bermuda
+2241,J Edwards,Australia
+2242,J Essex,St Helena
+2243,J Evans,Israel
+2244,J Fernando,Romania
+2245,J Figy John,United Arab Emirates
+2246,J Fraser-McGurk,Australia
+2247,J Gallimore,Bahamas
+2248,J Ghadiyali,Swaziland
+2249,J Ghelzai,Austria
+2250,J Giyanani,United Arab Emirates
+2251,J Glen,Jamaica Tallawahs
+2252,J Grassi,Italy
+2253,J Grzinic,Croatia
+2254,J Guatam,Ghana
+2255,J Gumbie,Zimbabwe
+2256,J Hansrod,Swaziland
+2257,J Henry,St Helena
+2258,J Hermann,South Africa
+2259,J Hill,Philippines
+2260,J Horrocks,Gibraltar
+2261,J Hull,England
+2262,J Hurley,Argentina
+2263,J Jagroo,Bahamas
+2264,J Jarvis,Scotland
+2265,J Jemison,Bahamas
+2266,J Jojo,Denmark
+2267,J Kann,Hobart Hurricanes
+2268,J Kariko,Papua New Guinea
+2269,J Kemp,Jersey
+2270,J Khadka,Romania
+2271,J Kila,Papua New Guinea
+2272,J Kunnanchirakkal,Malta
+2273,J Lassayo,Sierra Leone
+2274,J Layne,West Indies
+2275,J Lewis,England
+2276,J Little,Ireland
+2277,J Liyanage,Sri Lanka
+2278,J Long,Philippines
+2279,J Louw,South Africa
+2280,J Marples,Gibraltar
+2281,J Martins,Portugal
+2282,J Masquater,Tanzania
+2283,J Matharu,Canada
+2284,J McAllister,St Lucia Kings
+2285,J Mees,Luxembourg
+2286,J Merlo,Melbourne Stars
+2287,J Mikulic,Slovenia
+2288,J Miyaji,Uganda
+2289,J Morgan,Perth Scorchers
+2290,J Mosca,Italy
+2291,J Mubarak,Sri Lanka
+2292,J Mulder,Ireland
+2293,J Neill,Ireland
+2294,J Nyumbu,Zimbabwe
+2295,J Overton,England
+2296,J Pakeman,Belize
+2297,J Pakhiaokajee,Thailand
+2298,J Pant,Luxembourg
+2299,J Patraj,Canada
+2300,J Perman,Spain
+2301,J Perry,Suriname
+2302,J Pickering,Cook Islands
+2303,J Pook,Belize
+2304,J Proctor,Bermuda
+2305,J Prodehl,South Africa
+2306,J Ramanandi,Oman
+2307,J Rasu,Vanuatu
+2308,J Raubenheimer,South Africa
+2309,J Reb,Serbia
+2310,J Royal,St Lucia Zouks
+2311,J Sebanja,Uganda
+2312,J Seymour,Melbourne Renegades
+2313,J Shaju,Malta
+2314,J Singye,Bhutan
+2315,J Smits,Netherlands
+2316,J Solomon,Ghana
+2317,J Srinath,India
+2318,J Stanigze,Sweden
+2319,J Suchith,Delhi Capitals
+2320,J Suleman,Eswatini
+2321,J Sumerauer,Jersey
+2322,J Syed Mohammad,Royal Challengers Bangalore
+2323,J Theron,United States of America
+2324,J Thinley,Bhutan
+2325,J Thomas,St Helena
+2326,J Trembeath-Moro,Spain
+2327,J Tuffin,Philippines
+2328,J Umanath,Mexico
+2329,J Vijay,Portugal
+2330,J Vira,Vanuatu
+2331,J Wadia,Adelaide Strikers
+2332,J Weatherald,Australia
+2333,J West,Gibraltar
+2334,J Wilson,Gibraltar
+2335,J Yadav,India
+2336,J Yon,St Helena
+2337,J van Heerden,Germany
+2338,JA Burns,Australia
+2339,JA Burrows,Isle of Man
+2340,JA Chohan,Sydney Sixers
+2341,JA Clarkson,New Zealand
+2342,JA Davies,Sydney Thunder
+2343,JA Duffy,New Zealand
+2344,JA Fitzgerald,Gibraltar
+2345,JA Foo,Jamaica Tallawahs
+2346,JA Freeman,Hobart Hurricanes
+2347,JA McCollum,Ireland
+2348,JA Morkel,South Africa
+2349,JA Prestwidge,Brisbane Heat
+2350,JA Raval,New Zealand
+2351,JA Richardson,Australia
+2352,JA Rudolph,Africa XI
+2353,JA Simpson,England
+2354,JA Sinclair,Guyana Amazon Warriors
+2355,JA Thompson,Hobart Hurricanes
+2356,JA Turner,England
+2357,JA Warrican,West Indies
+2358,JAD Lawrenson,Jersey
+2359,JAH Marshall,New Zealand
+2360,JAM Henri,Portugal
+2361,JAR Blain,Scotland
+2362,JB Abega,Cameroon
+2363,JB Lintott,Barbados Royals
+2364,JB Reva,Papua New Guinea
+2365,JB Richards,Botswana
+2366,JC Archer,England
+2367,JC Balt,Namibia
+2368,JC Buttler,England
+2369,JC Carmichael,St Kitts and Nevis Patriots
+2370,JC Darji,Tanzania
+2371,JC Guillen,Trinidad & Tobago Red Steel
+2372,JC Martin,Guernsey
+2373,JC Silk,Sydney Sixers
+2374,JC Tongue,England
+2375,JC Tredwell,England
+2376,JD Allan,Vanuatu
+2377,JD Baker,Samoa
+2378,JD Campbell,West Indies
+2379,JD Cook,Sydney Thunder
+2380,JD Freyone,Gibraltar
+2381,JD Nel,Scotland
+2382,JD Newton,Croatia
+2383,JD Ryder,New Zealand
+2384,JD Smith,Adelaide Strikers
+2385,JD Unadkat,India
+2386,JD Wildermuth,Australia
+2387,JDA Richardson,Bermuda
+2388,JDF Vandersay,Sri Lanka
+2389,JDP Albertze,Bermuda
+2390,JDP Oram,New Zealand
+2391,JDS Neesham,New Zealand
+2392,JE Dunford,Jersey
+2393,JE Pitcher,Bermuda
+2394,JE Root,England
+2395,JE Scott,Bahamas
+2396,JE Taylor,West Indies
+2397,JEA Doctora,Philippines
+2398,JEC Franklin,New Zealand
+2399,JF Bangura,Sierra Leone
+2400,JF Chester,Swaziland
+2401,JF Jeremiah,St Lucia Kings
+2402,JF Kloppenburg,Netherlands
+2403,JF Mooney,Ireland
+2404,JF Smith,South Africa
+2405,JG Bethell,England
+2406,JH Davey,Scotland
+2407,JH Desai,United States of America
+2408,JH Kallis,South Africa
+2409,JH Kiani,Philippines
+2410,JH Mensah,Ghana
+2411,JH Stander,Scotland
+2412,JI Rodrigues,Delhi Capitals
+2413,JI de Villiers,Namibia
+2414,JJ Athanaze,Antigua Hawksbills
+2415,JJ Atkinson,Hong Kong
+2416,JJ Bazley,Brisbane Heat
+2417,JJ Bumrah,India
+2418,JJ Celestine,Bermuda
+2419,JJ Chicuele,Mozambique
+2420,JJ Cobb,Barisal Bulls
+2421,JJ Davidson,Scotland
+2422,JJ Esmeijer,Netherlands
+2423,JJ Huo,Mozambique
+2424,JJ Krejza,Australia
+2425,JJ Nyambo,Tanzania
+2426,JJ Peirson,Brisbane Heat
+2427,JJ Roy,England
+2428,JJ Smit,Namibia
+2429,JJ Tucker,Bermuda
+2430,JJ Wright,Swaziland
+2431,JJ van der Wath,South Africa
+2432,JJC Lawson,West Indies
+2433,JJS Sangha,Sydney Thunder
+2434,JK Fuller,Karachi Kings
+2435,JK Kamande,Kenya
+2436,JK Lalor,Brisbane Heat
+2437,JK Masara,Zimbabwe
+2438,JK Mukhiya,Nepal
+2439,JK Reed,Hobart Hurricanes
+2440,JK Silva,Sri Lanka
+2441,JK Vifah,Ghana
+2442,JKC Ahir,Panama
+2443,JKP Ellick,St Helena
+2444,JL Carter,West Indies
+2445,JL Curtis,Perth Scorchers
+2446,JL Denly,England
+2447,JL Jaggesar,Jamaica Tallawahs
+2448,JL Jonassen,Delhi Capitals
+2449,JL Langer,Australia
+2450,JL Louw,Namibia
+2451,JL Martel,Guernsey
+2452,JL Ontong,South Africa
+2453,JL Pattinson,Australia
+2454,JL Smith,England
+2455,JL Solozano,West Indies
+2456,JL Tutty,Cook Islands
+2457,JL de Mey,Netherlands
+2458,JL du Plooy,Karachi Kings
+2459,JM Anderson,England
+2460,JM Bairstow,England
+2461,JM Bird,Australia
+2462,JM Carder,Sydney Sixers
+2463,JM Clarke,Perth Scorchers
+2464,JM Cox,England
+2465,JM Davison,Canada
+2466,JM Herrick,Melbourne Renegades
+2467,JM Holland,Australia
+2468,JM How,New Zealand
+2469,JM Iradukunda,Rwanda
+2470,JM James,Jamaica Tallawahs
+2471,JM Joao,Mozambique
+2472,JM Kemp,South Africa
+2473,JM Mennie,Australia
+2474,JM Muirhead,Australia
+2475,JM Obando,Costa Rica
+2476,JM Polarouthu,Hungary
+2477,JM Sharma,India
+2478,JM Vince,England
+2479,JM Vujinovich,Croatia
+2480,JMJ Lynn,Indonesia
+2481,JMV Junior,Fiji
+2482,JN Dorji,Bhutan
+2483,JN Frylinck,Namibia
+2484,JN Gillespie,Australia
+2485,JN Hamilton,West Indies
+2486,JN Kalita,Mumbai Indians
+2487,JN Loftie-Eaton,Namibia
+2488,JN Malan,South Africa
+2489,JN Mohammed,West Indies
+2490,JN Rhodes,South Africa
+2491,JN Snape,England
+2492,JN du Plooy,Hungary
+2493,JNK Shannon,Ireland
+2494,JNT Seales,West Indies
+2495,JNT Vare,Papua New Guinea
+2496,JO Adedeji,Nigeria
+2497,JO Holder,West Indies
+2498,JO Ngoche,Kenya
+2499,JO Troughton,England
+2500,JOA Gordon,Canada
+2501,JOP Scamans,Finland
+2502,JP Behrendorff,Australia
+2503,JP Bray,Ireland
+2504,JP Cabrera,Argentina
+2505,JP Crawley,England
+2506,JP Duminy,South Africa
+2507,JP Faulkner,Australia
+2508,JP Greaves,West Indies
+2509,JP Inglis,Australia
+2510,JP Kaltapau,Vanuatu
+2511,JP Kotze,Namibia
+2512,JP Maher,Australia
+2513,JP Wood,Brisbane Heat
+2514,JPR Lamsam,Hong Kong
+2515,JPR Scantlebury-Searles,Kolkata Knight Riders
+2516,JQK Moala,Fiji
+2517,JR Barry,Bahamas
+2518,JR Coleman,Melbourne Stars
+2519,JR Dean,Adelaide Strikers
+2520,JR Doran,Sydney Thunder
+2521,JR Hazlewood,Australia
+2522,JR Hopes,Australia
+2523,JR Lennox,New Zealand
+2524,JR Lucky,Costa Rica
+2525,JR Philippe,Australia
+2526,JRMVB Sanjaya,Sri Lanka
+2527,JS Ababu,Kenya
+2528,JS Buckingham,Adelaide Strikers
+2529,JS Floros,Brisbane Heat
+2530,JS Foster,England
+2531,JS Henriksen,Denmark
+2532,JS Iggo,Singapore
+2533,JS Jesani,Kenya
+2534,JS Kundi,Kenya
+2535,JS Lehmann,Adelaide Strikers
+2536,JS Lenton,Sydney Thunder
+2537,JS Louis,St Kitts and Nevis Patriots
+2538,JS Malhotra,United States of America
+2539,JS Paris,Australia
+2540,JS Patel,New Zealand
+2541,JT Ball,England
+2542,JT Brassell,Namibia
+2543,JT Darrell,Bermuda
+2544,JT Smuts,South Africa
+2545,JU Goolie,St Kitts and Nevis Patriots
+2546,JV Chand,Zambia
+2547,JV Harris,Canada
+2548,JW Chilia,Vanuatu
+2549,JW Dernbach,England
+2550,JW Hastings,Australia
+2551,JW Jenner,Jersey
+2552,JW Wells,Hobart Hurricanes
+2553,JW Wilson,New Zealand
+2554,JWA Taylor,England
+2555,JWM Dalrymple,England
+2556,JWN Moses,Botswana
+2557,JWW Gardner,Papua New Guinea
+2558,Jack Inglis,Chile
+2559,Jahandad Khan,Pakistan
+2560,Jahanzaib Sultan,Multan Sultans
+2561,Jahurul Islam,Bangladesh
+2562,Jai Prakash Yadav,India
+2563,Jai Sinh,Switzerland
+2564,Jai Tiwari,Switzerland
+2565,Jaikumar Thakur,Croatia
+2566,Jaison Jerome,Malta
+2567,Jaker Ali,Bangladesh
+2568,Jakir Patel,Zambia
+2569,Jakob Gul,Bulgaria
+2570,Jalaj S Saxena,Punjab Kings
+2571,Jalat Khan,Rawalpindiz
+2572,Jamaluddin Ahmed,Bangladesh
+2573,James Bracey,England
+2574,Jamshid Nasiri,France
+2575,Janak Prakash,Singapore
+2576,Jandu Hamoud,Kuwait
+2577,Jasdeep Singh,United States of America
+2578,Jashimuddin,Comilla Victorians
+2579,Jaskaran Singh,Canada
+2580,Jason Lui,Hong Kong
+2581,Jaspal Singh,Malta
+2582,Jaspreet Singh,Italy
+2583,Jassim Khan,Qatar
+2584,Jaswinder Singh,Malta
+2585,Jatinder Singh,Oman
+2586,Javed Maroofkhail,Norway
+2587,Javed Omar,Bangladesh
+2588,Javid Patel,Zambia
+2589,Jaweed Sadran,Austria
+2590,Jay Odedra,Oman
+2591,Jishan Alam,Durbar Rajshahi
+2592,Jitesh Patel,Malta
+2593,Jitin Singh,Tanzania
+2594,Jobayer Hossen,Seychelles
+2595,Joginder Sharma,India
+2596,John Bartlett,Chile
+2597,Jonte Smith,Bermuda
+2598,Jordan O'Brien,Finland
+2599,Joseph Angara,Kenya
+2600,Josh Brown,Melbourne Renegades
+2601,Joshua Asia,Nigeria
+2602,Jubaid Ahamed,France
+2603,Jubair Ahmed,Barisal Burners
+2604,Jubair Hossain,Bangladesh
+2605,Jun Hyunwoo,South Korea
+2606,Junaed Mullah,Slovenia
+2607,Junaid Aziz,Bahrain
+2608,Junaid Khan,Pakistan
+2609,Junaid Mehmood,Norway
+2610,Junaid Sheikh,Norway
+2611,Junaid Siddique,United Arab Emirates
+2612,Junaid Siddiqui,Canada
+2613,Junaid Zia,Pakistan
+2614,K Alleyne,St Lucia Kings
+2615,K Anjali Sarvani,UP Warriorz
+2616,K Babu,South Korea
+2617,K Bhurtel,Nepal
+2618,K Birkenstock,Namibia
+2619,K Boniface,Nigeria
+2620,K Burrows,Bahamas
+2621,K Campbell,St Lucia Kings
+2622,K Cawte,Isle of Man
+2623,K Christie,Hong Kong
+2624,K Dasan,Bulgaria
+2625,K Doriga,Papua New Guinea
+2626,K Dorji,Bhutan
+2627,K Fletcher,Switzerland
+2628,K Fubler,Bermuda
+2629,K Gaston,St Lucia Kings
+2630,K Ghalley,Bhutan
+2631,K Gilham,Czech Republic
+2632,K Goel,Kings XI Punjab
+2633,K Gore,United States of America
+2634,K Goud,UP Warriorz
+2635,K Govind,Seychelles
+2636,K Gowtham,India
+2637,K Hardat,Suriname
+2638,K Hinds,Bahamas
+2639,K Irakoze,Rwanda
+2640,K Jack,Turks and Caicos Island
+2641,K Jaikaran,Suriname
+2642,K Joshi,Austria
+2643,K Juma,Tanzania
+2644,K Kadowaki-Fleming,Japan
+2645,K Kamyuka,Canada
+2646,K Kartikeya,Mumbai Indians
+2647,K Kato-Stafford,Japan
+2648,K Kekez,Croatia
+2649,K Khejroliya,Royal Challengers Bangalore
+2650,K Klein,Netherlands
+2651,K Klesse,Germany
+2652,K Krishnakumar,Bulgaria
+2653,K Kubota,Japan
+2654,K Lake,Japan
+2655,K Lesporis,St Lucia Zouks
+2656,K Lewis,Jamaica Tallawahs
+2657,K Lion-Cachet,South Africa
+2658,K Loday,Bhutan
+2659,K Macheka,Zimbabwe
+2660,K Magram,Guyana Amazon Warriors
+2661,K Mahato,Nepal
+2662,K Matigimu,Zimbabwe
+2663,K Mendon,Czech Republic
+2664,K Mirpuri,Gibraltar
+2665,K Mishara,Sri Lanka
+2666,K Modise,Botswana
+2667,K Motlanka,Botswana
+2668,K Mtunduwatha,Malawi
+2669,K Nagnama,Ivory Coast
+2670,K Namchaikul,Thailand
+2671,K Nassoro,Tanzania
+2672,K Nestor,Gibraltar
+2673,K Nima,Bhutan
+2674,K Pala,Papua New Guinea
+2675,K Penjor,Bhutan
+2676,K Phillip,United States of America
+2677,K Pierre,West Indies
+2678,K Piet,Botswana
+2679,K Pitman,Jamaica Tallawahs
+2680,K Rabada,South Africa
+2681,K Ramsaran,St Lucia Zouks
+2682,K Santokie,West Indies
+2683,K Sathish,Singapore
+2684,K Senamontree,Thailand
+2685,K Shivam,Costa Rica
+2686,K Sinclair,West Indies
+2687,K Sonavale,Oman
+2688,K Subramanian,Singapore
+2689,K Suttisan,Thailand
+2690,K Takahashi,Japan
+2691,K Tari,Vanuatu
+2692,K Tathgur,Canada
+2693,K Thagunna,Nepal
+2694,K Thuchila,Malawi
+2695,K Upadhyay,Pune Warriors
+2696,K Verreynne,South Africa
+2697,K Vislapuu,Estonia
+2698,K Waiswa,Uganda
+2699,K Weeraratne,Sri Lanka
+2700,K Whatham,Canada
+2701,K Yadav,Rajasthan Royals
+2702,K Zondo,South Africa
+2703,KA Anderson,West Indies
+2704,KA Bazil,Cayman Islands
+2705,KA Edwards,West Indies
+2706,KA Hope,West Indies
+2707,KA Jadhav,Cameroon
+2708,KA Jamieson,New Zealand
+2709,KA Maharaj,South Africa
+2710,KA Pollard,West Indies
+2711,KA Vimlesh,Romania
+2712,KAB Hynam-Nyberg,Samoa
+2713,KAD Hurdle,Bermuda
+2714,KADM Fernando,Sri Lanka
+2715,KAJ Roach,West Indies
+2716,KAM Corbin,Barbados Tridents
+2717,KAR Hodge,West Indies
+2718,KB Ahir,Panama
+2719,KB Arun Karthik,Chennai Super Kings
+2720,KB Patil,Mexico
+2721,KB Tember,Indonesia
+2722,KC Brathwaite,West Indies
+2723,KC Cariappa,Kings XI Punjab
+2724,KC D'Souza,Bulgaria
+2725,KC Hodsoll,Bermuda
+2726,KC Ramamoorthy,Indonesia
+2727,KC Sangakkara,Sri Lanka
+2728,KD Clarke,New Zealand
+2729,KD Karthik,India
+2730,KD Kesuma,Indonesia
+2731,KD Mehta,Czech Republic
+2732,KD Mills,New Zealand
+2733,KD Petersen,South Africa
+2734,KD Shah,Hong Kong
+2735,KDA Lukies,Philippines
+2736,KDACK Gunarathne,Cambodia
+2737,KDC Clarke,New Zealand
+2738,KDK Vithanage,Sri Lanka
+2739,KE Bryce,Gujarat Giants
+2740,KED Carroll,Ireland
+2741,KF Bakiweyem,Ghana
+2742,KH Abe,Japan
+2743,KH Butt,Hong Kong
+2744,KH Devdhar,Deccan Chargers
+2745,KH Pandya,India
+2746,KH Prajapati,Oman
+2747,KHM James,St Kitts and Nevis Patriots
+2748,KHRK Fernando,Sri Lanka
+2749,KIC Asalanka,Sri Lanka
+2750,KJ Abbott,South Africa
+2751,KJ Coetzer,Scotland
+2752,KJ Cottoy,St Kitts and Nevis Patriots
+2753,KJ Ferrary,Gibraltar
+2754,KJ Garth,Gujarat Giants
+2755,KJ Harding,West Indies
+2756,KJ O'Brien,Ireland
+2757,KJ Patel,Seychelles
+2758,KJ Stagno,Gibraltar
+2759,KJ Young,Belize
+2760,KJJ van Noortwijk,Netherlands
+2761,KK Ahmed,India
+2762,KK Cooper,Rajasthan Royals
+2763,KK Dobell,Japan
+2764,KK Jennings,England
+2765,KK Lin Thu,Myanmar
+2766,KK Nair,India
+2767,KK Peters,West Indies
+2768,KK Sharma,Slovenia
+2769,KK Tillett,Belize
+2770,KL Nagarkoti,Kolkata Knight Riders
+2771,KL Rahul,India
+2772,KL Tucker,Bermuda
+2773,KM Asif,Chennai Super Kings
+2774,KM Awala,Ghana
+2775,KM Dabengwa,Zimbabwe
+2776,KM Jadhav,India
+2777,KM Jarvis,Zimbabwe
+2778,KM Venkataswamy,Czech Republic
+2779,KMA Aziz,Ivory Coast
+2780,KMA Paul,West Indies
+2781,KMC Bandara,Sri Lanka
+2782,KMDN Kulasekara,Sri Lanka
+2783,KN Chaddha,Indonesia
+2784,KN Gabhane,Hungary
+2785,KN Peiris,Sri Lanka
+2786,KN Singh,Suriname
+2787,KNA Bandara,Sri Lanka
+2788,KNM Fernando,Sri Lanka
+2789,KO Altamirano,Costa Rica
+2790,KO Meth,Zimbabwe
+2791,KO Otieno,Kenya
+2792,KO Wickham,Barbados Royals
+2793,KOA Powell,West Indies
+2794,KOK Williams,West Indies
+2795,KP Appanna,Royal Challengers Bangalore
+2796,KP Meiyappan,United Arab Emirates
+2797,KP Navgire,UP Warriorz
+2798,KP Pietersen,England
+2799,KP Walmsley,New Zealand
+2800,KR Ebanks,Cayman Islands
+2801,KR Jha,Austria
+2802,KR Mayers,West Indies
+2803,KR Patterson,Australia
+2804,KR Sen,India
+2805,KR Smith,Adelaide Strikers
+2806,KRP Silva,United States of America
+2807,KS Ahuja,Royal Challengers Bangalore
+2808,KS Airee,Nepal
+2809,KS Bagabena,Ghana
+2810,KS Bharat,India
+2811,KS Gautam,Gujarat Giants
+2812,KS Leverock,Bermuda
+2813,KS Lokuarachchi,Sri Lanka
+2814,KS Melius,St Lucia Zouks
+2815,KS Rathore,Rajasthan Royals
+2816,KS Sharma,Lucknow Super Giants
+2817,KS Williamson,New Zealand
+2818,KSA McKenzie,West Indies
+2819,KT Kasuza,Zimbabwe
+2820,KT Maphaka,South Africa
+2821,KT Sandher,Canada
+2822,KTGD Prasad,Sri Lanka
+2823,KTH Ratnayake,Sri Lanka
+2824,KTK Rodrigo,Maldives
+2825,KU Carty,West Indies
+2826,KV Morea,Papua New Guinea
+2827,KV Sharma,India
+2828,KW Richardson,Australia
+2829,KY Ottley,West Indies
+2830,KY Wilfried,Ivory Coast
+2831,Kabir Ali,England
+2832,Kabir Berlia,Singapore
+2833,Kaleem Sana,Canada
+2834,Kaleemullah,Oman
+2835,Kalhan Challu,Hong Kong
+2836,Kalyan Manne,Mexico
+2837,Kamal Raiz,Cyprus
+2838,Kamal Soukhiya,Luxembourg
+2839,Kamran Ahmadzai,France
+2840,Kamran Akmal,Pakistan
+2841,Kamran Ghulam,Pakistan
+2842,Kamran Hussain,Pakistan
+2843,Kamran Khan,Qatar
+2844,Kamran Khan (2),Qatar
+2845,Kamran Shazad,United Arab Emirates
+2846,Kamran Wahid,Hungary
+2847,Kamrul Hasan,Eswatini
+2848,Kamrul Islam Rabbi,Bangladesh
+2849,Kapil Kumar,Philippines
+2850,Karan KC,Nepal
+2851,Karan Singh,Cyprus
+2852,Karanbir Singh,Austria
+2853,Karanveer Singh,Kings XI Punjab
+2854,Karim Janat,Gujarat Titans
+2855,Karma Dorji,Bhutan
+2856,Karthik Jayaraj,Cayman Islands
+2857,Karthik Pillai,Bulgaria
+2858,Kartik Sharma,Chennai Super Kings
+2859,Kartik Tyagi,Rajasthan Royals
+2860,Karweng NG,Philippines
+2861,Kashif Abbas,Saudi Arabia
+2862,Kashif Ali,Pakistan
+2863,Kashif Bhatti,Karachi Kings
+2864,Kashif Daud,United Arab Emirates
+2865,Kashif Khan,Singapore
+2866,Kashif Siddique,Saudi Arabia
+2867,Kasir Ahmed,Hungary
+2868,Kau Qalo,Fiji
+2869,Kaung Htet Kyaw,Myanmar
+2870,Kaung Ko Ko,Myanmar
+2871,Kaushal Kumar,Mexico
+2872,Kawsar Khan,Brazil
+2873,Kazim Somani,Malawi
+2874,Khaibar Deldar,Hungary
+2875,Khalander Mustafa,Saudi Arabia
+2876,Khaled Ahmed,Bangladesh
+2877,Khaled Mahmud,Bangladesh
+2878,Khaled Mashud,Bangladesh
+2879,Khalid Ahmadi,Belgium
+2880,Khalid Kail,Oman
+2881,Khalid Latif,Pakistan
+2882,Khalid Niazi,Switzerland
+2883,Khalid Shah,United Arab Emirates
+2884,Khalid Usman,Peshawar Zalmi
+2885,Khalid Zahid,Sweden
+2886,Khalil Ahmed,Quetta Gladiators
+2887,Khan Arbaaz,Lesotho
+2888,Khandubhai Ahir,Panama
+2889,Khawaja Nafay,Pakistan
+2890,Khawar Ali,Oman
+2891,Khawar Zafar,Saudi Arabia
+2892,Khin Aye,Myanmar
+2893,Khizar Hayat,Malaysia
+2894,Khizer Ahmed,Norway
+2895,Khurram Chohan,Canada
+2896,Khurram Khan,United Arab Emirates
+2897,Khurram Manzoor,Pakistan
+2898,Khurram Nawaz,Oman
+2899,Khurram Shahzad,Qatar
+2900,Khushdil Shah,Pakistan
+2901,Kim Daeyeon,South Korea
+2902,Komal Zanzad,Royal Challengers Bangalore
+2903,Komang Putra,Indonesia
+2904,Krishna Chandran,United Arab Emirates
+2905,Kristan Tillett,Belize
+2906,Kuldeep,Portugal
+2907,Kuldeep Gurjar,South Korea
+2908,Kuldeep Lal,Spain
+2909,Kuldeep Singh,Philippines
+2910,Kuldeep Yadav,India
+2911,Kulwinderjeet Singh,Philippines
+2912,Kumar Kushagra,Delhi Capitals
+2913,Kushal Malla,Nepal
+2914,L Ablish,Kings XI Punjab
+2915,L Balaji,India
+2916,L Berthe,Mali
+2917,L Bonner,Belize
+2918,L Botha,South Africa
+2919,L Bowe,Melbourne Stars
+2920,L Bruce,Gibraltar
+2921,L Canessane,France
+2922,L Croospulle,Durdanto Dhaka
+2923,L Denny,Cook Islands
+2924,L Embuldeniya,Sri Lanka
+2925,L Emilio,Mozambique
+2926,L Erdenebulgan,Mongolia
+2927,L Gharasim,Romania
+2928,L Gregory,England
+2929,L Guthrie,Brisbane Heat
+2930,L Harris,Delhi Capitals
+2931,L Haskett,Adelaide Strikers
+2932,L Holt,Perth Scorchers
+2933,L Kamarlekar,Israel
+2934,L Karlsson,Sweden
+2935,L Klusener,South Africa
+2936,L Lamin,Sierra Leone
+2937,L Lee,Delhi Capitals
+2938,L Louwrens,Namibia
+2939,L Makgale,Botswana
+2940,L Maphane,Botswana
+2941,L Maximo,Brazil
+2942,L McCarthy,Ireland
+2943,L Monanthane,Lesotho
+2944,L Mutale,Zambia
+2945,L Nakomo,Malawi
+2946,L Ngidi,South Africa
+2947,L Nou,Papua New Guinea
+2948,L Ntanzi,South Africa
+2949,L Nyarko,Ghana
+2950,L Perera,Botswana
+2951,L Pope,Sydney Sixers
+2952,L Ronchi,New Zealand
+2953,L Ruane,Finland
+2954,L Sanogo,Mali
+2955,L Scott,Adelaide Strikers
+2956,L Senokwane,South Africa
+2957,L Shafeeg,Maldives
+2958,L Shaw,Sydney Sixers
+2959,L Siaka,Papua New Guinea
+2960,L Sipamla,South Africa
+2961,L Smith,France
+2962,L Sreekumar,United Arab Emirates
+2963,L Steenkamp,Namibia
+2964,L Stubbs,Croatia
+2965,L Tucker,Ireland
+2966,L Vincent,New Zealand
+2967,L Ward,Isle of Man
+2968,L Wolvaardt,Gujarat Giants
+2969,L Wood,England
+2970,L Yamamoto-Lake,Japan
+2971,L Zulu,Swaziland
+2972,LA Burns,Spain
+2973,LA Carseldine,Rajasthan Royals
+2974,LA Collado,Gibraltar
+2975,LA Dawson,England
+2976,LA Doran,Sydney Thunder
+2977,LA Dunbar,Serbia
+2978,LA Goncalves,Brazil
+2979,LA Musiani,Argentina
+2980,LA Pomersbach,Australia
+2981,LA Simango,Mozambique
+2982,LAS Sebastien,St Lucia Zouks
+2983,LB Ferbrache,Guernsey
+2984,LB Williams,South Africa
+2985,LC Hatcher,Melbourne Stars
+2986,LC Le Tissier,Guernsey
+2987,LC Romero,United States of America
+2988,LCN Smith,Royal Challengers Bengaluru
+2989,LD Chandimal,Sri Lanka
+2990,LD Hearne,Brisbane Heat
+2991,LD Madushanka,Sri Lanka
+2992,LD Pfeffer,Brisbane Heat
+2993,LE Bosman,South Africa
+2994,LE Plunkett,England
+2995,LF Mavume,Mozambique
+2996,LF Muller,Brazil
+2997,LG Moras,Brazil
+2998,LG Pretorius,South Africa
+2999,LH Ferguson,New Zealand
+3000,LH Rodrigues,Brazil
+3001,LHB Harrington-Myers,Cayman Islands
+3002,LHD Dilhara,Sri Lanka
+3003,LI Meriwala,Delhi Capitals
+3004,LI Salomone,Mozambique
+3005,LJ Barker,Guernsey
+3006,LJ Burger,Namibia
+3007,LJ Evans,Perth Scorchers
+3008,LJ Hamilton,New Zealand
+3009,LJ Leokaoke,Lesotho
+3010,LJ Myott,Philippines
+3011,LJ Woodcock,New Zealand
+3012,LJ Wright,England
+3013,LJA Julien,Trinbago Knight Riders
+3014,LK Bell,Royal Challengers Bengaluru
+3015,LK Hamilton,Delhi Capitals
+3016,LK Sharma,Mexico
+3017,LKW Ezechiel,Ivory Coast
+3018,LL Tsotsobe,South Africa
+3019,LM Edward,St Lucia Kings
+3020,LM Gabriel,Lesotho
+3021,LM Jongwe,Zimbabwe
+3022,LM Reece,Chittagong Vikings
+3023,LMM Tahuhu,Gujarat Giants
+3024,LMP Simmons,West Indies
+3025,LN O'Connor,Adelaide Strikers
+3026,LN Oluoch,Kenya
+3027,LN Onyango,Kenya
+3028,LN Rajbanshi,Nepal
+3029,LN Roche,Zimbabwe
+3030,LN Saishiv,Oman
+3031,LOB Cann,Bermuda
+3032,LP Kasturiarachchige,Austria
+3033,LP van Troost,Netherlands
+3034,LPC Silva,Sri Lanka
+3035,LR Butterworth,Sydney Thunder
+3036,LR Gaonkar,Panama
+3037,LR Johnson,West Indies
+3038,LR Morris,Australia
+3039,LR Naylor,Scotland
+3040,LR Shukla,Kolkata Knight Riders
+3041,LRPL Taylor,New Zealand
+3042,LS Baker,West Indies
+3043,LS Barkania,Tanzania
+3044,LS Boucher,Barbados Tridents
+3045,LS Livingstone,England
+3046,LS Lugg,St Lucia Kings
+3047,LSP Siriwardene,Israel
+3048,LT Bichard,Guernsey
+3049,LU Igalagamage,Sri Lanka
+3050,LV van Beek,Netherlands
+3051,LW Feldman,Sydney Sixers
+3052,LW Potthoff,Croatia
+3053,Lakshit Gupta,Cambodia
+3054,Lalit Yadav,Delhi Capitals
+3055,Lee Hyosin,South Korea
+3056,Lee Kangmin,South Korea
+3057,Lemar Momand,Sweden
+3058,Liton Das,Bangladesh
+3059,Lokesh Bam,Nepal
+3060,Lovedeep Singh,Cyprus
+3061,Lovepreet Singh,United Arab Emirates
+3062,Luca Petre,Romania
+3063,Lucas Rossi,Argentina
+3064,Lucky Ali,Denmark
+3065,Luis Hermida,Mexico
+3066,Luka Woods,Serbia
+3067,Luo Shilin,China
+3068,Luqman Butt,Cambodia
+3069,Lwin Maw,Myanmar
+3070,M Abdulla,Malawi
+3071,M Aboagye,Ghana
+3072,M Akayezu,Rwanda
+3073,M Akhigbe,Nigeria
+3074,M Altankhuyag,Mongolia
+3075,M Ansari,Oman
+3076,M Ashwin,Royal Challengers Bangalore
+3077,M Badenhorst,Botswana
+3078,M Bean,Hobart Hurricanes
+3079,M Beardman,Australia
+3080,M Beitaki,Fiji
+3081,M Bhanuka,Sri Lanka
+3082,M Bhatia,Singapore
+3083,M Brasier,Finland
+3084,M Breban,Guernsey
+3085,M Bryant,Brisbane Heat
+3086,M Campopiano,Italy
+3087,M Chadha,Cambodia
+3088,M Charlie,Papua New Guinea
+3089,M Choamba,Malawi
+3090,M Clarke,St Lucia Kings
+3091,M Coetzee,Hong Kong
+3092,M Cohen,Israel
+3093,M Commins,Ireland
+3094,M Cope,Luxembourg
+3095,M Dale-Bradley,Guernsey
+3096,M Deyal,Trinbago Knight Riders
+3097,M Dillon,West Indies
+3098,M Dixit,Luxembourg
+3099,M Faheem,Thailand
+3100,M Faraz Akram,Zimbabwe
+3101,M Fontaine,Hungary
+3102,M Fru,Cameroon
+3103,M Gherasim,Romania
+3104,M Gilkes,Sydney Thunder
+3105,M Gill,Canada
+3106,M Gogev,Bulgaria
+3107,M Goonetilleke,Malta
+3108,M Gouws,Gibraltar
+3109,M Govia,St Lucia Kings
+3110,M Grzinic,Croatia
+3111,M Hayward,South Africa
+3112,M Heingo,Namibia
+3113,M Ibrahim,Ivory Coast
+3114,M Jansen,South Africa
+3115,M Jele,Swaziland
+3116,M Jenkinson,Finland
+3117,M Jobarteh,Gambia
+3118,M Joseph,South Africa
+3119,M Joshi,Gujarat Giants
+3120,M Jukic,Croatia
+3121,M Kadyan,Bulgaria
+3122,M Kaif,India
+3123,M Kapp,Delhi Capitals
+3124,M Karg,Namibia
+3125,M Kartik,India
+3126,M Kasselman,Botswana
+3127,M Kelly,Perth Scorchers
+3128,M Khauta,Lesotho
+3129,M Khojbariya,Eswatini
+3130,M Klinger,Australia
+3131,M Koli,Romania
+3132,M Kpaka,Sierra Leone
+3133,M Kristensen,Denmark
+3134,M Kulfiwala,Eswatini
+3135,M Kyriacou,Cyprus
+3136,M Labuschagne,Australia
+3137,M Leporoporo,Lesotho
+3138,M Levitt,Netherlands
+3139,M Louis,West Indies
+3140,M Machado,Portugal
+3141,M Magagula,Swaziland
+3142,M Malle,Mali
+3143,M Manhas,Delhi Daredevils
+3144,M Mani,Delhi Capitals
+3145,M Manivannan,Cayman Islands
+3146,M Mariyappan,Seychelles
+3147,M Markande,India
+3148,M Martin,Switzerland
+3149,M Matthew,St Lucia Zouks
+3150,M Montgomery,Germany
+3151,M Mooketsi,Botswana
+3152,M Morkel,South Africa
+3153,M Mosehle,South Africa
+3154,M Mpongwana,South Africa
+3155,M Muralitharan,Sri Lanka
+3156,M Musinguzi,Uganda
+3157,M Mwamadi,Malawi
+3158,M Nandu,Guyana Amazon Warriors
+3159,M Noble,Mexico
+3160,M Ntini,South Africa
+3161,M Ozturk,Turkey
+3162,M Pathirana,Sri Lanka
+3163,M Perry,Melbourne Renegades
+3164,M Podosky,Philippines
+3165,M Prasanna,Romania
+3166,M Prasidh Krishna,India
+3167,M Pretorius,Jamaica Tallawahs
+3168,M Pushpakumara,Sri Lanka
+3169,M Raikes,Gibraltar
+3170,M Rawat,Rajasthan Royals
+3171,M Sarenac,Serbia
+3172,M Sedgwick,Estonia
+3173,M Shahbaz Butt,Norway
+3174,M Shahrukh Khan,Punjab Kings
+3175,M Shezi,South Africa
+3176,M Shiraz,Sri Lanka
+3177,M Shumba,Zimbabwe
+3178,M Siddharth,Lucknow Super Giants
+3179,M Sidibe,Mali
+3180,M Simmons,Bermuda
+3181,M Simpson-Parker,Austria
+3182,M Smith,Turks and Caicos Island
+3183,M Sohel Patel,Panama
+3184,M Spoors,Canada
+3185,M Stanikzai,Switzerland
+3186,M Stoman,Portugal
+3187,M Syahadat Ramli,Malaysia
+3188,M Taniyama,Japan
+3189,M Taylor,Bahamas
+3190,M Theekshana,Sri Lanka
+3191,M Thurgate,Japan
+3192,M Tiwari,Delhi Capitals
+3193,M Turner,Turks and Caicos Island
+3194,M Vaik,Estonia
+3195,M Vandrasi,Czech Republic
+3196,M Vijay,India
+3197,M Viswanathan,Seychelles
+3198,M Vivekanandan,Mongolia
+3199,M Vohra,Kings XI Punjab
+3200,M Walker,Bermuda
+3201,M Whelan,Gibraltar
+3202,M Worndl,Czech Republic
+3203,M Wright,Hobart Hurricanes
+3204,M Yambayamba,Zambia
+3205,M Yunusu Issa,Tanzania
+3206,M Zondeki,Africa XI
+3207,M de Lange,South Africa
+3208,M van Jaarsveld,South Africa
+3209,M van Lingen,Namibia
+3210,M van Schoor,Namibia
+3211,MA Abbas,New Zealand
+3212,MA Agarwal,India
+3213,MA Algi,Mozambique
+3214,MA Aponso,Sri Lanka
+3215,MA Baig,Malawi
+3216,MA Beer,Australia
+3217,MA Butcher,England
+3218,MA Carberry,England
+3219,MA Jones,Scotland
+3220,MA Khote,Mumbai Indians
+3221,MA Leask,Scotland
+3222,MA Ntobela,South Africa
+3223,MA Ouma,Kenya
+3224,MA Parker,Scotland
+3225,MA Sherry,Singapore
+3226,MA Starc,Australia
+3227,MA Suji,Kenya
+3228,MA Vermeulen,Zimbabwe
+3229,MA Wood,England
+3230,MADI Hemantha,Sri Lanka
+3231,MB Kruger,Namibia
+3232,MB Loye,England
+3233,MB Parmar,Kolkata Knight Riders
+3234,MB Tambe,Finland
+3235,MB van Schelven,Netherlands
+3236,MBS Jonkman,Netherlands
+3237,MC Alex,Ivory Coast
+3238,MC Bascombe,West Indies
+3239,MC Henriques,Australia
+3240,MC Juneja,Delhi Daredevils
+3241,MC Patel,Gujarat Giants
+3242,MC Sorensen,Ireland
+3243,MCE Manalo,Philippines
+3244,MD Bates,New Zealand
+3245,MD Bell,New Zealand
+3246,MD Byrne,Indonesia
+3247,MD Choudhary,Lucknow Super Giants
+3248,MD Craig,New Zealand
+3249,MD Dai,Papua New Guinea
+3250,MD Fisher,England
+3251,MD Garratt,Gibraltar
+3252,MD Gunathilaka,Sri Lanka
+3253,MD Mishra,Deccan Chargers
+3254,MD Patel,United States of America
+3255,MD Rae,New Zealand
+3256,MD Shanaka,Sri Lanka
+3257,MD Stoneman,England
+3258,MD du Preez,Namibia
+3259,MDJ Walker,New Zealand
+3260,MDK Perera,Sri Lanka
+3261,MDKJ Perera,Sri Lanka
+3262,MDUS Jayasundera,Sri Lanka
+3263,ME Leoela,Lesotho
+3264,ME Sanuth,Oman
+3265,ME Trescothick,England
+3266,MEK Hussey,Australia
+3267,MF Hurst,Perth Scorchers
+3268,MF Maharoof,Sri Lanka
+3269,MF Manjate,Mozambique
+3270,MFI Assuncao,Brazil
+3271,MG Bevan,Australia
+3272,MG Bracewell,New Zealand
+3273,MG Erasmus,Namibia
+3274,MG Gale,Melbourne Renegades
+3275,MG Hogan,Hobart Hurricanes
+3276,MG Hunter,Gibraltar
+3277,MG Johnson,Australia
+3278,MG Kariata,Namibia
+3279,MG Neser,Australia
+3280,MG Vandort,Sri Lanka
+3281,MGSM Fernando,Italy
+3282,MH Cross,Scotland
+3283,MH Oman,Slovenia
+3284,MH Richardson,New Zealand
+3285,MH Wessels,Sydney Sixers
+3286,MH Yardy,England
+3287,MHW Papps,New Zealand
+3288,MJ Ansell,Isle of Man
+3289,MJ Buchanan,Melbourne Renegades
+3290,MJ Clarke,Australia
+3291,MJ Cosgrove,Australia
+3292,MJ Fisher,New Zealand
+3293,MJ Fourie,Ireland
+3294,MJ Guptill,New Zealand
+3295,MJ Hay,New Zealand
+3296,MJ Henry,New Zealand
+3297,MJ Hoggard,England
+3298,MJ Humphreys,Ireland
+3299,MJ Johnston,Hobart Hurricanes
+3300,MJ Leach,England
+3301,MJ Lumb,England
+3302,MJ Mason,New Zealand
+3303,MJ McClenaghan,New Zealand
+3304,MJ Mindley,West Indies
+3305,MJ North,Australia
+3306,MJ Owen,Australia
+3307,MJ Potts,England
+3308,MJ Prior,England
+3309,MJ Richardson,Germany
+3310,MJ Ross,Italy
+3311,MJ Saggers,England
+3312,MJ Santner,New Zealand
+3313,MJ Scotland,Bermuda
+3314,MJ Suthar,Gujarat Titans
+3315,MJ Swepson,Australia
+3316,MJ Tugaga,Samoa
+3317,MJG Rippon,Netherlands
+3318,MJJ Critchley,Melbourne Renegades
+3319,MJM Kavana,Cook Islands
+3320,MK Anafie,Ghana
+3321,MK Gnanasekaram,Switzerland
+3322,MK Lomror,Rajasthan Royals
+3323,MK Pandey,India
+3324,MK Thakur,Thailand
+3325,MK Tiwary,India
+3326,MKDI Amerasinghe,Sri Lanka
+3327,MKGCP Lakshitha,Sri Lanka
+3328,ML Bojang,Gambia
+3329,ML Castillo,Belize
+3330,ML Cummins,West Indies
+3331,ML Hayden,Australia
+3332,ML Kostic,Serbia
+3333,ML Lewis,Australia
+3334,ML Love,Australia
+3335,ML Maiava,Samoa
+3336,ML Nkala,Zimbabwe
+3337,ML Patel,Kenya
+3338,ML Schutt,Royal Challengers Bangalore
+3339,ML Udawatte,Sri Lanka
+3340,MM Ali,England
+3341,MM Baig,Qatar
+3342,MM English,Scotland
+3343,MM Iqbal,Scotland
+3344,MM Lanning,Delhi Capitals
+3345,MM Patel,India
+3346,MM Sarwar,Kuwait
+3347,MM Sharma,India
+3348,MM Siddique,Japan
+3349,MMA Jonkman,Netherlands
+3350,MMR Obili,Estonia
+3351,MN Nawaz,Sri Lanka
+3352,MN Samuels,West Indies
+3353,MN Waller,Zimbabwe
+3354,MN van Wyk,South Africa
+3355,MNK Fernando,Sri Lanka
+3356,MNM Aslam,Kuwait
+3357,MNR Cooray,Maldives
+3358,MO Bacarese,Gibraltar
+3359,MO Jones,Bermuda
+3360,MO Kain,United States of America
+3361,MO Kitunda,Tanzania
+3362,MO Odumbe,Kenya
+3363,MP Ainsworth,Hungary
+3364,MP Bicknell,England
+3365,MP Biddappa,Philippines
+3366,MP Breetzke,South Africa
+3367,MP Kuhnemann,Australia
+3368,MP O'Dowd,Netherlands
+3369,MP Stoinis,Australia
+3370,MP Vaughan,England
+3371,MP Yadav,India
+3372,MPGT Ketiyage,Cyprus
+3373,MPS Cheema,Austria
+3374,MQ Sheikh,Scotland
+3375,MR Adair,Ireland
+3376,MR Day,Sydney Thunder
+3377,MR Dorgan,Serbia
+3378,MR Gillespie,New Zealand
+3379,MR Johnson,United States of America
+3380,MR Kumar,United Arab Emirates
+3381,MR Marsh,Australia
+3382,MR Montfort,Canada
+3383,MR Ramprakash,England
+3384,MR Swart,Netherlands
+3385,MRJ Watt,Scotland
+3386,MS Atapattu,Sri Lanka
+3387,MS Aulakh,Canada
+3388,MS Bhandage,Royal Challengers Bengaluru
+3389,MS Bisla,Kings XI Punjab
+3390,MS Chapman,New Zealand
+3391,MS Crane,England
+3392,MS Dhoni,India
+3393,MS Diakite,Mali
+3394,MS Diawara,Mali
+3395,MS Gony,India
+3396,MS Graham,Bahamas
+3397,MS Harris,Australia
+3398,MS Kashyap,Gujarat Giants
+3399,MS Kasprowicz,Australia
+3400,MS Kibwana,Tanzania
+3401,MS Maker,Tanzania
+3402,MS Panesar,England
+3403,MS Sinclair,New Zealand
+3404,MS Tshabalala,South Africa
+3405,MS Wade,Australia
+3406,MT Chinouya,Zimbabwe
+3407,MT Coles,Dhaka Dynamites
+3408,MT Diaby,Mali
+3409,MT Renshaw,Australia
+3410,MT Steketee,Brisbane Heat
+3411,MTMMJ Ave,Cook Islands
+3412,MV Boucher,South Africa
+3413,MV Matsau,Lesotho
+3414,MV Pavlovic,Serbia
+3415,MVT Fernando,Sri Lanka
+3416,MW Archer,Melbourne Renegades
+3417,MW Dixon,Perth Scorchers
+3418,MW Edwards,Sydney Sixers
+3419,MW Forde,West Indies
+3420,MW Harvey,Melbourne Renegades
+3421,MW Hill,Melbourne Renegades
+3422,MW Jones,Scotland
+3423,MW Machan,Scotland
+3424,MW Parkinson,England
+3425,MW Short,Australia
+3426,MWA van Nierop,Netherlands
+3427,MWR Stokes,Guernsey
+3428,MY Bawa,Panama
+3429,Ma Qiancheng,China
+3430,Maaz Khan,Lesotho
+3431,Maaz Sadaqat,Pakistan
+3432,Mabsar Abdulla,Maldives
+3433,Madhawa Basnayaka,Finland
+3434,Mahbubul Alam,Bangladesh
+3435,Mahedi Hasan,Bangladesh
+3436,Mahfijul Islam,Chattogram Royals
+3437,Mahfuzur Rahman Rabby,Khulna Tigers
+3438,Mahidul Islam Ankon,Bangladesh
+3439,Mahmad Data,Panama
+3440,Mahmud Jasat,Panama
+3441,Mahmudul Hasan,Chittagong Vikings
+3442,Mahmudul Hasan Joy,Bangladesh
+3443,Mahmudullah,Bangladesh
+3444,Maidul Islam,Estonia
+3445,Mamoon Latif,Belgium
+3446,Manan Ali,Saudi Arabia
+3447,Manan Bashir,Bulgaria
+3448,Mandeep Singh,India
+3449,Manish Sharma,Cambodia
+3450,Manjural Islam,Bangladesh
+3451,Manjural Islam Rana,Bangladesh
+3452,Manoj Adhikari,Bhutan
+3453,Manpreet Singh,Italy
+3454,Mansoor Amjad,Pakistan
+3455,Mansoor Malangzai,Belgium
+3456,Mansoor Safi,Austria
+3457,Mansoor Shah,Norway
+3458,Manuel Iturbe,Argentina
+3459,Maqsood Ahmad,Belgium
+3460,Marcelle Hanekom,Cambodia
+3461,Mario Ovalle,Chile
+3462,Marshall Ayub,Bangladesh
+3463,Maruf Mridha,Chittagong Kings
+3464,Mashrafe Mortaza,Bangladesh
+3465,Masood Gurbaz,Chattogram Royals
+3466,Masood Jayezeh,Iran
+3467,Matiullah Khan,United Arab Emirates
+3468,Mayank Dagar,Sunrisers Hyderabad
+3469,Mayank Nagayach,Luxembourg
+3470,Mayank Rawat,Mumbai Indians
+3471,Mazhar Khan,Slovenia
+3472,Mazharul Islam,Seychelles
+3473,Md Ariyan,Romania
+3474,Md Rubel,Rajshahi Warriors
+3475,Md Shafiqul Haque,Thailand
+3476,Md Shuayeb,Cambodia
+3477,Meet Ahir,Panama
+3478,Meet Bhavsar,Kuwait
+3479,Meghna Singh,Gujarat Giants
+3480,Mehboob Ali,Malta
+3481,Mehedi Hasan Miraz,Bangladesh
+3482,Mehedi Hasan Rana,Comilla Victorians
+3483,Mehedi Maruf,Dhaka Dynamites
+3484,Mehrab Hossain jnr,Bangladesh
+3485,Mehran Khan,Oman
+3486,Mehran Mumtaz,Peshawar Zalmi
+3487,Mehran Siasar,Iran
+3488,Merwais Shinwari,Slovenia
+3489,Mian Mehmood,Portugal
+3490,Mihir Patel,Canada
+3491,Milad Momend,Luxembourg
+3492,Milind Kumar,United States of America
+3493,Minhajul Abedin Afridi,Rangpur Riders
+3494,Mir Hamza,Pakistan
+3495,Mirza Ahmed,Kuwait
+3496,Mirza Ahsan,Austria
+3497,Mirza Baig,Pakistan
+3498,Mirza Tahir Baig,Chattogram Royals
+3499,Misbah-ul-Haq,Pakistan
+3500,Mizanur Rahman,Dhaka Dynamites
+3501,Mobashar Ashraf,France
+3502,Mofassar Saeed,Norway
+3503,Mohamed Arief,Malaysia
+3504,Mohamed Azzam,Maldives
+3505,Mohamed Coulibaly,Mali
+3506,Mohamed Fadiga,Mali
+3507,Mohamed Ishmath,Maldives
+3508,Mohamed Khan,Sierra Leone
+3509,Mohamed Mahfooz,Maldives
+3510,Mohamed Miuvaan,Maldives
+3511,Mohamed Rishwan,Maldives
+3512,Mohamed Shafeeq,Kuwait
+3513,Mohamed Shiyam,Maldives
+3514,Mohamed Turay,Sierra Leone
+3515,Mohameed Taiwo,Nigeria
+3516,Mohammad Aadil Alam,Nepal
+3517,Mohammad Abbas,Pakistan
+3518,Mohammad Abrar,Qatar
+3519,Mohammad Ahnaff,Qatar
+3520,Mohammad Ahsan,Kuwait
+3521,Mohammad Ali,Pakistan
+3522,Mohammad Amin,Kuwait
+3523,Mohammad Amir,Pakistan
+3524,Mohammad Amir Khan,Peshawar Zalmi
+3525,Mohammad Asaduzzaman,Finland
+3526,Mohammad Asghar,Peshawar Zalmi
+3527,Mohammad Ashraful,Bangladesh
+3528,Mohammad Asif,Pakistan
+3529,Mohammad Atif,Spain
+3530,Mohammad Ayaz,United Arab Emirates
+3531,Mohammad Ayub,Pakistan
+3532,Mohammad Azab,Lahore Qalandars
+3533,Mohammad Basit,Peshawar Zalmi
+3534,Mohammad Bhaidu,Zambia
+3535,Mohammad Boota,United Arab Emirates
+3536,Mohammad Faiq,Islamabad United
+3537,Mohammad Ghazanfar,Hong Kong
+3538,Mohammad Hafeez,Pakistan
+3539,Mohammad Hamza,Karachi Kings
+3540,Mohammad Haris,Pakistan
+3541,Mohammad Hasnain,Pakistan
+3542,Mohammad Huraira,Pakistan
+3543,Mohammad Ihsan,Spain
+3544,Mohammad Ilyas,Multan Sultans
+3545,Mohammad Imran,Peshawar Zalmi
+3546,Mohammad Imran (2),Peshawar Zalmi
+3547,Mohammad Iqbal,Canada
+3548,Mohammad Irfan,Pakistan
+3549,Mohammad Irfan (4),Lahore Qalandars
+3550,Mohammad Irfan (5),Multan Sultans
+3551,Mohammad Kamran,Spain
+3552,Mohammad Kashif,Netherlands
+3553,Mohammad Khalil,Pakistan
+3554,Mohammad Khan Rafah,France
+3555,Mohammad Mithun,Bangladesh
+3556,Mohammad Mohsin,United States of America
+3557,Mohammad Nabi,Sunrisers Hyderabad
+3558,Mohammad Nadeem,Oman
+3559,Mohammad Naim,Bangladesh
+3560,Mohammad Naveed,United Arab Emirates
+3561,Mohammad Nawaz,Pakistan
+3562,Mohammad Nawaz (3),Pakistan
+3563,Mohammad Rafique,Bangladesh
+3564,Mohammad Rizlan,Qatar
+3565,Mohammad Rizwan,Pakistan
+3566,Mohammad Saddam,Khulna Titans
+3567,Mohammad Saifuddin,Bangladesh
+3568,Mohammad Salman,Pakistan
+3569,Mohammad Sami,Pakistan
+3570,Mohammad Shahid,Bangladesh
+3571,Mohammad Shahzad,United Arab Emirates
+3572,Mohammad Sharif,Bangladesh
+3573,Mohammad Taha,Karachi Kings
+3574,Mohammad Talha,Pakistan
+3575,Mohammad Tauqir,United Arab Emirates
+3576,Mohammad Umar,Multan Sultans
+3577,Mohammad Usman,United Arab Emirates
+3578,Mohammad Waheed,Hong Kong
+3579,Mohammad Wasim,Pakistan
+3580,Mohammad Yousuf,Pakistan
+3581,Mohammad Zahid,Pakistan
+3582,Mohammad Zeeshan,Peshawar Zalmi
+3583,Mohammed Alamgir,Eswatini
+3584,Mohammed Aslam,Qatar
+3585,Mohammed Awais,Qatar
+3586,Mohammed Faraazuddin,United Arab Emirates
+3587,Mohammed Irshad,Qatar
+3588,Mohammed Jamadar,Lesotho
+3589,Mohammed Nadeem,Qatar
+3590,Mohammed Qasim,United Arab Emirates
+3591,Mohammed Sameer,Bahrain
+3592,Mohammed Shami,India
+3593,Mohammed Siraj,India
+3594,Mohit Rathee,Punjab Kings
+3595,Mohmedazim Abbasbhai,Zambia
+3596,Mohomed Saddam,Seychelles
+3597,Mohor Sheikh,Dhaka Dynamites
+3598,Mohsin Khan,Hong Kong
+3599,Mohsin Shabbir,Saudi Arabia
+3600,Mohsin Zaki,Bahrain
+3601,Moin Khan,Pakistan
+3602,Mokbul Ahammed,Qatar
+3603,Momin Qamar,Multan Sultans
+3604,Mominul Haque,Bangladesh
+3605,Mongdara Sok,Cambodia
+3606,Monir Hossain,Barisal Bulls
+3607,Moniruzzaman,Bangladesh
+3608,Monu Kumar,Chennai Super Kings
+3609,Mosaddek Hossain,Bangladesh
+3610,Mosharraf Hossain,Bangladesh
+3611,Moshiur Rahman,Estonia
+3612,Mrittunjoy Chowdhury,Bangladesh
+3613,Mubasir Khan,Pakistan
+3614,Mubeen Tariq,Portugal
+3615,Mudassar Bukhari,Netherlands
+3616,Mudassar Muhammad,Germany
+3617,Mudassir Iqbal,South Korea
+3618,Muhaddis Muhaddis,Indonesia
+3619,Muhammad Afis,Indonesia
+3620,Muhammad Ajmal,Malta
+3621,Muhammad Akhlaq,Islamabad United
+3622,Muhammad Akram,Malaysia
+3623,Muhammad Amin,Swaziland
+3624,Muhammad Amir,Malaysia
+3625,Muhammad Ansar,Kuwait
+3626,Muhammad Arfan,United Arab Emirates
+3627,Muhammad Asim,Qatar
+3628,Muhammad Asjed,Spain
+3629,Muhammad Babar,Spain
+3630,Muhammad Burhan,Hungary
+3631,Muhammad Fahad,Turkey
+3632,Muhammad Fahim,Belgium
+3633,Muhammad Faizan,Lahore Qalandars
+3634,Muhammad Farooq,United Arab Emirates
+3635,Muhammad Haziq Aiman,Malaysia
+3636,Muhammad Ismail,Multan Sultans
+3637,Muhammad Jabir,Qatar
+3638,Muhammad Jawadullah,United Arab Emirates
+3639,Muhammad Kaleem,United Arab Emirates
+3640,Muhammad Kashif,Kuwait
+3641,Muhammad Khan,Hong Kong
+3642,Muhammad Moiz,Romania
+3643,Muhammad Muneeb,Belgium
+3644,Muhammad Murad,Qatar
+3645,Muhammad Musa,Pakistan
+3646,Muhammad Nadir,Rwanda
+3647,Muhammad Naeem,Saudi Arabia
+3648,Muhammad Riazullah,Karachi Kings
+3649,Muhammad Rohid,United Arab Emirates
+3650,Muhammad Safdar,Bahrain
+3651,Muhammad Saleem,Brazil
+3652,Muhammad Salman,Bahrain
+3653,Muhammad Saqib,Saudi Arabia
+3654,Muhammad Saqlain,Hungary
+3655,Muhammad Shahdad,United Arab Emirates
+3656,Muhammad Shahzad,Islamabad United
+3657,Muhammad Shoaib Ahmed,Cyprus
+3658,Muhammad Siddiqui,Slovenia
+3659,Muhammad Tahir,Greece
+3660,Muhammad Tanveer,Qatar
+3661,Muhammad Umar,Kuwait
+3662,Muhammad Usman,United Arab Emirates
+3663,Muhammad Usman (3),Hungary
+3664,Muhammad Wafiq,Malaysia
+3665,Muhammad Yasin,Spain
+3666,Muhammad Younis,Bahrain
+3667,Muhammad Zafar Khan,Tanzania
+3668,Muhammad Zaghlool,Belize
+3669,Muhammad Zohaib,United Arab Emirates
+3670,Muhammed Basil,Bahrain
+3671,Muhammed Imran,Oman
+3672,Muhammed Manga,Gambia
+3673,Muhammed Turkmen,Turkey
+3674,Muhammet Bicer,Turkey
+3675,Muhammet Kursat,Turkey
+3676,Mujeeb Ur Rahman,Kings XI Punjab
+3677,Mujeeb-ur-Rehman,Qatar
+3678,Mujibur Ali,Oman
+3679,Mukesh Choudhary,Chennai Super Kings
+3680,Mukesh Kumar,India
+3681,Mukesh Singh,Mexico
+3682,Mukhtar Ahmed,Pakistan
+3683,Mukhtar Ghulami,France
+3684,Mukhtiar Singh,Spain
+3685,Mukidul Islam,Rangpur Rangers
+3686,Muktar Ali,Bangladesh
+3687,Munim Shahriar,Bangladesh
+3688,Munir Dar,Hong Kong
+3689,Murad Khan,Rangpur Riders
+3690,Murat Ipek,Turkey
+3691,Murat Yilmaz,Turkey
+3692,Murid Ekrami,Belgium
+3693,Murtaza Yamin,Cyprus
+3694,Musa Ahmed,Netherlands
+3695,Musa Shaheen,Denmark
+3696,Musaddiq Ahmed,Germany
+3697,Musawar Shah,Qatar
+3698,Musfik Hasan,Comilla Victorians
+3699,Musheer Khan,Punjab Kings
+3700,Mushfiqur Rahim,Bangladesh
+3701,Mushfiqur Rahman,Bangladesh
+3702,Mushtaq Ahmed,Pakistan
+3703,Muslim Yar,Germany
+3704,Mustafa Atmaca,Turkey
+3705,Mustafa Balkis,Turkey
+3706,Mustafa Omer,France
+3707,Mustafizur Rahman,Bangladesh
+3708,Mustapha Suwareh,Gambia
+3709,Mustapha Yusuf,Nigeria
+3710,Muzahir Raza,Oman
+3711,Muzammil Shahzad,Philippines
+3712,Myat Thu Aung,Myanmar
+3713,N Acawei,Fiji
+3714,N Advani,Gibraltar
+3715,N Ahir,Panama
+3716,N Bidaisee,West Indies
+3717,N Boje,Africa XI
+3718,N Brand,South Africa
+3719,N Burger,South Africa
+3720,N Chejay,Bhutan
+3721,N Davidovic,Croatia
+3722,N Davin,Namibia
+3723,N Deonarine,West Indies
+3724,N Dickwella,Sri Lanka
+3725,N Dutta,Canada
+3726,N Edward,Trinbago Knight Riders
+3727,N Fernandes,United Arab Emirates
+3728,N Gnanapragasam,Seychelles
+3729,N Henderson,Switzerland
+3730,N Hirani,Kenya
+3731,N Hussain,England
+3732,N Ifill,Canada
+3733,N Jagadeesan,Chennai Super Kings
+3734,N Katechis,Greece
+3735,N Khanna,Malta
+3736,N Knights,Isle of Man
+3737,N Kranthi Reddy,Mumbai Indians
+3738,N Krishna,Seychelles
+3739,N Kruger,Netherlands
+3740,N M'shangwe,Zimbabwe
+3741,N Madziva,Zimbabwe
+3742,N Magagula,Swaziland
+3743,N Mapunda,Tanzania
+3744,N Master,Botswana
+3745,N McAndrew,Sydney Thunder
+3746,N Mokoena,South Africa
+3747,N Mourikis,Greece
+3748,N Mugabe,Kenya
+3749,N Nankov,Bulgaria
+3750,N Naranbaatar,Mongolia
+3751,N Ncube,Zimbabwe
+3752,N Ndouteng,Cameroon
+3753,N Ndzeute,Mozambique
+3754,N Nipiko,Vanuatu
+3755,N Nuntarach,Thailand
+3756,N Pathan,Thailand
+3757,N Peter,South Africa
+3758,N Pokana,Papua New Guinea
+3759,N Pooran,West Indies
+3760,N Pradeep,Sri Lanka
+3761,N Rana,India
+3762,N Saini,Kings XI Punjab
+3763,N Salekar,Thailand
+3764,N Senamontree,Thailand
+3765,N Shree Charani,Delhi Capitals
+3766,N Smith,Guyana Amazon Warriors
+3767,N Tanner,Philippines
+3768,N Thailappan,Bahrain
+3769,N Thushara,Sri Lanka
+3770,N Tyagi,Czech Republic
+3771,N Vanua,Papua New Guinea
+3772,N Wadhera,Mumbai Indians
+3773,N Wagner,New Zealand
+3774,N Wijesekera,Austria
+3775,N Zimonjic,Serbia
+3776,N de Klerk,Royal Challengers Bangalore
+3777,NA Gordon,Jamaica Tallawahs
+3778,NA Greenwood,Jersey
+3779,NA Janes,Thailand
+3780,NA Karnik,Singapore
+3781,NA Maiolo,Italy
+3782,NA McSweeney,Australia
+3783,NA Rock,Ireland
+3784,NA Saini,Rajasthan Royals
+3785,NA Sowter,Guyana Amazon Warriors
+3786,NA Statham,Netherlands
+3787,NA de Groot,Canada
+3788,NAM McLean,West Indies
+3789,NB Budayair,Nepal
+3790,NB Mahwire,Zimbabwe
+3791,NB Singh,Gujarat Lions
+3792,NCK Liyanage,Malaysia
+3793,NCR Larkin,Melbourne Stars
+3794,ND Bills,Sydney Thunder
+3795,ND Buchanan,Brisbane Heat
+3796,ND Doshi,Royal Challengers Bangalore
+3797,ND Laegsgaard,Denmark
+3798,ND McKenzie,South Africa
+3799,ND Stewart,Barbados Tridents
+3800,NE Bonner,West Indies
+3801,NF Kelly,New Zealand
+3802,NFI McCallum,Scotland
+3803,NG Collins,Finland
+3804,NG Jones,Ireland
+3805,NG Liyanage,Hungary
+3806,NG Smith,New Zealand
+3807,NGRP Jayasuriya,Sri Lanka
+3808,NH Ekanayake,Bahamas
+3809,NH Naureen,Spain
+3810,NJ Astle,New Zealand
+3811,NJ Carey,Mumbai Indians
+3812,NJ Ferraby,Jersey
+3813,NJ Maddinson,Australia
+3814,NJ O'Brien,Ireland
+3815,NJ Reardon,Australia
+3816,NJ Rimmington,Kings XI Punjab
+3817,NJA Smith,Philippines
+3818,NK Aneesh Kumar,Switzerland
+3819,NK Patel,United States of America
+3820,NK Tiwari,Cyprus
+3821,NK Yadav,Nepal
+3822,NL Bertus,Sydney Sixers
+3823,NL McCullum,New Zealand
+3824,NL Smith,Italy
+3825,NL Ujawe,Slovenia
+3826,NLTC Perera,Sri Lanka
+3827,NM Carter,Scotland
+3828,NM Coulter-Nile,Australia
+3829,NM Hauritz,Australia
+3830,NM Lyon,Australia
+3831,NM Odhiambo,Kenya
+3832,NM Salonen,Finland
+3833,NMS Param,Singapore
+3834,NN Banner,Belize
+3835,NN Odhiambo,Kenya
+3836,NO Miller,West Indies
+3837,NP Kenjige,United States of America
+3838,NP Mayavo,Zimbabwe
+3839,NP Winter,Hobart Hurricanes
+3840,NR Ferreira,Zimbabwe
+3841,NR Hobson,Perth Scorchers
+3842,NR Johns-Wickberg,Serbia
+3843,NR Kirton,Canada
+3844,NR Kumar,Canada
+3845,NR Sciver-Brunt,Mumbai Indians
+3846,NR Welch,Zimbabwe
+3847,NRD Compton,England
+3848,NRJ Croes,Netherlands
+3849,NRJ Young,Barbados Tridents
+3850,NS Dhaliwal,Canada
+3851,NS Naik,Kolkata Knight Riders
+3852,NS Poonia,Scotland
+3853,NS Prasad,Delhi Capitals
+3854,NSK Mehta,Belgium
+3855,NSS Sharma,Delhi Capitals
+3856,NT Broom,New Zealand
+3857,NT Ellis,Australia
+3858,NT Gireesh,Cambodia
+3859,NT Nyamhuri,Zimbabwe
+3860,NT Paranavitana,Sri Lanka
+3861,NT Pascal,West Indies
+3862,NT Rajendran,Kuwait
+3863,NV Knight,England
+3864,NV Ojha,India
+3865,NW Bracken,Australia
+3866,Nabi Gul,Peshawar Zalmi
+3867,Nabil Samad,Comilla Victorians
+3868,Nadeem Ahmed,Hong Kong
+3869,Nadeem Khan,Oman
+3870,Nader Zahadiafzal,Iran
+3871,Nadif Chowdhury,Bangladesh
+3872,Naeem Gull,Swaziland
+3873,Naeem Islam,Bangladesh
+3874,Naeem Islam Jr.,Duronto Rajshahi
+3875,Nafees Iqbal,Bangladesh
+3876,Nageebullah Sultanzai,Austria
+3877,Nahid Rana,Bangladesh
+3878,Nahidul Islam,Comilla Victorians
+3879,Naiem Bameri,Iran
+3880,Najeeb Amar,Hong Kong
+3881,Najibullah Zadran,Karachi Kings
+3882,Najjam Shahzad,Portugal
+3883,Naman Dhir,Mumbai Indians
+3884,Namgay Thinley,Bhutan
+3885,Naseem Khan,Croatia
+3886,Naseem Khushi,Oman
+3887,Naseem Shah,Pakistan
+3888,Nasibullah Arab,France
+3889,Nasir Aziz,United Arab Emirates
+3890,Nasir Hossain,Bangladesh
+3891,Nasir Jamshed,Pakistan
+3892,Nasir Javed,United States of America
+3893,Nasir Nawaz,Islamabad United
+3894,Nasrulla Rana,Hong Kong
+3895,Nasum Ahmed,Bangladesh
+3896,Nathan Ingleston,Panama
+3897,Natim Hassam,Portugal
+3898,Nauman Ali,Pakistan
+3899,Nauman Anwar,Pakistan
+3900,Naumanullah,Pakistan
+3901,Navdeep Saini,India
+3902,Naved Latif,Pakistan
+3903,Naved Yasin,Lahore Qalandars
+3904,Naved-ul-Hasan,Pakistan
+3905,Naveed Ahmed,Czech Republic
+3906,Naveed Fakhr,Kuwait
+3907,Naveed Shahid,Finland
+3908,Naveen-ul-Haq,Lucknow Super Giants
+3909,Naveena Shetty,Bahrain
+3910,Navid Abdollahpour,Iran
+3911,Navid Balouch,Iran
+3912,Nawaf Ahmed,Kuwait
+3913,Nawazish Akhtar,Saudi Arabia
+3914,Nay Lin Htun,Myanmar
+3915,Nayeem Hasan,Bangladesh
+3916,Nazakat Ali,Norway
+3917,Nazimuddin,Bangladesh
+3918,Nazir Patel,Panama
+3919,Nazmul Hossain,Bangladesh
+3920,Nazmul Hossain Milon,Chittagong Vikings
+3921,Nazmul Hossain Shanto,Bangladesh
+3922,Nazmul Huda,Timor-Leste
+3923,Nazmul Islam,Bangladesh
+3924,Nazmus Sakib,Malaysia
+3925,Nazril Rahman,Malaysia
+3926,Nazwan Ismail,Maldives
+3927,Neeraj Mishra,Czech Republic
+3928,Nelson Jesus Navarrete Aburto,Chile
+3929,Nestor Dhamba,Oman
+3930,Ngawang Thinley,Bhutan
+3931,Niaz Ali,Hong Kong
+3932,Nihaduzzaman,Rajshahi Kings
+3933,Nikhil Chaudhary,Hobart Hurricanes
+3934,Nilansh Keswani,United Arab Emirates
+3935,Nimish Lathief,Kuwait
+3936,Nirmaljit Singh,Cambodia
+3937,Nishat Sakib,South Korea
+3938,Nitesh Hooda,Ghana
+3939,Nithish Kumar Reddy,India
+3940,Niv Nagavkar,Israel
+3941,Niyas Pullariyil,Malta
+3942,Nizakat Khan,Hong Kong
+3943,Noah Mead,Samoa
+3944,Noman Amjad,France
+3945,Noor Ahmad,Gujarat Titans
+3946,Noor Hossain,Sylhet Royals
+3947,Noorkhan Ahmedi,Switzerland
+3948,Nooruddin Mujadady,Germany
+3949,Noorullah Sidiqi,Belgium
+3950,Nouman Butt,Norway
+3951,Nouman Sarwar,Qatar
+3952,Numan Ahmadzai,Switzerland
+3953,Nurudeen Ibrahim,Ghana
+3954,Nurul Hasan,Bangladesh
+3955,Nyeing Cham Soe,Myanmar
+3956,O Bascome,Bermuda
+3957,O Casasola,Belize
+3958,O Davidson,Scotland
+3959,O Davies,Sydney Thunder
+3960,O Duff,Bulgaria
+3961,O Gholami,Sweden
+3962,O Isesele,Nigeria
+3963,O Isiyaku,Nigeria
+3964,O Issouf,Ivory Coast
+3965,O Lutbayar,Mongolia
+3966,O Manishimwe,Rwanda
+3967,O Muzondo,Zimbabwe
+3968,O Olaleye,Nigeria
+3969,O Patterson,Brisbane Heat
+3970,O Peters,Guyana Amazon Warriors
+3971,O Sam Arthur,Costa Rica
+3972,O Shields,West Indies
+3973,O Stewart,Bahamas
+3974,O Thomas,West Indies
+3975,O Touray,Gambia
+3976,O Tuyisenge,Rwanda
+3977,OA Shah,England
+3978,OAC Banks,West Indies
+3979,OB Nightingale,Guernsey
+3980,OC McCoy,West Indies
+3981,OD Hald,Denmark
+3982,OE Newey,Guernsey
+3983,OE Robinson,England
+3984,OE Taylor,Cook Islands
+3985,OEG Baartman,South Africa
+3986,OF Smith,West Indies
+3987,OGL Bascome,Bermuda
+3988,OH Agbomadzie,Ghana
+3989,OJ Hairs,Scotland
+3990,OJ Herrington,Belgium
+3991,OJ Peake,Melbourne Renegades
+3992,OJ Phillips,West Indies
+3993,OJ Pope,England
+3994,OJ Webster,Isle of Man
+3995,OJR Groves,Slovenia
+3996,OK Mohamed,Ivory Coast
+3997,OL Pitcher,Bermuda
+3998,OO Bascome,Bermuda
+3999,OP Stone,England
+4000,OR Willis,Cayman Islands
+4001,OSB Tilley,Croatia
+4002,Obed Yosef,Vanuatu
+4003,Oliver Clapham,Guernsey
+4004,Oliver Rowe,Argentina
+4005,Omair Yousuf,Pakistan
+4006,Omar Hayat,Denmark
+4007,Omar Hussain,Lesotho
+4008,Omar Rassol,Bulgaria
+4009,Omid Mailk Khel,Belgium
+4010,Omid Shafi Rahman,United Arab Emirates
+4011,Osama Mahmood,Switzerland
+4012,Osman Khan,Austria
+4013,Ousman Bah,Gambia
+4014,Ovais Yousof,Nigeria
+4015,Owais Ahmed,Qatar
+4016,P Abanda,Cameroon
+4017,P Abhijit,Seychelles
+4018,P Aho,Nigeria
+4019,P Amarnath,Chennai Super Kings
+4020,P Arrighi,Argentina
+4021,P Awana,India
+4022,P Ayoleyine,Ghana
+4023,P Baghel,Czech Republic
+4024,P Baron,Argentina
+4025,P Bhart,Norway
+4026,P Bosnjak,Croatia
+4027,P Buccimazza,Portugal
+4028,P Byron,Seychelles
+4029,P Cabebula,Fiji
+4030,P Campbell,Gambia
+4031,P Chin,Cayman Islands
+4032,P Chopra,Rajasthan Royals
+4033,P Dakainivanua,Fiji
+4034,P Danci,Romania
+4035,P Deol,Cyprus
+4036,P Desungnoen,Thailand
+4037,P Dhanuka,Singapore
+4038,P Dharmani,Kings XI Punjab
+4039,P Dhiman,Spain
+4040,P Dogra,Rajasthan Royals
+4041,P Dubey,Delhi Capitals
+4042,P Fernando,Italy
+4043,P Florin,Romania
+4044,P Gheewala,Estonia
+4045,P Ghosh,Malta
+4046,P Gopalkrishnan,Qatar
+4047,P Hatchman,Gibraltar
+4048,P Hatzoglou,Melbourne Renegades
+4049,P Heron,Cayman Islands
+4050,P Hingorani,Romania
+4051,P Jayawickrama,Sri Lanka
+4052,P Jayeshbhai Patel,Panama
+4053,P Karoho,Papua New Guinea
+4054,P Kerai,Kenya
+4055,P Khadka,Nepal
+4056,P Khari,Czech Republic
+4057,P Koech,Kenya
+4058,P Kotoisuva,Fiji
+4059,P Kumar,India
+4060,P Kumbhare,Japan
+4061,P Kurup,Bahrain
+4062,P Litchfield,Gujarat Giants
+4063,P Madhukar,Malaysia
+4064,P Magafas,Greece
+4065,P Malav,Luxembourg
+4066,P Manning,Cayman Islands
+4067,P Masih,Romania
+4068,P Mishra,Bulgaria
+4069,P Murungi,Uganda
+4070,P Mustard,England
+4071,P Nedeljkovic,Serbia
+4072,P Negi,India
+4073,P Nissanka,Sri Lanka
+4074,P Parameswaran,Kochi Tuskers Kerala
+4075,P Pirabakaran,France
+4076,P Prasanth,Kochi Tuskers Kerala
+4077,P Pushparajan,Malta
+4078,P Pustoslemsek,Slovenia
+4079,P Raho,Papua New Guinea
+4080,P Rathnayake,Sri Lanka
+4081,P Rawat,Royal Challengers Bengaluru
+4082,P Ray Barman,Royal Challengers Bangalore
+4083,P Rowe,Melbourne Stars
+4084,P Sadev,Italy
+4085,P Sahu,Kings XI Punjab
+4086,P Sapesa,Malawi
+4087,P Sarraf,Nepal
+4088,P Sharma,Kenya
+4089,P Silas,Botswana
+4090,P Simran Singh,Kings XI Punjab
+4091,P Sua,Samoa
+4092,P Suanchuai,Thailand
+4093,P Subrayen,South Africa
+4094,P Suman Bhai Ahir,Panama
+4095,P Suyal,Mumbai Indians
+4096,P Syafiq Ali,Malaysia
+4097,P Taylor,Czech Republic
+4098,P Thongsa,Thailand
+4099,P Useni,Nigeria
+4100,P Utseya,Zimbabwe
+4101,P Vailoa,Cook Islands
+4102,P Vastrakar,Mumbai Indians
+4103,P Vekaria,Rwanda
+4104,P Yevugah,Ghana
+4105,P Zuze,Malawi
+4106,PA Browne,West Indies
+4107,PA Desai,Canada
+4108,PA Hitchcock,New Zealand
+4109,PA Jaques,Australia
+4110,PA Nixon,England
+4111,PA Patel,India
+4112,PA Raikes,Gibraltar
+4113,PA Reddy,Deccan Chargers
+4114,PA de Silva,Sri Lanka
+4115,PA van Meekeren,Netherlands
+4116,PADLR Sandakan,Sri Lanka
+4117,PARP Perera,Sri Lanka
+4118,PAS McSween,Jamaica Tallawahs
+4119,PB Gouge,Jersey
+4120,PBB Rajapaksa,Sri Lanka
+4121,PC Connell,Ireland
+4122,PC Valthaty,Rajasthan Royals
+4123,PC de Silva,Sri Lanka
+4124,PD Blignaut,Namibia
+4125,PD Collingwood,England
+4126,PD Hennessy,Spain
+4127,PD Macchi,Oman
+4128,PD McGlashan,New Zealand
+4129,PD Salt,England
+4130,PD Trego,Sylhet Royals
+4131,PDRL Perera,Sri Lanka
+4132,PE Kruger,South Africa
+4133,PF Gallagher,Finland
+4134,PF Ravarua,Cook Islands
+4135,PG Chopra,UP Warriorz
+4136,PG Dooley,Brisbane Heat
+4137,PG Fulton,New Zealand
+4138,PG Gillespie,Ireland
+4139,PG Wintz,Guyana Amazon Warriors
+4140,PH Solanki,Chennai Super Kings
+4141,PHKD Mendis,Sri Lanka
+4142,PHT Kaushal,Sri Lanka
+4143,PI Walter,Brisbane Heat
+4144,PJ Cummins,Australia
+4145,PJ Forrest,Australia
+4146,PJ Hughes,Australia
+4147,PJ Ingram,New Zealand
+4148,PJ Malan,South Africa
+4149,PJ Moor,Zimbabwe
+4150,PJ Ongondo,Kenya
+4151,PJ Sangwan,Gujarat Lions
+4152,PJ Wiseman,New Zealand
+4153,PJ van Biljon,South Africa
+4154,PJC Hoffmann,Scotland
+4155,PJK Mooney,Ireland
+4156,PK Ananya,Ghana
+4157,PK Dimitri,Ivory Coast
+4158,PK Garg,Sunrisers Hyderabad
+4159,PK Matautaava,Vanuatu
+4160,PK Mohanarangam,Mexico
+4161,PK Shoufeer,Cambodia
+4162,PKD Chase,Ireland
+4163,PL Bruno,Argentina
+4164,PL Harris,South Africa
+4165,PL Mommsen,Scotland
+4166,PLS Gamage,Sri Lanka
+4167,PM Liyanagamage,Sri Lanka
+4168,PM Nevill,Australia
+4169,PM Pushpakumara,Sri Lanka
+4170,PM Sarvesh Kumar,Deccan Chargers
+4171,PM Seelaar,Netherlands
+4172,PM Siddle,Australia
+4173,PN Khemnar,Royal Challengers Bangalore
+4174,PN Mankad,Punjab Kings
+4175,PP Bala,Mumbai Indians
+4176,PP Chawla,India
+4177,PP Hinge,Sunrisers Hyderabad
+4178,PP Ojha,India
+4179,PP Shaw,India
+4180,PPS Win,Myanmar
+4181,PR Adams,South Africa
+4182,PR Brown,England
+4183,PR George,Australia
+4184,PR Shah,Mumbai Indians
+4185,PR Stirling,Ireland
+4186,PR Surve,Indonesia
+4187,PR Veer,Chennai Super Kings
+4188,PRP Boissevain,Netherlands
+4189,PS Airee,Nepal
+4190,PS Athavale,Oman
+4191,PS Masvaure,Zimbabwe
+4192,PS Roberts,Croatia
+4193,PS Sisodia,Mumbai Indians
+4194,PSP Handscomb,Australia
+4195,PSRK Sudarshan,Singapore
+4196,PT Collins,West Indies
+4197,PUKK Arachchige,Finland
+4198,PV Naringrekar,Costa Rica
+4199,PV Tambe,Rajasthan Royals
+4200,PV Vuniwaqa,Fiji
+4201,PVD Chameera,Sri Lanka
+4202,PVSN Raju,Mumbai Indians
+4203,PW Borren,Netherlands
+4204,PW Gunaratne,Sri Lanka
+4205,PWA Mulder,South Africa
+4206,PWH de Silva,Sri Lanka
+4207,Paing Danu,Myanmar
+4208,Pankaj Singh,India
+4209,Paras Singh,Hong Kong
+4210,Pargat Singh,Canada
+4211,Parveen Kumar,Canada
+4212,Parvez Hossain Emon,Bangladesh
+4213,Parvez Rasool,India
+4214,Parvindar Kumar,Kuwait
+4215,Patrick Nou,Papua New Guinea
+4216,Pavandeep Singh,Malaysia
+4217,Pel Vannak,Cambodia
+4218,Phon Bunthean,Cambodia
+4219,Pinak Ghosh,Chattogram Challengers
+4220,Poonam Yadav,Delhi Capitals
+4221,Prasad Anish,Cambodia
+4222,Prashant Shukla,Sweden
+4223,Pratik Agnihotri,Norway
+4224,Pratik Singh Bais,Mexico
+4225,Pratis GC,Nepal
+4226,Praveen Santhanakrishnan,Mexico
+4227,Preeti Bose,Royal Challengers Bangalore
+4228,Prince Yadav,Lucknow Super Giants
+4229,Pritom Kumar,Fortune Barishal
+4230,Priya Mishra,Gujarat Giants
+4231,Priyansh Arya,Punjab Kings
+4232,Puneet Arora,Mexico
+4233,Pyae Phyo Wai,Myanmar
+4234,Q Sampson,Guyana Amazon Warriors
+4235,Q Utmanzai,Austria
+4236,Q de Kock,South Africa
+4237,QF Djakaridja,Ivory Coast
+4238,Qadeer Ahmed,United Arab Emirates
+4239,Qais Ahmad,Hobart Hurricanes
+4240,Qaisar Abbas,Duronto Rajshahi
+4241,Qaiser Ali,Canada
+4242,Qalandar Khan,Qatar
+4243,Qamar Mushtaque,Norway
+4244,Qasim Akram,Pakistan
+4245,Qasim Anwar,Cyprus
+4246,Qateel Zabiullah,Switzerland
+4247,Qazi Onik,Rajshahi Kings
+4248,Qudratullah Mir Afzail,Sweden
+4249,R Abdulkareem,Nigeria
+4250,R Agamiire,Uganda
+4251,R Ankad,Mexico
+4252,R Ashwin,India
+4253,R Athapaththu,Romania
+4254,R Aurora,Botswana
+4255,R Avery,Brazil
+4256,R Baaleri,Ghana
+4257,R Bakum,Ghana
+4258,R Baruah,Estonia
+4259,R Bhatia,Rising Pune Supergiant
+4260,R Bishnoi,Royal Challengers Bangalore
+4261,R Brar,Cyprus
+4262,R Chandrika,West Indies
+4263,R Chopra,United Arab Emirates
+4264,R Clarke,England
+4265,R Coker,Sierra Leone
+4266,R Cunningham,Gibraltar
+4267,R Davson,Bahamas
+4268,R Dhakal,Nepal
+4269,R Dhawan,India
+4270,R Dhiman,Bulgaria
+4271,R Dianish,Malta
+4272,R Drake,Japan
+4273,R Dravid,India
+4274,R Edwards,Cayman Islands
+4275,R Escobar,Argentina
+4276,R Flannigan,Scotland
+4277,R Francis,St Helena
+4278,R Frylinck,South Africa
+4279,R Galgalikar,Mexico
+4280,R Gaznavi,Singapore
+4281,R Goodwin,Philippines
+4282,R Gowthaman,Sweden
+4283,R Goyal,Mumbai Indians
+4284,R Gunasekera,Canada
+4285,R Hadley,Sydney Thunder
+4286,R Hashu,Portugal
+4287,R Hekure,Papua New Guinea
+4288,R Heyns,Luxembourg
+4289,R Johnson,Turks and Caicos Island
+4290,R Jones,Belize
+4291,R Kaia,Zimbabwe
+4292,R Kalimuthu,Singapore
+4293,R Klein,Netherlands
+4294,R Kumar,Romania
+4295,R Limbu,Bhutan
+4296,R Lutaaya,Uganda
+4297,R Mahajan,Philippines
+4298,R Mangal,France
+4299,R Mazumder,Cyprus
+4300,R Mbaiwa,Botswana
+4301,R McLaren,South Africa
+4302,R Minz,Mumbai Indians
+4303,R Mondol,Bangladesh
+4304,R Mupfudza,Zimbabwe
+4305,R Murray,Zimbabwe
+4306,R Murugan,Croatia
+4307,R Mutumbami,Zimbabwe
+4308,R Nath,Turkey
+4309,R Nehonde,Botswana
+4310,R Ngarava,Zimbabwe
+4311,R Nil,Seychelles
+4312,R Ninan,Royal Challengers Bangalore
+4313,R Obuya,Uganda
+4314,R Olipa,Uganda
+4315,R Panchal,Spain
+4316,R Parag,India
+4317,R Parkin,Estonia
+4318,R Pathan,Canada
+4319,R Patten,Bahamas
+4320,R Pillai,Germany
+4321,R Pisal,Romania
+4322,R Poojary,Mexico
+4323,R Powell,West Indies
+4324,R Ramadhasyena,Indonesia
+4325,R Rampaul,West Indies
+4326,R Ravindra,New Zealand
+4327,R Rohan,Singapore
+4328,R Sai Kishore,India
+4329,R Sakurano-Thomas,Japan
+4330,R Sandaruwan,Kuwait
+4331,R Sandeep,Eswatini
+4332,R Sanjay Yadav,Mumbai Indians
+4333,R Satheesan,Romania
+4334,R Sathish,Mumbai Indians
+4335,R Sekaran,Estonia
+4336,R Sharma,India
+4337,R Shepherd,West Indies
+4338,R Sheshadri,Singapore
+4339,R Shukla,Mumbai Indians
+4340,R Siriwardena,Cyprus
+4341,R Smith,Bahamas
+4342,R Strydom,Ireland
+4343,R Tanna,Estonia
+4344,R Tari,Vanuatu
+4345,R Telemachus,South Africa
+4346,R Tewatia,Kings XI Punjab
+4347,R Thapliyal,Belgium
+4348,R Theruvath,Qatar
+4349,R Trumpelmann,Namibia
+4350,R Ugarkar,United States of America
+4351,R Vinay Kumar,India
+4352,R Vishwanath,Luxembourg
+4353,R Walker,Cayman Islands
+4354,R Walters,Namibia
+4355,R de Swardt,South Africa
+4356,R van Tonder,South Africa
+4357,RA Abolarin,Nigeria
+4358,RA Austin,West Indies
+4359,RA Bawa,Punjab Kings
+4360,RA Bhatti,Canada
+4361,RA Clarke,Barbados Royals
+4362,RA Herman,South Africa
+4363,RA Jadeja,India
+4364,RA Jones,New Zealand
+4365,RA Lewis,Jamaica Tallawahs
+4366,RA Mariu,New Zealand
+4367,RA Reifer,West Indies
+4368,RA Sealy,Cayman Islands
+4369,RA Shaikh,Mumbai Indians
+4370,RA Tappin,Bahamas
+4371,RA Thomas,Canada
+4372,RA Tripathi,India
+4373,RA Whiteley,Brisbane Heat
+4374,RA Wiggins,Barbados Tridents
+4375,RA Young,New Zealand
+4376,RAJ Smith,Scotland
+4377,RAP Nissanka,Sri Lanka
+4378,RAS Lakmal,Sri Lanka
+4379,RB Patel,Uganda
+4380,RC Irani,England
+4381,RD Atangana,Cameroon
+4382,RD Berrington,Scotland
+4383,RD Chahar,India
+4384,RD Gaikwad,India
+4385,RD Jacobs,West Indies
+4386,RD John,St Kitts and Nevis Patriots
+4387,RD McCann,Ireland
+4388,RD Rickelton,South Africa
+4389,RD Shah,Kenya
+4390,RD Steede,Bermuda
+4391,RDB Ahir,Panama
+4392,RDM Leverock,Bermuda
+4393,RDS Morein,Timor-Leste
+4394,RE Francis,Tanzania
+4395,RE Levi,South Africa
+4396,RE van der Merwe,Netherlands
+4397,RG Aga,Kenya
+4398,RG Hart,New Zealand
+4399,RG More,Chennai Super Kings
+4400,RG Mukasa,Uganda
+4401,RG Sharma,India
+4402,RGA Amah,Cameroon
+4403,RGL Carters,Sydney Sixers
+4404,RH McDonald,Brisbane Heat
+4405,RH Scholte,Netherlands
+4406,RHO Saunders,Norway
+4407,RI Ahmed,Netherlands
+4408,RJ Ainsworth,Hungary
+4409,RJ Burns,England
+4410,RJ Campbell,Hong Kong
+4411,RJ Das,Dhaka Dominators
+4412,RJ Gibson,Sydney Thunder
+4413,RJ Gleeson,England
+4414,RJ Harris,Australia
+4415,RJ Hatchman,Gibraltar
+4416,RJ Kirtley,England
+4417,RJ Nicol,New Zealand
+4418,RJ Peterson,South Africa
+4419,RJ Pierre,Rwanda
+4420,RJ Quiney,Australia
+4421,RJ Ramjiawan,Suriname
+4422,RJ Ranpura,Oman
+4423,RJ Sidebottom,England
+4424,RJ Trott,Bermuda
+4425,RJ van Vuuren,Namibia
+4426,RJG Lockyear,Hobart Hurricanes
+4427,RJG Palmer,Jersey
+4428,RJMGM Rupasinghe,Sri Lanka
+4429,RJW Topley,England
+4430,RK Bhui,Sunrisers Hyderabad
+4431,RK Kiseto,Tanzania
+4432,RK Kleinveldt,South Africa
+4433,RK Paudel,Nepal
+4434,RK Singh,India
+4435,RK Whelan,Ireland
+4436,RKJ Dawson,England
+4437,RL Bhudia,Kenya
+4438,RL Chase,West Indies
+4439,RL Johnson,England
+4440,RL Powell,West Indies
+4441,RL Vitas,Serbia
+4442,RLB Rambukwella,Sri Lanka
+4443,RM Dorji,Bhutan
+4444,RM Duffield,Brisbane Heat
+4445,RM Ghosh,Royal Challengers Bangalore
+4446,RM Haq,Scotland
+4447,RM Hira,New Zealand
+4448,RM Jariwala,United States of America
+4449,RM Koda,Indonesia
+4450,RM Magare,Czech Republic
+4451,RM Patidar,India
+4452,RM Scott,United States of America
+4453,RM Siri,Argentina
+4454,RM West,Ireland
+4455,RML Taylor,Scotland
+4456,RMMP Rathnayake,Sri Lanka
+4457,RMS Eranga,Sri Lanka
+4458,RN Bhatia,United Arab Emirates
+4459,RN Lewis,West Indies
+4460,RN Patel,Kenya
+4461,RN ten Doeschate,Netherlands
+4462,RO Cato,St Lucia Zouks
+4463,RO Hinds,West Indies
+4464,RO Hurley,West Indies
+4465,RO Hussain,Scotland
+4466,ROC Dunka,Cayman Islands
+4467,ROO Jordan,St Lucia Zouks
+4468,RP Alexander,United States of America
+4469,RP Arnold,Sri Lanka
+4470,RP Burl,Zimbabwe
+4471,RP Kellepotha,Melbourne Renegades
+4472,RP Lefebvre,Netherlands
+4473,RP Magar,Nepal
+4474,RP Meredith,Australia
+4475,RP Mitchell,Bahamas
+4476,RP Singh,India
+4477,RP Yadav,Delhi Capitals
+4478,RR Bastiansz,Malta
+4479,RR Beaton,West Indies
+4480,RR Behera,United States of America
+4481,RR Bhatkal,Royal Challengers Bangalore
+4482,RR Bose,Kings XI Punjab
+4483,RR Emrit,West Indies
+4484,RR Hendricks,South Africa
+4485,RR Joshi,Canada
+4486,RR Pant,India
+4487,RR Patel,Kenya
+4488,RR Pawson,Sydney Thunder
+4489,RR Powar,India
+4490,RR Raje,Mumbai Indians
+4491,RR Ramdass,West Indies
+4492,RR Rossouw,South Africa
+4493,RR Sarwan,West Indies
+4494,RR Saun,Costa Rica
+4495,RR Sharan,Cambodia
+4496,RR Simmonds,West Indies
+4497,RR Watson,Scotland
+4498,RRS Cornwall,West Indies
+4499,RS Bopara,England
+4500,RS Gavaskar,India
+4501,RS Gayakwad,UP Warriorz
+4502,RS Hangargekar,Chennai Super Kings
+4503,RS Higgins,Zimbabwe
+4504,RS Kaluwitharana,Sri Lanka
+4505,RS Morton,West Indies
+4506,RS Primus,Guyana Amazon Warriors
+4507,RS Sodhi,Kings XI Punjab
+4508,RSK Samson,Vanuatu
+4509,RT Crandon,West Indies
+4510,RT Lyons,Scotland
+4511,RT Ponting,Australia
+4512,RT Rubbi,Indonesia
+4513,RTM Mendis,Sri Lanka
+4514,RV Gomez,Kochi Tuskers Kerala
+4515,RV Nascimento,Brazil
+4516,RV Patel,Delhi Capitals
+4517,RV Pawar,Mumbai Indians
+4518,RV Uthappa,India
+4519,RV Viraj,Cambodia
+4520,RW Chakabva,Zimbabwe
+4521,RW Hartley,Serbia
+4522,RW Price,Zimbabwe
+4523,RW Sims,Zimbabwe
+4524,RW Staple,United States of America
+4525,RWT Key,England
+4526,Raag Kapur,Hong Kong
+4527,Raaz Mohammad,Finland
+4528,Rafaqat Ali,Norway
+4529,Rafatullah Mohmand,Pakistan
+4530,Rafiulah Alokozai,Belgium
+4531,Rafiullah,Oman
+4532,Raghav Dhawan,Uganda
+4533,Raghvi Bist,Royal Challengers Bengaluru
+4534,Rahat Ali,Pakistan
+4535,Rahat Kazi,Timor-Leste
+4536,Rahatul Ferdous,Chittagong Kings
+4537,Rahel Khan,Sweden
+4538,Rahila Firdous,Mumbai Indians
+4539,Rahim Khan,Malaysia
+4540,Rahimgul Naseri,France
+4541,Rahman Ademi,Serbia
+4542,Rahmanullah Gurbaz,Kolkata Knight Riders
+4543,Rahmat Ali,Dhaka Capitals
+4544,Rahmatullah Mangal,France
+4545,Raihan Hossain,Timor-Leste
+4546,Raja Adeel,Spain
+4547,Raja Farzan,Lahore Qalandars
+4548,Raja Shoaib,South Korea
+4549,Rajab Hussain,Hong Kong
+4550,Rajin Saleh,Bangladesh
+4551,Rajkumar Rajendran,Malaysia
+4552,Rakibul Hasan,Italy
+4553,Rakibul Hasan (2),Rangpur Riders
+4554,Ram Krishan,Estonia
+4555,Ramandeep Singh,India
+4556,Ramanjot Singh,Slovenia
+4557,Rameez Khan,Romania
+4558,Rameez Raja,Barisal Burners
+4559,Rameez Raja (2),Pakistan
+4560,Rameez Shahzad,United Arab Emirates
+4561,Ranjit Singh,Austria
+4562,Raqibul Hasan,Bangladesh
+4563,Rasheed Ali Mamadkhel,Slovenia
+4564,Rasheed Rassam,Maldives
+4565,Rashid Hashmi,Croatia
+4566,Rashid Khan,ICC World XI
+4567,Rashid Latif,Pakistan
+4568,Rashid Zia,United States of America
+4569,Rasikh Salam,Mumbai Indians
+4570,Raunaq Kapur,Hong Kong
+4571,Ravi Bishnoi,India
+4572,Ravinder Gill,Romania
+4573,Ravinder Singh,Malta
+4574,Ravinderpal Singh,Canada
+4575,Rayhaan Ahmed,Austria
+4576,Raza Ali Dar,Sylhet Royals
+4577,Raza Hasan,Pakistan
+4578,Raza Iqbal,Norway
+4579,Raza-ur-Rehman,Canada
+4580,Razmal Shigiwal,Austria
+4581,Rehan Ahmed,England
+4582,Rehman Abdul,Italy
+4583,Rejaul Karim,Brazil
+4584,Rejaur Rahman,Chattogram Challengers
+4585,Renuka Singh,Royal Challengers Bangalore
+4586,Reon King,West Indies
+4587,Rhys Burinaga,Philippines
+4588,Riaz Afridi,Czech Republic
+4589,Riaz Hassan,Dhaka Capitals
+4590,Riazat Ali Shah,Uganda
+4591,Rishad Hossain,Bangladesh
+4592,Ritik Tomar,Czech Republic
+4593,Riyaz Kajalwala,Cyprus
+4594,Rizwan Ahmed,Pakistan
+4595,Rizwan Butt,Bahrain
+4596,Rizwan Cheema,Canada
+4597,Rizwan Haider,Malaysia
+4598,Rizwan Hussain,Islamabad United
+4599,Rizwan Mahmood,Denmark
+4600,Rizwan Mangera,Panama
+4601,Rizwan Mehmood,Hyderabad Kingsmen
+4602,Rizwan Zahoor,Slovenia
+4603,Robert Raina,Thailand
+4604,Robiul Haque,Chittagong Vikings
+4605,Robiul Islam,Bangladesh
+4606,Robiul Islam Robi,Cumilla Warriors
+4607,Robiul Khan,Spain
+4608,Rohail Nazir,Pakistan
+4609,Rohan Bhavesh Patel,Bulgaria
+4610,Rohan Mustafa,United Arab Emirates
+4611,Rohanat Doullah Borson,Comilla Victorians
+4612,Rohit Kumar,Romania
+4613,Rohit Limbu,Bhutan
+4614,Ronald Ebanks,Cayman Islands
+4615,Ronitkumar Ahir,Panama
+4616,Rony Talukdar,Bangladesh
+4617,Rubel Hossain,Bangladesh
+4618,Rubel Mia,Sylhet Thunder
+4619,Rudolph Fox,Bahamas
+4620,Rumman Raees,Pakistan
+4621,Rupesh Singh,Nepal
+4622,Ruyel Miah,Khulna Tigers
+4623,S Anirudha,Chennai Super Kings
+4624,S Arachchige,Italy
+4625,S Aravind,India
+4626,S Arora,Sunrisers Hyderabad
+4627,S Asha,Royal Challengers Bangalore
+4628,S Ashwathnarayana,Hungary
+4629,S Ateak,Ghana
+4630,S Austin,Cyprus
+4631,S Badree,West Indies
+4632,S Badrinath,India
+4633,S Baker,England
+4634,S Banamali,Singapore
+4635,S Bangera,Israel
+4636,S Barnett,Isle of Man
+4637,S Bau,Papua New Guinea
+4638,S Bevin,Croatia
+4639,S Bhari,Nepal
+4640,S Bharratt,Suriname
+4641,S Biko,Kenya
+4642,S Bodha,Gibraltar
+4643,S Bogdos,Greece
+4644,S Browne,Luxembourg
+4645,S Burdekin,Cyprus
+4646,S Chanderpaul,West Indies
+4647,S Chandramohan,Singapore
+4648,S Chattergoon,West Indies
+4649,S Chaudhary,Czech Republic
+4650,S Chilemanya,Nigeria
+4651,S Chophel,Bhutan
+4652,S Clarke,Isle of Man
+4653,S Conteh,Sierra Leone
+4654,S Cotter,Samoa
+4655,S Crowie,St Helena
+4656,S Dadswell,Lahore Qalandars
+4657,S Daniel,Sri Lanka
+4658,S Davizi,Czech Republic
+4659,S Delai,Fiji
+4660,S Descarte,St Lucia Kings
+4661,S Desungnoen,Thailand
+4662,S Devasia,Ghana
+4663,S Dhakal,Nepal
+4664,S Dhamala,Nepal
+4665,S Dhaniram,Canada
+4666,S Dhawan,India
+4667,S Draunivudi,Fiji
+4668,S Dube,India
+4669,S Ecclestone,UP Warriorz
+4670,S Elayaperumal,Mexico
+4671,S Fanning,Perth Scorchers
+4672,S Foster,Cayman Islands
+4673,S Fouché,Namibia
+4674,S Franklin,Switzerland
+4675,S Gantulga,Mongolia
+4676,S Gasteratos,Greece
+4677,S Gill,Kenya
+4678,S Godara,Cambodia
+4679,S Gooch,Estonia
+4680,S Gopal,Rajasthan Royals
+4681,S Grover,Czech Republic
+4682,S Gulecha,Singapore
+4683,S Gupta,Mumbai Indians
+4684,S Hongsi,Thailand
+4685,S Hook,Estonia
+4686,S Houghton,Croatia
+4687,S Hunter,Turks and Caicos Island
+4688,S Ishaque,Mumbai Indians
+4689,S Ismail,UP Warriorz
+4690,S Ivetic,Serbia
+4691,S Jamil,Belgium
+4692,S Jegannathan,Indonesia
+4693,S Jele,Eswatini
+4694,S Jora,Nepal
+4695,S Joseph,West Indies
+4696,S Jyoti,Canada
+4697,S Kalavitigoda,Sri Lanka
+4698,S Kalyan,United Arab Emirates
+4699,S Kamate,Mali
+4700,S Kaul,India
+4701,S Kaushik,Gujarat Lions
+4702,S Keshvani,Canada
+4703,S Kharvi,Indonesia
+4704,S Kimura,Japan
+4705,S Kochar,Mexico
+4706,S Kollery,Botswana
+4707,S Kommula,Costa Rica
+4708,S Konstas,Australia
+4709,S Koppolu,Slovenia
+4710,S Kruger,Argentina
+4711,S Kubheka,Swaziland
+4712,S Kushretha,Luxembourg
+4713,S Ladda,Delhi Daredevils
+4714,S Lamichhane,Nepal
+4715,S Loday,Bhutan
+4716,S Maduranga,South Korea
+4717,S Mahmood,England
+4718,S Malla,Nepal
+4719,S Mandhana,Royal Challengers Bangalore
+4720,S Mathur,Hong Kong
+4721,S Matsikenyeri,Zimbabwe
+4722,S Mba,Nigeria
+4723,S McGiffin,Brisbane Heat
+4724,S Meghana,Gujarat Giants
+4725,S Midhun,Rajasthan Royals
+4726,S Milenko,Hobart Hurricanes
+4727,S Mills,Isle of Man
+4728,S Mohan,Philippines
+4729,S Molineux,Royal Challengers Bangalore
+4730,S Moseley,West Indies
+4731,S Movva,Canada
+4732,S Mukuddem,Bermuda
+4733,S Muniandy,Malaysia
+4734,S Murari,Costa Rica
+4735,S Muthusamy,South Africa
+4736,S Nadeem,India
+4737,S Nadigotla,Romania
+4738,S Narwal,Rajasthan Royals
+4739,S Natsagdorj,Mongolia
+4740,S Navaratne,Japan
+4741,S Nerandzic,Serbia
+4742,S Norman,Jersey
+4743,S Nsubuga,Uganda
+4744,S Ogundipe,Nigeria
+4745,S Pandey,Delhi Capitals
+4746,S Periyalwar,Romania
+4747,S Pillai,Costa Rica
+4748,S Pillay,Seychelles
+4749,S Pitabeddara,South Korea
+4750,S Pokhriyal,Czech Republic
+4751,S Pradhan,Bhutan
+4752,S Prasanna,Sri Lanka
+4753,S Qeshile,South Africa
+4754,S Ramakrishnan,Czech Republic
+4755,S Rana,Seychelles
+4756,S Randiv,Sri Lanka
+4757,S Ravichandran,Japan
+4758,S Ravikumar,Costa Rica
+4759,S Ravoka,Fiji
+4760,S Rengarajan,Czech Republic
+4761,S Rossi,Argentina
+4762,S Rukmal,Seychelles
+4763,S Rungrueang,Thailand
+4764,S Saeed,Maldives
+4765,S Sajana,Mumbai Indians
+4766,S Samal,Rwanda
+4767,S Samarawickrama,Sri Lanka
+4768,S Sandeep Warrier,India
+4769,S Sankar,Saudi Arabia
+4770,S Santhirakumaran,France
+4771,S Sarthak,Bahrain
+4772,S Savkovic,Serbia
+4773,S Sehrawat,UP Warriorz
+4774,S Selvaraj,Tanzania
+4775,S Sengupta,Czech Republic
+4776,S Sesazi,Uganda
+4777,S Sharma,Mexico
+4778,S Sheelan,Indonesia
+4779,S Shillingford,West Indies
+4780,S Shrivastava,Oman
+4781,S Simpson,Jersey
+4782,S Singh,Portugal
+4783,S Siriotis,Greece
+4784,S Smith,Bermuda
+4785,S Snater,Netherlands
+4786,S Sohal,United States of America
+4787,S Sola,Samoa
+4788,S Sreesanth,India
+4789,S Srikanth,Singapore
+4790,S Sriram,India
+4791,S Stanikzay,France
+4792,S Sugaya-Slater,Japan
+4793,S Tabuisulu,Fiji
+4794,S Tarawally,Sierra Leone
+4795,S Thakor,Tanzania
+4796,S Thakur,Romania
+4797,S Thanikaithasan,Denmark
+4798,S Tharanga,Cyprus
+4799,S Thuraisingam,Canada
+4800,S Tobgay,Bhutan
+4801,S Tosic,Serbia
+4802,S Tyagi,India
+4803,S Udhayan,Seychelles
+4804,S Varathappan,Kuwait
+4805,S Vashisht,Romania
+4806,S Vasilakis,Greece
+4807,S Vats,Luxembourg
+4808,S Vaz,Portugal
+4809,S Veerapathiran,Bahrain
+4810,S Verma,Gujarat Giants
+4811,S Vesawkar,Nepal
+4812,S Vidyut,Chennai Super Kings
+4813,S Vijay Unni,Malaysia
+4814,S Vijayakumar,Singapore
+4815,S Vithayathil,Turks and Caicos Island
+4816,S Wankhade,Costa Rica
+4817,S Waqas Ahmed,Norway
+4818,S Weerakoon,Sri Lanka
+4819,S Weleilakeba,Fiji
+4820,S Wickramasekara,Czech Republic
+4821,S Williams,Sierra Leone
+4822,S Yeshi,Bhutan
+4823,S di Bartolomeo,Italy
+4824,S van Zyl,South Africa
+4825,S von Berg,South Africa
+4826,SA Abbott,Australia
+4827,SA Ahmad,Denmark
+4828,SA Amirullah,Suriname
+4829,SA Asnodkar,Rajasthan Royals
+4830,SA Edwards,Netherlands
+4831,SA Engelbrecht,Netherlands
+4832,SA Jacobs,Guyana Amazon Warriors
+4833,SA Jumbe,Tanzania
+4834,SA Lewis,Trinbago Knight Riders
+4835,SA Mohandas,Hungary
+4836,SA Okpe,Nigeria
+4837,SA Pradhan,Singapore
+4838,SA Wijeratne,Canada
+4839,SA Yadav,India
+4840,SA van Breda,Jersey
+4841,SAR Hashimi,Brazil
+4842,SB Bangar,India
+4843,SB Dubey,Rajasthan Royals
+4844,SB Harper,Melbourne Stars
+4845,SB Jakati,Gujarat Lions
+4846,SB Joshi,Royal Challengers Bangalore
+4847,SB Keerthana,Mumbai Indians
+4848,SB Patel,Malta
+4849,SB Pokharkar,Royal Challengers Bangalore
+4850,SB Styris,New Zealand
+4851,SB Wagh,Mexico
+4852,SC Cook,South Africa
+4853,SC Ganguly,India
+4854,SC Getkate,Ireland
+4855,SC Joseph,West Indies
+4856,SC Kerrigan,England
+4857,SC Kuggeleijn,New Zealand
+4858,SC Meaker,England
+4859,SC Williams,Zimbabwe
+4860,SC van Schalkwyk,United States of America
+4861,SCG MacGill,Australia
+4862,SCJ Broad,England
+4863,SD Bahadur,Royal Challengers Bangalore
+4864,SD Chitnis,Mumbai Indians
+4865,SD Heazlett,Australia
+4866,SD Hope,West Indies
+4867,SD Lad,Mumbai Indians
+4868,SD Outerbridge,Bermuda
+4869,SD Parris,Trinbago Knight Riders
+4870,SD Parry,England
+4871,SD Robson,England
+4872,SD Udal,England
+4873,SD Valjalo,Croatia
+4874,SDJJ Dima,Mozambique
+4875,SE Aquilina,Malta
+4876,SE Bond,New Zealand
+4877,SE Findlay,West Indies
+4878,SE Gotch,Melbourne Stars
+4879,SE Marsh,Australia
+4880,SE Rutherford,West Indies
+4881,SE Thomas,Antigua Hawksbills
+4882,SF Burger,Namibia
+4883,SF Mire,Zimbabwe
+4884,SF Nhavotso,Mozambique
+4885,SF Tiai,Samoa
+4886,SFM Devine,Royal Challengers Bangalore
+4887,SFS Cheema,Austria
+4888,SG Borthwick,England
+4889,SG Diaby,Mali
+4890,SG Mangela,Uganda
+4891,SG Satghare,Gujarat Giants
+4892,SG Whittingham,Scotland
+4893,SH Johnson,Australia
+4894,SH Lewis,West Indies
+4895,SH Obed,Vanuatu
+4896,SH Venugopal,Singapore
+4897,SHA Rance,New Zealand
+4898,SHT Kandamby,Sri Lanka
+4899,SI Kamea,Papua New Guinea
+4900,SI Mahmood,England
+4901,SI de Saram,Sri Lanka
+4902,SIR Dunkley,Gujarat Giants
+4903,SJ Baard,Namibia
+4904,SJ Benn,West Indies
+4905,SJ Bryce,Delhi Capitals
+4906,SJ Cameron,Scotland
+4907,SJ Cook,England
+4908,SJ Coyte,Sydney Thunder
+4909,SJ Erwee,South Africa
+4910,SJ French,Samoa
+4911,SJ Harmison,England
+4912,SJ Hughes-Pinan,Spain
+4913,SJ Massiah,United States of America
+4914,SJ Modani,United States of America
+4915,SJ Myburgh,Netherlands
+4916,SJ Patel,Czech Republic
+4917,SJ Srivastava,Kings XI Punjab
+4918,SJ Swanepoel,Namibia
+4919,SJC Keen,Sydney Thunder
+4920,SJS Smith,Scotland
+4921,SK Atai,Papua New Guinea
+4922,SK Awiah,Ghana
+4923,SK Gedara,Sweden
+4924,SK Lahiri,Mexico
+4925,SK Patel,United States of America
+4926,SK Raina,India
+4927,SK Rasheed,Chennai Super Kings
+4928,SK Springer,West Indies
+4929,SK Trivedi,Rajasthan Royals
+4930,SK Warne,Australia
+4931,SKDT Madusanka,Seychelles
+4932,SKR Mallidi,Sweden
+4933,SKS Gill,Luxembourg
+4934,SKW Kelly,Bermuda
+4935,SL Clephane,Czech Republic
+4936,SL Malinga,Sri Lanka
+4937,SL Perera,Ghana
+4938,SL Rainbird,Hobart Hurricanes
+4939,SL Stewart,New Zealand
+4940,SL Verma,Uganda
+4941,SM Boland,Australia
+4942,SM Curran,England
+4943,SM Davies,England
+4944,SM Dhakal,Nepal
+4945,SM Elliott,Melbourne Stars
+4946,SM Ervine,Zimbabwe
+4947,SM Harwood,Australia
+4948,SM Katich,Australia
+4949,SM Meherob,Durdanto Dhaka
+4950,SM Nash,Samoa
+4951,SM Pollock,South Africa
+4952,SM Shakil,Gujarat Giants
+4953,SM Sharif,Scotland
+4954,SM Sharma,United Arab Emirates
+4955,SM Solia,Samoa
+4956,SM Tupou,Fiji
+4957,SM Warnakulasuriya,France
+4958,SM Warnapura,Sri Lanka
+4959,SM Whiteman,Perth Scorchers
+4960,SMA Priyanjan,Sri Lanka
+4961,SMHH Aung,Myanmar
+4962,SMK Waththage,Czech Republic
+4963,SMLD Samarakoon,Durdanto Dhaka
+4964,SMSM Senanayake,Sri Lanka
+4965,SN Khan,India
+4966,SN Netravalkar,United States of America
+4967,SN Pathirana,Cyprus
+4968,SN Swamy,Sweden
+4969,SN Thakur,India
+4970,SNJ O'Keefe,Australia
+4971,SO Dowrich,West Indies
+4972,SO Hetmyer,West Indies
+4973,SO Ngoche,Kenya
+4974,SO Olayinka,Nigeria
+4975,SO Tikolo,Africa XI
+4976,SP Fleming,New Zealand
+4977,SP Gauchan,Nepal
+4978,SP Gomes,Portugal
+4979,SP Goswami,Sunrisers Hyderabad
+4980,SP Guzman,Panama
+4981,SP Jackson,Kolkata Knight Riders
+4982,SP Jones,England
+4983,SP Khakurel,Nepal
+4984,SP Krishnamurthi,United States of America
+4985,SP Narine,West Indies
+4986,SP Patil,United Arab Emirates
+4987,SP Terry,Ireland
+4988,SPD Smith,Australia
+4989,SPS Shikongo,Namibia
+4990,SR Bhudia,Kenya
+4991,SR Clark,Australia
+4992,SR Giri,UP Warriorz
+4993,SR Hain,England
+4994,SR Harmer,South Africa
+4995,SR Mohan,Seychelles
+4996,SR Mukkamalla,United States of America
+4997,SR Patel,England
+4998,SR Patil,Royal Challengers Bangalore
+4999,SR Rocket,Seychelles
+5000,SR Taylor,United States of America
+5001,SR Tendulkar,India
+5002,SR Thompson,Ireland
+5003,SR Waters,Kenya
+5004,SR Watson,Australia
+5005,SR Waugh,Australia
+5006,SRMJJ Arachchilage,Cyprus
+5007,SS Agarwal,Gujarat Lions
+5008,SS Cottrell,West Indies
+5009,SS Das,India
+5010,SS Eskinazi,Perth Scorchers
+5011,SS Iyer,India
+5012,SS Kang,United Arab Emirates
+5013,SS McKechnie,Hong Kong
+5014,SS Mundhe,Pune Warriors
+5015,SS Pathirana,Sri Lanka
+5016,SS Pawar,Royal Challengers Bangalore
+5017,SS Prabhudessai,Royal Challengers Bangalore
+5018,SS Sarkar,Kolkata Knight Riders
+5019,SS Shaikh,Kolkata Knight Riders
+5020,SS Shukla,Bahrain
+5021,SS Tiwary,India
+5022,SSB Magala,South Africa
+5023,SSD Arachchige,Sri Lanka
+5024,SSJ Brooks,West Indies
+5025,SSM Stanislaus,Malta
+5026,ST Doheny,Ireland
+5027,ST Finn,England
+5028,ST Gabriel,West Indies
+5029,ST Jayasuriya,Sri Lanka
+5030,ST Yalimaiwai,Fiji
+5031,ST de Silva,Sri Lanka
+5032,STR Binny,India
+5033,STRA de Silva,Seychelles
+5034,SU Halarnkar,Costa Rica
+5035,SV Bahutule,India
+5036,SV Carlisle,Zimbabwe
+5037,SV Samson,India
+5038,SV Wiig,United States of America
+5039,SV Yashasri,UP Warriorz
+5040,SVA Karthikeyan,Romania
+5041,SVE Bharathi,Germany
+5042,SW Ambris,West Indies
+5043,SW Billings,England
+5044,SW Currie,Scotland
+5045,SW Masakadza,Zimbabwe
+5046,SW Poynter,Ireland
+5047,SW Tait,Australia
+5048,SY Nihute,Malawi
+5049,SYS Assegon,Cameroon
+5050,SZ Mulani,Mumbai Indians
+5051,SZ Thakor,UP Warriorz
+5052,SZ Vayani,Malawi
+5053,Saad Ali,Pakistan
+5054,Saad Baig,Karachi Kings
+5055,Saad Bin Zafar,Canada
+5056,Saad Khan,Saudi Arabia
+5057,Saad Masood,Pakistan
+5058,Saad Nasim,Pakistan
+5059,Sabbir Hossain,Durdanto Dhaka
+5060,Sabbir Rahman,Bangladesh
+5061,Saber Zakhil,Belgium
+5062,Sabir Ali,United Arab Emirates
+5063,Sachin Baby,Royal Challengers Bangalore
+5064,Sachin Ganpat Shinde,Serbia
+5065,Sachin Kumar,Bahrain
+5066,Sachin Mandy,Germany
+5067,Sadat Said,Hungary
+5068,Saeed Ahmed,Sweden
+5069,Saeed Ajmal,Pakistan
+5070,Saeed Anwar,Pakistan
+5071,Saeed Waqar Ali,Slovenia
+5072,Safvan Patel,Panama
+5073,Sagar Pun,Nepal
+5074,Saghar Manzoor,Croatia
+5075,Saghir Hossain,Khulna Royal Bengals
+5076,Saghir Khan,United Arab Emirates
+5077,Sagor Hossain,Czech Republic
+5078,Sahel Zadran,Austria
+5079,Sahibzada Farhan,Pakistan
+5080,Sahil Chauhan,Estonia
+5081,Sahir Naqash,Germany
+5082,Sai Hla Htwe,Myanmar
+5083,Said Hakim,Belgium
+5084,Saif Badar,Multan Sultans
+5085,Saif Hassan,Bangladesh
+5086,Saif Ullah Malik,Malaysia
+5087,Saifullah Bangash,Karachi Kings
+5088,Saim Ayub,Pakistan
+5089,Saim Hussain,Bulgaria
+5090,Sajad Ahmadzai,Belgium
+5091,Sajedul Islam,Bangladesh
+5092,Sajid Cheema,Saudi Arabia
+5093,Sajid Khan,Croatia
+5094,Sajid Khan Afridi,Greece
+5095,Sajid Liaqat,Germany
+5096,Sajid Patel,Lesotho
+5097,Sajid Safi,Belgium
+5098,Sajjad Ali,Quetta Gladiators
+5099,Sajjadul Haque,Sylhet Strikers
+5100,Saju Datta,Rangpur Riders
+5101,Sakib Hussain,Sunrisers Hyderabad
+5102,Salauddin Sakil,Dhaka Platoon
+5103,Saleem Elahi,Pakistan
+5104,Salman Butt,Pakistan
+5105,Salman Faris,United Arab Emirates
+5106,Salman Fayyaz,Lahore Qalandars
+5107,Salman Hossain,Fortune Barishal
+5108,Salman Irshad,Lahore Qalandars
+5109,Salman Mirza,Pakistan
+5110,Salman Nazar,Canada
+5111,Salman Patel,Zambia
+5112,Salvin Stanly,Cambodia
+5113,Samader Shadab,Greece
+5114,Samarth Shetty,Sweden
+5115,Sameen Gul,Peshawar Zalmi
+5116,Sameer Minhas,Islamabad United
+5117,Sameer Patel,Lesotho
+5118,Sameer Rizvi,Chennai Super Kings
+5119,Sami Aslam,Pakistan
+5120,Sami Faridi,Canada
+5121,Sami Sohail,Malawi
+5122,Sami Ullah,Romania
+5123,Samiallah Khalil,Sweden
+5124,Samiullah Khan,Pakistan
+5125,Samiullah Rahmani,Sweden
+5126,Samiullah Shenwari,Rangpur Riders
+5127,Sana Ullah,South Korea
+5128,Sandeep Goud,Oman
+5129,Sandeep Nair,Bulgaria
+5130,Sandeep Sharma,India
+5131,Sanjay Kumar,Hungary
+5132,Sanjay Kumar Ahir,Panama
+5133,Sanjit Saha,Comilla Victorians
+5134,Santiago Duggan,Argentina
+5135,Santiago Iturbe,Argentina
+5136,Sanvir Singh,Sunrisers Hyderabad
+5137,Sanwar Hossain,Bangladesh
+5138,Sapan Mehta,Finland
+5139,Saqib Ali,United Arab Emirates
+5140,Saqib Anwar,Eswatini
+5141,Saqib Naveed,Estonia
+5142,Saqib Zulfiqar,Netherlands
+5143,Saqlain Ali,Belgium
+5144,Saqlain Arshad,Qatar
+5145,Saqlain Haider,United Arab Emirates
+5146,Saqlain Mushtaq,Pakistan
+5147,Saqlain Sajib,Bangladesh
+5148,Saran Aslam,Denmark
+5149,Saran Maliwan,Thailand
+5150,Sarandeep Singh,India
+5151,Sarawut Maliwan,Thailand
+5152,Sareer Shah,Luxembourg
+5153,Sarfaraj Patel,Lesotho
+5154,Sarfaraz Ali,Bahrain
+5155,Sarfraz Ahmed,Pakistan
+5156,Sarfraz Butt,Saudi Arabia
+5157,Sathya Narayanan,Switzerland
+5158,Saud Islam,Uganda
+5159,Saud Munir,Denmark
+5160,Saud Shakeel,Pakistan
+5161,Saud Syed Iqbal Ahmad,Saudi Arabia
+5162,Saurabh Kumar,South Korea
+5163,Saurav Chauhan,Royal Challengers Bengaluru
+5164,Sayed Monib,Kuwait
+5165,Sazib Bhuiyan,Czech Republic
+5166,Sazzad Hosen,Belgium
+5167,Sedik Sahak,Sweden
+5168,Sediqullah Atal,Delhi Capitals
+5169,Seetharam Guruvayoorappan,Mexico
+5170,Sefu Athumani,Tanzania
+5171,Selim Salau,Nigeria
+5172,Serdar Burak Emir,Turkey
+5173,Shabbir Ahmed,Pakistan
+5174,Shadab Khan,Pakistan
+5175,Shadman Islam,Bangladesh
+5176,Shadnan Khan,Austria
+5177,Shafali Verma,Delhi Capitals
+5178,Shafat Ali Syed,Spain
+5179,Shafiq Jan,Oman
+5180,Shafiq Sharif,Malaysia
+5181,Shafiqul Islam,Fortune Barishal
+5182,Shafiqullah,Sylhet Thunder
+5183,Shafiqullah Ghafari,Sylhet Strikers
+5184,Shafiul Hayet,Sylhet Sunrisers
+5185,Shafiul Islam,Bangladesh
+5186,Shafiullah Zakhel,Belgium
+5187,Shafraz Jaleel,Maldives
+5188,Shagharai Sefat,Belgium
+5189,Shah Abrar Hussain,Cambodia
+5190,Shah Faisal,Oman
+5191,Shahab Alam,Nepal
+5192,Shahadat Hossain,Bangladesh
+5193,Shahbaz Ahmed,India
+5194,Shahbaz Badar,Bahrain
+5195,Shaheen Shah Afridi,Pakistan
+5196,Shaheryar Butt,Belgium
+5197,Shahid Afridi,Pakistan
+5198,Shahid Ahmadzai,Canada
+5199,Shahid Arshad,Slovenia
+5200,Shahid Aziz,Multan Sultans
+5201,Shahid Mahmood,Bahrain
+5202,Shahid Nazir,Pakistan
+5203,Shahid Wasif,Hong Kong
+5204,Shahid Yousuf,Peshawar Zalmi
+5205,Shahil Momin,Austria
+5206,Shahnawaz Dhani,Pakistan
+5207,Shahnawaz Patel,Zambia
+5208,Shahriar Hossain,Bangladesh
+5209,Shahriar Nafees,Bangladesh
+5210,Shahrukh Quddus,Kuwait
+5211,Shahzaib,Saudi Arabia
+5212,Shahzaib Hasan,Pakistan
+5213,Shahzaib Jamil,Qatar
+5214,Shahzeb Afridi,Qatar
+5215,Shahzeb Choudhry,Sweden
+5216,Shaik Basha,Tanzania
+5217,Shaiman Anwar,United Arab Emirates
+5218,Shakeel Ahmed,Oman
+5219,Shakeel Ansar,Pakistan
+5220,Shakeel Zeb,Denmark
+5221,Shakerullah Safi,Denmark
+5222,Shakib Al Hasan,Bangladesh
+5223,Shakkir Kassim,Qatar
+5224,Shamim Hossain,Bangladesh
+5225,Shamsudheen Purat,Saudi Arabia
+5226,Shamsullah Ehsan,Turkey
+5227,Shamsur Rahman,Bangladesh
+5228,Shamyl Hussain,Pakistan
+5229,Shan Masood,Pakistan
+5230,Shan Siddiqui,Gambia
+5231,Shantanu Kaveri,Mexico
+5232,Shaof Hassan,Maldives
+5233,Shapoor Zadran,Khulna Royal Bengals
+5234,Sharif Asadullah,United Arab Emirates
+5235,Sharifullah,Sylhet Sixers
+5236,Shariq Munir,Qatar
+5237,Shariz Ahmad,Netherlands
+5238,Sharjeel Khan,Pakistan
+5239,Sharveen Surendran,Malaysia
+5240,Shashank Singh,Sunrisers Hyderabad
+5241,Shashikant Laxman,Mexico
+5242,Shawaiz Irfan,Lahore Qalandars
+5243,Shayan Jahangir,United States of America
+5244,Shayan Khan,Estonia
+5245,Shehzad Gul,Multan Sultans
+5246,Shehzad Patel,Swaziland
+5247,Sheikh Rasik,Hungary
+5248,Shenjian Zheng,China
+5249,Sher Sahak,Norway
+5250,Sheraz Sheikh,Belgium
+5251,Sheraz Sirwari,Switzerland
+5252,Sherul Mehta,Belgium
+5253,Shiraz Ahmed,Sylhet Sunrisers
+5254,Shiraz Khan,Kuwait
+5255,Shivam Mavi,India
+5256,Shivam Sharma,Canada
+5257,Shivam Singh,Punjab Kings
+5258,Shivang Kumar,Sunrisers Hyderabad
+5259,Shivani Singh,Gujarat Giants
+5260,Shoaib Ahmed,Deccan Chargers
+5261,Shoaib Akhtar,Asia XI
+5262,Shoaib Ali,Saudi Arabia
+5263,Shoaib Bashir,England
+5264,Shoaib Khan,Oman
+5265,Shoaib Khan jnr,Pakistan
+5266,Shoaib Malik,Pakistan
+5267,Shoaib Rafiq,Mexico
+5268,Shohidul Islam,Bangladesh
+5269,Shoriful Islam,Bangladesh
+5270,Shubham Ranjane,United States of America
+5271,Shubman Gill,India
+5272,Shujaat Rasool,Bahrain
+5273,Shunan Ali,Maldives
+5274,Shuvagata Hom,Bangladesh
+5275,Shykat Ali,Comilla Victorians
+5276,Sidhant Singh,Singapore
+5277,Sikandar Raza,Zimbabwe
+5278,Sikander Zulfiqar,Netherlands
+5279,Sikder Billah,Bahrain
+5280,Simandeep Singh,Hong Kong
+5281,Simarjeet Singh,Chennai Super Kings
+5282,Simba Mbaki,Tanzania
+5283,Simi Singh,Ireland
+5284,Simon Shalders,Chile
+5285,Simran Shaikh,UP Warriorz
+5286,Simranjit Singh,Italy
+5287,Sinan Khan,Greece
+5288,Sirajullah Khadim,Portugal
+5289,Sivakumar,Cambodia
+5290,Skhawat Ali,Hong Kong
+5291,Sobu George,Malta
+5292,Sohag Gazi,Bangladesh
+5293,Sohaib Maqsood,Pakistan
+5294,Sohaibullah,Multan Sultans
+5295,Sohail Ahmad,Croatia
+5296,Sohail Ahmed,Bahrain
+5297,Sohail Akhtar,Lahore Qalandars
+5298,Sohail Khan,Pakistan
+5299,Sohail Tanvir,Pakistan
+5300,Sohel Ebrahim Desai,Panama
+5301,Sohel Patel,Panama
+5302,Sojib Miah,Czech Republic
+5303,Sompal Kami,Nepal
+5304,Soochan Park,South Korea
+5305,Soumya Sarkar,Bangladesh
+5306,Soyeb Pendi,Zambia
+5307,Steven Ryan Taylor,United States of America
+5308,Subashis Roy,Bangladesh
+5309,Sufiyan Muqeem,Pakistan
+5310,Sufyan Mehmood,Oman
+5311,Sufyan Yousaf,Oman
+5312,Suhail Sattar,Timor-Leste
+5313,Suhrawadi Shuvo,Bangladesh
+5314,Sukhdeep Singh,Kenya
+5315,Sukhjinder Singh,Canada
+5316,Sukhkaran Sahi,Romania
+5317,Sulaiman Ali,Bulgaria
+5318,Sulaimon Runsewe,Nigeria
+5319,Sultan Ahmed,United Arab Emirates
+5320,Suman Ghimire,Portugal
+5321,Sumit Kumar,Delhi Capitals
+5322,Sumit Singh,Finland
+5323,Sumon Khan,Bangladesh
+5324,Sunil,Cayman Islands
+5325,Sunny Gupta,Delhi Daredevils
+5326,Sunny Singh,Kings XI Punjab
+5327,Sunzamul Islam,Bangladesh
+5328,Suraj Kumar,Oman
+5329,Surinder Singh,Philippines
+5330,Surya Anand,Denmark
+5331,Surya Tamang,Nepal
+5332,Suryansh Shedge,Punjab Kings
+5333,Suyash Sharma,Kolkata Knight Riders
+5334,Swann Htet Ko Ko,Myanmar
+5335,Swapnil Singh,Kings XI Punjab
+5336,Syazrul Idrus,Malaysia
+5337,Syed Ali Gillani,Sweden
+5338,Syed Amanullah,Greece
+5339,Syed Aqeel Israr,Ghana
+5340,Syed Aziz,Malaysia
+5341,Syed Faizan Tahir,Saudi Arabia
+5342,Syed Faridoun,Melbourne Stars
+5343,Syed Haider,United Arab Emirates
+5344,Syed Hussain,Cyprus
+5345,Syed Jawad Haider,Norway
+5346,Syed Maisam Ali,Portugal
+5347,Syed Naqvi,Italy
+5348,Syed Rasel,Bangladesh
+5349,Syed Rehmatullah,Malaysia
+5350,Syed Tameem,Qatar
+5351,T Amarmend,Mongolia
+5352,T Amresh,Costa Rica
+5353,T Banton,England
+5354,T Batjargal,Mongolia
+5355,T Bavuma,South Africa
+5356,T Bharaj,Denmark
+5357,T Bhatia,Delhi Capitals
+5358,T Britton,Jersey
+5359,T Brown,Bahamas
+5360,T Bukenya,Uganda
+5361,T Caruana,Gibraltar
+5362,T Chanderpaul,West Indies
+5363,T Chopel,Bhutan
+5364,T Cross,Estonia
+5365,T Duffin,Zimbabwe
+5366,T Filer,Estonia
+5367,T Gwandu,Zimbabwe
+5368,T Henderson,South Africa
+5369,T Hewa,Cayman Islands
+5370,T Hinds,West Indies
+5371,T Horpinitch,Seychelles
+5372,T Jamtsho,Bhutan
+5373,T Kahamker,Israel
+5374,T Kaisala,Samoa
+5375,T Kaitano,Zimbabwe
+5376,T Kamungozi,Zimbabwe
+5377,T Kelly,Adelaide Strikers
+5378,T Kohler-Cadmore,Rajasthan Royals
+5379,T Kohli,Rajasthan Royals
+5380,T Langa,Vanuatu
+5381,T Lungameni,Namibia
+5382,T Makaya,Malawi
+5383,T Makoni,Zimbabwe
+5384,T Manders,Bermuda
+5385,T Martin,Luxembourg
+5386,T Maruma,Zimbabwe
+5387,T Marumani,Zimbabwe
+5388,T Mayes,Ireland
+5389,T Mishra,Kenya
+5390,T Misi,Samoa
+5391,T Mpatane,Botswana
+5392,T Mufudza,Zimbabwe
+5393,T Munyonga,Zimbabwe
+5394,T Mupariwa,Zimbabwe
+5395,T Murphy,Australia
+5396,T Musekiwa,Zimbabwe
+5397,T Muzarabani,Zimbabwe
+5398,T Natarajan,India
+5399,T Nightingale,Guernsey
+5400,T Panyangara,Zimbabwe
+5401,T Parima,Cook Islands
+5402,T Perera,Botswana
+5403,T Phaswana,Botswana
+5404,T Pullman,Jersey
+5405,T Rajiv,Seychelles
+5406,T Ramautar,Suriname
+5407,T Ritawa,Cook Islands
+5408,T Rossi,Argentina
+5409,T Sandaruwan,Romania
+5410,T Sandeep,Eswatini
+5411,T Sangha,Australia
+5412,T Shamsi,South Africa
+5413,T Shanmugam,Seychelles
+5414,T Singye,Bhutan
+5415,T Stubbs,South Africa
+5416,T Sumiya,Mongolia
+5417,T Suri,United Arab Emirates
+5418,T Taibu,Africa XI
+5419,T Takada,Japan
+5420,T Taylor,Cayman Islands
+5421,T Thushara,Sri Lanka
+5422,T Tshose,Botswana
+5423,T Tumursukh,Mongolia
+5424,T Turan,Turkey
+5425,T Ulutuna,Turkey
+5426,T Vanuarua,Cook Islands
+5427,T Vasistha,Mumbai Indians
+5428,T Wangchuk,Bhutan
+5429,T Webster,Barbados Tridents
+5430,T Westley,England
+5431,T Whiteman,Luxembourg
+5432,T Whitney,Brisbane Heat
+5433,T Wuatai,Cook Islands
+5434,T Yotharat,Thailand
+5435,T Zotos,Greece
+5436,T de Zorzi,South Africa
+5437,T van der Gugten,Netherlands
+5438,TA Blundell,New Zealand
+5439,TA Boult,New Zealand
+5440,TA Copeland,Australia
+5441,TA Dudnath,Suriname
+5442,TA Griffith,Jamaica Tallawahs
+5443,TA Imlach,West Indies
+5444,TA Khetsi,Lesotho
+5445,TA Lammonby,Hobart Hurricanes
+5446,TA Willett,St Lucia Zouks
+5447,TAM Siriwardana,Sri Lanka
+5448,TAW Patterson,Belize
+5449,TB Abell,Brisbane Heat
+5450,TB Robinson,New Zealand
+5451,TB Sole,Scotland
+5452,TB de Bruyn,South Africa
+5453,TBM de Leede,Netherlands
+5454,TC Barker,Luxembourg
+5455,TC Bastiampillai,Canada
+5456,TC Bruce,Scotland
+5457,TC Vine,Spain
+5458,TCB Fernando,Sri Lanka
+5459,TCR Kimber,Guernsey
+5460,TCW Veillard,Guernsey
+5461,TD Andrews,Adelaide Strikers
+5462,TD Astle,New Zealand
+5463,TD Chaoana,Lesotho
+5464,TD Cruickshank,Sydney Thunder
+5465,TD Paine,Australia
+5466,TE Kane,Ireland
+5467,TE Tsiga,Zimbabwe
+5468,TE Tucker,Bermuda
+5469,TF Rogers,Melbourne Stars
+5470,TF van Woerkom,Ireland
+5471,TG Gordon,Canada
+5472,TG McIntosh,New Zealand
+5473,TG Norris,Delhi Capitals
+5474,TG Southee,New Zealand
+5475,TG Thamae,Lesotho
+5476,TGJ Gruijters,Netherlands
+5477,TH David,Australia
+5478,TH Tector,Ireland
+5479,TIF Triffitt,Hobart Hurricanes
+5480,TJ Armstrong,Sydney Thunder
+5481,TJ Bishop,West Indies
+5482,TJ Dean,Melbourne Stars
+5483,TJ Draca,Italy
+5484,TJ Friend,Zimbabwe
+5485,TJ Heggelman,Netherlands
+5486,TJ Moores,Multan Sultans
+5487,TJ Murtagh,Ireland
+5488,TJ Ramphoma,Lesotho
+5489,TJ Stephenson,Belize
+5490,TJG Pringle,Netherlands
+5491,TK Canning,New Zealand
+5492,TK Curran,England
+5493,TK Joseph,Ghana
+5494,TK Lal,Czech Republic
+5495,TK Musakanda,Zimbabwe
+5496,TK Patel,United States of America
+5497,TKP Rajapaksha,Seychelles
+5498,TL Best,West Indies
+5499,TL Chatara,Zimbabwe
+5500,TL Chivanga,Zimbabwe
+5501,TL Cutler,Vanuatu
+5502,TL Lawford,Melbourne Renegades
+5503,TL Maynard,Sylhet Royals
+5504,TL Moreki,South Africa
+5505,TL O'Connell,Melbourne Stars
+5506,TL Seifert,New Zealand
+5507,TL Suman,Deccan Chargers
+5508,TL Tsolekile,South Africa
+5509,TLW Cooper,Netherlands
+5510,TM Anker,Cook Islands
+5511,TM Beaton,Melbourne Renegades
+5512,TM Dilshan,Sri Lanka
+5513,TM Dowlin,West Indies
+5514,TM Head,Australia
+5515,TM Macalou,Mali
+5516,TM McGrath,UP Warriorz
+5517,TM Odoyo,Africa XI
+5518,TM Srivastava,Kings XI Punjab
+5519,TMK Mawoyo,Zimbabwe
+5520,TN Pathan,Gujarat Giants
+5521,TN de Grooth,Netherlands
+5522,TNM Soleh,Indonesia
+5523,TO Carmichael,United States of America
+5524,TO Thilappan,Singapore
+5525,TP Allen,United States of America
+5526,TP Alsop,Brisbane Heat
+5527,TP Doropoulos,Adelaide Strikers
+5528,TP Kanwar,Gujarat Giants
+5529,TP Ludeman,Adelaide Strikers
+5530,TP Sudhindra,Deccan Chargers
+5531,TP Ura,Papua New Guinea
+5532,TP Visee,Netherlands
+5533,TP Ward,Hobart Hurricanes
+5534,TR Ambrose,England
+5535,TR Birt,Australia
+5536,TR Gripper,Zimbabwe
+5537,TR Sadhu,Delhi Capitals
+5538,TS Braat,Netherlands
+5539,TS Chisoro,Zimbabwe
+5540,TS Fray,Bermuda
+5541,TS Kamunhukamwe,Zimbabwe
+5542,TS Mills,England
+5543,TS Muyeye,Melbourne Renegades
+5544,TS Nethula,New Zealand
+5545,TS Rogers,Hobart Hurricanes
+5546,TS Roland-Jones,England
+5547,TS Waqavakatoga,Fiji
+5548,TSS Mackintosh,Scotland
+5549,TT Bresnan,England
+5550,TT Maposa,Zimbabwe
+5551,TT Samaraweera,Sri Lanka
+5552,TU Deshpande,India
+5553,TV Badri Narayanan,Costa Rica
+5554,TV Mufambisi,Zimbabwe
+5555,TV Valivarthi,Hungary
+5556,TW Dlamini,Eswatini
+5557,TW Gray,Sydney Thunder
+5558,TW Hartley,England
+5559,TW Samuels,Belize
+5560,TWM Latham,New Zealand
+5561,TZ Chataira,Zimbabwe
+5562,Tabarak Dar,Hong Kong
+5563,Tabish Khan,Pakistan
+5564,Tafseer Ali,Norway
+5565,Taher Muhammad,Slovenia
+5566,Tahjibul Islam,Durdanto Dhaka
+5567,Taibur Rahman,Khulna Titans
+5568,Taijul Islam,Bangladesh
+5569,Talha Jubair,Bangladesh
+5570,Talha Khan,Germany
+5571,Tamim Iqbal,Bangladesh
+5572,Tamoor Sajjad,Qatar
+5573,Tanbir Hayder,Bangladesh
+5574,Tanush Kotian,Rajasthan Royals
+5575,Tanveer Ahmed,Hong Kong
+5576,Tanvir Ahmed,Pakistan
+5577,Tanvir Islam,Bangladesh
+5578,Tanwir Afzal,Hong Kong
+5579,Tanzeel Sheikh,Kenya
+5580,Tanzid Hasan,Bangladesh
+5581,Tanzim Hasan Sakib,Bangladesh
+5582,Tapash Baisya,Bangladesh
+5583,Taposh Ghosh,Rangpur Riders
+5584,Taranjeet Singh,Romania
+5585,Taranjit Singh,Cyprus
+5586,Tareq Aziz,Bangladesh
+5587,Tariq Aziz,Portugal
+5588,Tarun Sharma,Mexico
+5589,Tarun Yadav,Bulgaria
+5590,Tasaduq Hussain,Sweden
+5591,Tashi Dorji,Bhutan
+5592,Tashi Phuntsho,Bhutan
+5593,Taskin Ahmed,Bangladesh
+5594,Taufeeq Umar,Pakistan
+5595,Tauqeer Hussain,Spain
+5596,Tayyab Abbas,Lahore Qalandars
+5597,Tayyab Tahir,Pakistan
+5598,Tayyeb Javed,Timor-Leste
+5599,Te Senglong,Cambodia
+5600,Tejas Baroka,Gujarat Lions
+5601,Tejwinder Singh,Cyprus
+5602,Tenjin Rabgey,Bhutan
+5603,Tenzin Wangchuk jnr,Bhutan
+5604,Thilina Silva,Seychelles
+5605,Thomas Balkin,Brisbane Heat
+5606,Thuya Aung,Myanmar
+5607,Tian Sen Qun,China
+5608,Tilak Varma,India
+5609,Tipu Sultan,Sylhet Strikers
+5610,Tofael Ahmed,Dhaka Capitals
+5611,Toqeer Ahmad,Denmark
+5612,Towfiq Khan,Chattogram Challengers
+5613,Towhid Hridoy,Bangladesh
+5614,Tshering Tashi,Bhutan
+5615,Tushar Imran,Bangladesh
+5616,U Aryaman Sunil,Singapore
+5617,U Bhagwan,Canada
+5618,U Bhatti,Canada
+5619,U Chetry,UP Warriorz
+5620,U Dorji,Bhutan
+5621,U Kaul,Kings XI Punjab
+5622,U Shahid,France
+5623,U Shantu,Portugal
+5624,U Sofi,Samoa
+5625,UA Birla,Pune Warriors
+5626,UBT Chand,Delhi Daredevils
+5627,UDU Chandana,Sri Lanka
+5628,UKPW Kumaranayaka,Kuwait
+5629,UNGB Thenannahelage,Czech Republic
+5630,US Hathinjar,Cambodia
+5631,UT Khawaja,Australia
+5632,UT Yadav,India
+5633,UWMBCA Welegedara,Sri Lanka
+5634,Ubaid Minhas,Bahrain
+5635,Ubaid Shah,Islamabad United
+5636,Ugyen Dorji,Bhutan
+5637,Umaid Asif,Peshawar Zalmi
+5638,Umair Ali,United Arab Emirates
+5639,Umair Masood,Lahore Qalandars
+5640,Umair Qasim,Swaziland
+5641,Umair Sharif,Saudi Arabia
+5642,Umair Tariq,Austria
+5643,Umar Adam,Maldives
+5644,Umar Akmal,Pakistan
+5645,Umar Amin,Pakistan
+5646,Umar Gul,Pakistan
+5647,Umar Nawaz,Sweden
+5648,Umar Siddiq,Multan Sultans
+5649,Umer Imtiaz,Bahrain
+5650,Umer Khan,Karachi Kings
+5651,Umran Malik,India
+5652,Urvil Patel,Chennai Super Kings
+5653,Usama Mir,Pakistan
+5654,Usman Ali,Saudi Arabia
+5655,Usman Arif,Norway
+5656,Usman Ghani,Dhaka Dominators
+5657,Usman Khalid,Saudi Arabia
+5658,Usman Khan,Pakistan
+5659,Usman Khan (2),Pakistan
+5660,Usman Limbada,Canada
+5661,Usman Mushtaq,United Arab Emirates
+5662,Usman Najeeb,Saudi Arabia
+5663,Usman Patel,Kuwait
+5664,Usman Qadir,Pakistan
+5665,Usman Rafiq,United States of America
+5666,Usman Salahuddin,Pakistan
+5667,Usman Shinwari,Pakistan
+5668,Usman Tariq,Pakistan
+5669,Usman Waheed,Kuwait
+5670,Utkarsh Jain,Cambodia
+5671,Utkarsh Srivastava,United States of America
+5672,Uzair Amir,Qatar
+5673,V Aravind,United Arab Emirates
+5674,V Aritharan,Germany
+5675,V Ateak,Ghana
+5676,V Balakrishnan,Botswana
+5677,V Baskaran,Singapore
+5678,V Dhaniram,Cayman Islands
+5679,V Ganesan,Germany
+5680,V Hampihallikar,Singapore
+5681,V Hettiarachchi,Estonia
+5682,V Hirlal,Suriname
+5683,V Hristov,Bulgaria
+5684,V Jagannivasan,Czech Republic
+5685,V Jatinder Kumar,Germany
+5686,V Jayant,Lesotho
+5687,V Kaverappa,Punjab Kings
+5688,V Khanduri,Cyprus
+5689,V Kohli,India
+5690,V Krishnamurthy,Gujarat Giants
+5691,V Marghashayam,Czech Republic
+5692,V Masekesa,Zimbabwe
+5693,V Mbazo,Botswana
+5694,V Mitari,Rwanda
+5695,V Nagpaul,Singapore
+5696,V Nigam,Delhi Capitals
+5697,V Permaul,West Indies
+5698,V Pratap Singh,Deccan Chargers
+5699,V Pulibanti,Croatia
+5700,V Puthur,Mumbai Indians
+5701,V Rathinasamy,Croatia
+5702,V Ravindran,Hungary
+5703,V Saini,Romania
+5704,V Sehwag,India
+5705,V Shankar,India
+5706,V Shaw,Suriname
+5707,V Shetty,United Arab Emirates
+5708,V Shukla,Oman
+5709,V Sibanda,Zimbabwe
+5710,V Sukumaran,United Arab Emirates
+5711,V Suryavanshi,Rajasthan Royals
+5712,V Vijh,Luxembourg
+5713,V Viyaskanth,Sri Lanka
+5714,V Zanko,Croatia
+5715,V Zimonjic,Serbia
+5716,VA Singh,West Indies
+5717,VAB Tewarie,Netherlands
+5718,VB Chikkannaiah,Germany
+5719,VB van Jaarsveld,South Africa
+5720,VC Ahir,Panama
+5721,VC Drakes,West Indies
+5722,VD Adewoye,Nigeria
+5723,VD Philander,South Africa
+5724,VE Tembo,Mozambique
+5725,VF Bomnyuy,Cameroon
+5726,VG Arora,Punjab Kings
+5727,VH Zol,Royal Challengers Bangalore
+5728,VJ Joshitha,Royal Challengers Bengaluru
+5729,VJ Kingma,Netherlands
+5730,VL Mukesh,Seychelles
+5731,VM Nyauchi,Zimbabwe
+5732,VM Vaghela,United States of America
+5733,VN Veetil,Qatar
+5734,VP Thamotharam,Malta
+5735,VR Aaron,India
+5736,VR Iyer,India
+5737,VRB Arachchige,Malta
+5738,VRCF Poubel,Brazil
+5739,VRV Singh,India
+5740,VS Malik,Kings XI Punjab
+5741,VS Padhaal,Finland
+5742,VS Solanki,England
+5743,VS Wategaonkar,Oman
+5744,VS Yeligati,Mumbai Indians
+5745,VV Morea,Papua New Guinea
+5746,VVS Laxman,India
+5747,VY Mahesh,Delhi Daredevils
+5748,Vaishnavi Sharma,Mumbai Indians
+5749,Vichanath Singh,Thailand
+5750,Vijaykumar Vyshak,Royal Challengers Bangalore
+5751,Vikramjit Singh,Netherlands
+5752,Vimal Kumar,Philippines
+5753,Vinay Iyer,Japan
+5754,Vinay Ravi,Norway
+5755,Vineet Shah,Indonesia
+5756,Vinod Kumar,Spain
+5757,Virandeep Singh,Malaysia
+5758,Virat Singh,Sunrisers Hyderabad
+5759,Virendra Kumar,Israel
+5760,Virk Ali,France
+5761,Vishal Sharma,Norway
+5762,Vishaul Singh,Suriname
+5763,Vishil Patel,Kenya
+5764,Vishnu Vinod,Royal Challengers Bangalore
+5765,Vivek Dixit,Luxembourg
+5766,Vivrant Sharma,Sunrisers Hyderabad
+5767,Vraj Patel,Kenya
+5768,W Barresi,Netherlands
+5769,W Behr,Germany
+5770,W Boshoff,Sweden
+5771,W Dlamini,Eswatini
+5772,W Jackson,Malawi
+5773,W Jaffer,India
+5774,W Kokaua,Cook Islands
+5775,W Madhevere,Zimbabwe
+5776,W Maximo,Brazil
+5777,W McClintock,Ireland
+5778,W Miyauchi,Japan
+5779,W Mwayenga,Zimbabwe
+5780,W Nalisa,Vanuatu
+5781,W Ngowhuad,Thailand
+5782,W Niyitanga,Rwanda
+5783,W O'Rourke,New Zealand
+5784,W Parker,Hobart Hurricanes
+5785,W Peatfield,Guernsey
+5786,W Perchard,Jersey
+5787,W Prestwidge,Brisbane Heat
+5788,W Sanders,Hobart Hurricanes
+5789,W Sutherland,Australia
+5790,W Uisuk,Thailand
+5791,W Viraliliu,Vanuatu
+5792,W Wotu,Vanuatu
+5793,WA Agar,Australia
+5794,WA Mota,Kings XI Punjab
+5795,WA Simpson,Singapore
+5796,WA Young,New Zealand
+5797,WAE Burton,Serbia
+5798,WB Rankin,Ireland
+5799,WCA Ganegama,Sri Lanka
+5800,WCF Smeed,Quetta Gladiators
+5801,WD Balaji Rao,Canada
+5802,WD Parnell,South Africa
+5803,WD Sheridan,Melbourne Renegades
+5804,WER Somerville,New Zealand
+5805,WF Stelling,Netherlands
+5806,WG Bosisto,Perth Scorchers
+5807,WG Jacks,England
+5808,WIA Fernando,Sri Lanka
+5809,WJ Cope,Luxembourg
+5810,WJ Lubbe,South Africa
+5811,WJ Malinda,Maldives
+5812,WJ Pucovski,Australia
+5813,WJR Robertson,Jersey
+5814,WK Bitis,Croatia
+5815,WK McCallan,Ireland
+5816,WKD Perkins,West Indies
+5817,WL Madsen,Italy
+5818,WP Masakadza,Zimbabwe
+5819,WP Myburgh,Namibia
+5820,WP Saha,India
+5821,WPUJC Vaas,Sri Lanka
+5822,WRS de Silva,Sri Lanka
+5823,WS Jayantha,Sri Lanka
+5824,WSLK Narayana,Israel
+5825,WT Gavera,Papua New Guinea
+5826,WT Mashinge,Zimbabwe
+5827,WT Mubayiwa,Zimbabwe
+5828,WTS Porterfield,Ireland
+5829,WU Tharanga,Sri Lanka
+5830,WW Hinds,West Indies
+5831,Wahab Riaz,Pakistan
+5832,Waheed Ahmed,United Arab Emirates
+5833,Wahidullah Sahak,Norway
+5834,Wahidullah Usmani,Belgium
+5835,Waji Ul Hassan,Saudi Arabia
+5836,Waleed Rana,Italy
+5837,Waleed Waqar,Bulgaria
+5838,Walid Ghauri,Norway
+5839,Walid Sahibzada,Belgium
+5840,Wang Liuyang,China
+5841,Wang Qi,China
+5842,Waqar Abbasi,Romania
+5843,Waqar Ali,Cyprus
+5844,Waqar Khan,Slovenia
+5845,Waqar Salamkheil,Hobart Hurricanes
+5846,Waqar Ul Hassan,Saudi Arabia
+5847,Waqar Younis,Pakistan
+5848,Waqar Zalmai,Austria
+5849,Waqas Ahmad,Malta
+5850,Waqas Ali,Belgium
+5851,Waqas Barkat,Hong Kong
+5852,Waqas Haider,Sweden
+5853,Waqas Khan,Hong Kong
+5854,Waqas Maqsood,Pakistan
+5855,Waseem Muhammad,United Arab Emirates
+5856,Waseem Yaqoob,Lesotho
+5857,Waseeq Ahmed,Bahrain
+5858,Washeem Abbas,Malta
+5859,Washington Sundar,India
+5860,Wasim Akram,Pakistan
+5861,Wasim Ali,Oman
+5862,Wei Guo Lei,China
+5863,X Thalaivan Sargunam,Sunrisers Hyderabad
+5864,XA Crone,Melbourne Stars
+5865,XC Bartlett,Australia
+5866,XJ Doherty,Australia
+5867,XM Marshall,United States of America
+5868,XSD Smith,Suriname
+5869,Xie Kunkun,China
+5870,Y Cariah,West Indies
+5871,Y Divekar,Israel
+5872,Y Gnaneswara Rao,Kochi Tuskers Kerala
+5873,Y Jalloh,Sierra Leone
+5874,Y Jasti,Mexico
+5875,Y Konate,Mali
+5876,Y Nagar,Delhi Daredevils
+5877,Y Naing Tun,Myanmar
+5878,Y Prithvi Raj,Kolkata Knight Riders
+5879,Y Punja,United Arab Emirates
+5880,Y Saranonnakkun,Thailand
+5881,Y Venugopal Rao,India
+5882,YA Abdulla,South Africa
+5883,YBK Jaiswal,India
+5884,YC Latouche,Costa Rica
+5885,YH Bhatia,Mumbai Indians
+5886,YI Kachhalia,Panama
+5887,YJC Altamirano,Costa Rica
+5888,YK Abovat,Panama
+5889,YK Pathan,India
+5890,YK Rai,United Arab Emirates
+5891,YM Nkanya,Tanzania
+5892,YP Dayal,Suriname
+5893,YS Chahal,India
+5894,YS Chauhan,Sweden
+5895,YS Samra,Canada
+5896,YSD Seneveratne,Cayman Islands
+5897,YV Dhull,Delhi Capitals
+5898,YV Takawale,Mumbai Indians
+5899,YYM Jakda,Lesotho
+5900,Yadwinder Singh,Hungary
+5901,Yahya Suhail,Timor-Leste
+5902,Yair Nagavkar,Israel
+5903,Yasar Haroon,Brazil
+5904,Yash Dayal,Gujarat Titans
+5905,Yash Singh,Malta
+5906,Yash Talati,Kenya
+5907,Yash Thakur,Lucknow Super Giants
+5908,Yashpal Singh,Kolkata Knight Riders
+5909,Yasim Murtaza,Hong Kong
+5910,Yasin Patel,Kuwait
+5911,Yasir Ali,Spain
+5912,Yasir Ali Chowdhury,Bangladesh
+5913,Yasir Arafat,Pakistan
+5914,Yasir Hameed,Pakistan
+5915,Yasir Khan,Peshawar Zalmi
+5916,Yasir Mehmood,Cyprus
+5917,Yasir Mohammad,United States of America
+5918,Yasir Shah,Pakistan
+5919,Yasser Nazir,Bahrain
+5920,Ye Ko Ko,Myanmar
+5921,Yin Chenhao,China
+5922,Yogev Nagavkar,Israel
+5923,Younis Khan,Pakistan
+5924,Yousef Shadzehisarjou,Iran
+5925,Yousif Wali,Bahrain
+5926,Yousuf Ali,Qatar
+5927,Yousuf Youhana,Pakistan
+5928,Yudhvir Singh,Lucknow Super Giants
+5929,Yusuf Bhoola,Panama
+5930,Yusuf Ebrahim,Panama
+5931,Yuvraj Singh,India
+5932,Yves Cyusa,Rwanda
+5933,Z Abbasi,Botswana
+5934,Z Arinaitwe,Uganda
+5935,Z Bimenyimana,Rwanda
+5936,Z Burgess,Bermuda
+5937,Z Crawley,England
+5938,Z Evans,Melbourne Renegades
+5939,Z Groenewald,Namibia
+5940,Z Hoque,Thailand
+5941,Z Khan,India
+5942,Z Makadji,Mali
+5943,Z McLaughlin,Cayman Islands
+5944,Z Motara,West Indies
+5945,Z Shurentsetseg,Mongolia
+5946,Z Simpson,Gibraltar
+5947,Z de Bruyn,South Africa
+5948,ZB Lion-Cachet,Netherlands
+5949,ZE Green,Namibia
+5950,ZE Matsinhe,Mozambique
+5951,ZE Surkari,Canada
+5952,ZGF Foulkes,New Zealand
+5953,ZK Shem,Vanuatu
+5954,ZM Tribe,Jersey
+5955,ZR Jaboneke,Tanzania
+5956,ZS Ansari,England
+5957,ZXM Vukusic,Croatia
+5958,Zabiullah Zahid,Sweden
+5959,Zada Sher,France
+5960,Zafar Gohar,Pakistan
+5961,Zafer Durmaz,Turkey
+5962,Zaheer Ibrahim,Qatar
+5963,Zaheer Maqsood,United Arab Emirates
+5964,Zaheer Zahiri,France
+5965,Zahid Abbas,Kenya
+5966,Zahid Ali,United Arab Emirates
+5967,Zahid Hussain,Canada
+5968,Zahid Khan,Sierra Leone
+5969,Zahid Mahmood,Pakistan
+5970,Zahid Shah,United Arab Emirates
+5971,Zahid Zadran,Germany
+5972,Zahiduzzaman,Dhaka Dominators
+5973,Zahir Khan,Brisbane Heat
+5974,Zahir Mohammed,Hungary
+5975,Zahoor Ahmad,Saudi Arabia
+5976,Zahoor Khan,United Arab Emirates
+5977,Zaid Ahmad,Sweden
+5978,Zaid Soulat,Bulgaria
+5979,Zain Abbas,Hong Kong
+5980,Zain Ahmad,France
+5981,Zain Ali,Italy
+5982,Zain Asif,Bulgaria
+5983,Zain Muzaffar,Sweden
+5984,Zain Ul Abidin,Saudi Arabia
+5985,Zaker Taqawi,Sweden
+5986,Zaki Ul Hassan,Belgium
+5987,Zakir Hasan,Bangladesh
+5988,Zaman Khan,Pakistan
+5989,Zameer Khan,Denmark
+5990,Zawad Abrar,Sylhet Strikers
+5991,Zawar Farid,United Arab Emirates
+5992,Zeerak Chughtai,Bulgaria
+5993,Zeeshan Abbas,Bahrain
+5994,Zeeshan Ali,Hong Kong
+5995,Zeeshan Ansari,Sunrisers Hyderabad
+5996,Zeeshan Ashraf,Multan Sultans
+5997,Zeeshan Goraya,Austria
+5998,Zeeshan Haider,Qatar
+5999,Zeeshan Khan,Malta
+6000,Zeeshan Kukikhel,Hungary
+6001,Zeeshan Maqsood,Oman
+6002,Zeeshan Sarwar,Cyprus
+6003,Zeeshan Siddiqi,Canada
+6004,Zeeshan Siddiqui,Oman
+6005,Zeeshan Zameer,Islamabad United
+6006,Zeshan Arif,Austria
+6007,Zhao Tianle,China
+6008,Zhuang Zelin,China
+6009,Zia-ul-Haq,Lahore Qalandars
+6010,Zia-ur-Rehman,Chattogram Challengers
+6011,Ziaur Rahman,Bangladesh
+6012,Ziaur Rehman,Finland
+6013,Ziaurahman Shinwari,Austria
+6014,Zikria Islam,Oman
+6015,Zishan Shah,Denmark
+6016,Zohaib Khan,Islamabad United
+6017,Zohaib Sarwar,Portugal
+6018,Zong Yuechao,China
+6019,Zou Kui,China
+6020,Zubaid Akbari,Chittagong Kings
+6021,Zubaidi Zulkifle,Malaysia
+6022,Zubair Ali,Qatar
+6023,Zubayr Hamza,South Africa
+6024,Zuber Sunasara,Saudi Arabia
+6025,Zuhaib Zubair,United Arab Emirates
+6026,Zuhair Muhammad,Saudi Arabia
+6027,Zulfiqar Babar,Pakistan
+6028,Zulqarnain Haider,Pakistan
+6029,Zwe Htet Paing,Myanmar
