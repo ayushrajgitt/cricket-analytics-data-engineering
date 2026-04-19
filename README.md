@@ -74,7 +74,7 @@ Streamlit Dashboard
 
 ### 📈 Dashboard
 
-![Dashboard Home](screenshots/dashboard/dashboard_home1.png)
+![Dashboard Home](screenshots/dashboard/dashboard_home.png)
 ![Dashboard Filtered](screenshots/dashboard/dashboard_filtered_testmatch.png)
 
 ---
