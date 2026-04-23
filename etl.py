@@ -12,13 +12,13 @@
 ║                                                                  ║
 ║   Expected row counts (all formats combined):                   ║
 ║     matches      :  ~21,000+  (all formats)                     ║
-║     deliveries   : ~1,200,000+ (ball-by-ball — the fact table)  ║
+║     deliveries   : ~4,500,000+ (ball-by-ball — the fact table)  ║
 ║     players      :  ~5,000+                                     ║
 ║     teams        :  ~400+                                       ║
 ║     venues       :  ~200+                                       ║
 ║                                                                  ║
-║   Run: python etl.py                                            ║
-║   Deps: pip install requests tqdm sqlalchemy mysql-connector-python pandas ║
+║                                                                  ║
+║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 """
 
@@ -645,12 +645,6 @@ def main():
     print(f"  Grand total rows  : {grand_total:,}")
     print(SEP)
     print("""
-  NEXT STEPS:
-  1. Open MySQL Workbench → Database → Reverse Engineer (for ER diagram)
-  2. Run: jupyter notebook notebooks/notebook.ipynb
-  3. Run: streamlit run dashboard/dashboard.py
-    """)
-
-
+ 
 if __name__ == "__main__":
     main()
